@@ -7,7 +7,7 @@ permalink: /genossenschaft/
 
 # Was ist {{site.info.shortname}}?
 
-- Eine Genossenschaft, die naturbelassene Milchprodukte handwerklich
+- Eine Aktiengesellschaft, die naturbelassene Milchprodukte handwerklich
 herstellt und diese in wöchentlichen Milchabos in der Region Zürich an
 Abonnent_innen verteilt.
 
