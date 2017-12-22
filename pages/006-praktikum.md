@@ -11,7 +11,7 @@ published: true # SOURCE: http://stackoverflow.com/a/14440927/5764181
 Die Zusammenarbeit mit Praktikantinnen und Praktikanten hat sich sehr bewährt. Das basimilch
 Hofkäsereiteams freut sich regelmässig interessierte Leute in die Arbeit mit einzuspannen.
 
-Im 2018 bieten wir regelmässig Praktikumsplätze an. Pensum 2--3 Tage
+Im 2018 bieten wir übers ganze Jahr Praktikumsplätze an. Pensum 2--3 Tage
 pro Woche, flexibel (7-Tage-Betrieb), Zeitdauer ca. 3 Monate.
 
 Wir bieten dir Einblick, handwerkliche Arbeit und Wissensvermittlung in unserer
