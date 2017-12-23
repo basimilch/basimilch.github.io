@@ -1,6 +1,6 @@
 ---
 title: Stierenportrait Thamos
-header-image: photos/20171212_thamos1.jpeg 
+header-image: photos/20171212_thamos1.jpg 
 tags: [Kühe, Portrait, Im Basi]
 ---
 
