@@ -13,6 +13,7 @@ Jungstier zu erwerben. Gesagt getan: der Stier namens Thomas wurde am übernäch
 Ein schönes Tier mit einer gerader Rückenlinie, gutem Fundament, gutem Wuchs 
 und Genetik, aus einer bewährten Mutterfamilie. Das Einzige was nicht ganz 
 passt war der Name. So tauften wir ihn kurzerhand in Thamos um.
+
 Der noch sehr junge Thamos machte nun seine ersten Erfahrungen mit den schönen 
 Basimilchkühen. Im ersten Monat, leicht überfordert, besprang er die brünstigen 
 Kandidatinnen von hinten wie von vorne; wobei die Erfolgsquote gering war, da 
