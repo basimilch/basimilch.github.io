@@ -5,14 +5,14 @@ tags: [Kühe, Portrait, Im Basi]
 ---
 
 Vergangenen Herbst wurde unsere Herde mit einem jungen Stier beglückt. 
-Aufgrund der im in dieser Jahreszeit auftretenden Fruchtbarkeitsproblemen 
-(zuviel eiweissreiches Futter, evt. heisse Sommertage, etc. als Ursache) 
+Aufgrund der in dieser Jahreszeit auftretenden Fruchtbarkeitsprobleme 
+(zuviel eiweissreiches Futter, evt. heisse Sommertage, etc. als Ursache), 
 hat der Hof spontan entschieden auf dem berühmten Stierenmarkt in Zug einen 
 Jungstier zu erwerben. Gesagt getan: der Stier namens Thomas wurde am übernächsten Tag geliefert. 
 
 Ein schönes Tier mit einer gerader Rückenlinie, gutem Fundament, gutem Wuchs 
 und Genetik, aus einer bewährten Mutterfamilie. Das Einzige was nicht ganz 
-passt war der Name. So tauften wir ihn kurzerhand in Thamos um.
+passte war der Name. So tauften wir ihn kurzerhand in Thamos um.
 
 Der noch sehr junge Thamos machte nun seine ersten Erfahrungen mit den schönen 
 Basimilchkühen. Im ersten Monat, leicht überfordert, besprang er die brünstigen 
@@ -40,12 +40,12 @@ erproben. Der Mensch sollte mental stark und bestimmt auftreten, um den
 Stier beispielsweise in die richtige Richtung zu dirigieren; ansonsten 
 aber das Tier mehrheitlich in Ruhe lassen. Dieser weiss, dass er Zeit mit 
 seinen jeweils brünstigen Kühen verbringen darf und dann wieder zurück an 
-seine Platz muss.
-
-Auch sollte man eine Stier, auch einen jungen, nie am Kopf streicheln. Das 
+seine Platz muss. Auch sollte man eine Stier, auch einen jungen, nie am Kopf streicheln. Das 
 Reiben des Kopfes führt schnell zum Drücken und dann zum Kräfteringen. Ob mit 
 einem 500 kg oder 1400 kg schweren Stier: der Mensch macht in dieser Situation 
 ungeschützt zweiter.
+
+Wir freuen uns und sind gespannt auf den Nachwuchs vom Basihof!
 
 {% include post_image_full_width.html image="20171212_thamos1" caption="" %}
 {% include post_image_full_width.html image="20171212_thamos2" caption="" %}
