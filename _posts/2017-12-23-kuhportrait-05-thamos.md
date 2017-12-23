@@ -45,7 +45,7 @@ Reiben des Kopfes führt schnell zum Drücken und dann zum Kräfteringen. Ob mit
 einem 500 kg oder 1400 kg schweren Stier: der Mensch macht in dieser Situation 
 ungeschützt zweiter.
 
-Wir freuen uns und sind gespannt auf den Nachwuchs vom Basihof!
+Wir freuen uns und sind gespannt auf den zukünftigen Nachwuchs vom Basihof!
 
 {% include post_image_full_width.html image="20171212_thamos1" caption="" %}
 {% include post_image_full_width.html image="20171212_thamos2" caption="" %}
