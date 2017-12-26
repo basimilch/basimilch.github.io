@@ -64,6 +64,51 @@ equal to the linux timestamp of the building time, as described [in this article
 [`css/custom.css`]: css/custom.css
 [in this article]: http://tkareine.org/blog/2013/02/22/asset-bundling-with-jekyll/
 
+### File structure
+
+#### Pages
+
+The _order_ of the pages is automatically determined by the alphabetical order
+of the files in the folder [`/pages`]. Therefore the filenames are prefixed by a
+3 digits number: main pages are numbered with `0x0` and their subpages with
+`0xy`.
+
+The _hierarchy_ of the pages is automatically determined by the `permalink`
+field in the [front matter] of each file in the folder [`/pages`].
+
+For example, the page defined by the file [`pages/011-statuten.md`], with
+`permalink: /genossenschaft/statuten/` in the [front matter], will be under the
+page defined by the file  [`pages/010-die-genossenschaft.md`] with
+`permalink: /genossenschaft/`.
+
+Additionally, main pages might define a `section-group: main` field to be placed
+in the top menu section, like e.g. [`pages/010-die-genossenschaft.md`].
+
+[`/pages`]: https://github.com/basimilch/basimilch.github.io/tree/master/pages
+[front matter]: https://jekyllrb.com/docs/frontmatter/
+[`pages/011-statuten.md`]: https://raw.githubusercontent.com/basimilch/basimilch.github.io/32b59d5/pages/011-statuten.md
+[`pages/010-die-genossenschaft.md`]: https://raw.githubusercontent.com/basimilch/basimilch.github.io/32b59d5/pages/010-die-genossenschaft.md
+
+#### Events
+
+The events page in [`basimil.ch/veranstaltungen`] is defined by the file
+[`pages/040-veranstaltungen.md`] using the event data automatically extracted
+from the file [`_data/events.yml`]. Therefore, to add a new event, only the file
+[`_data/events.yml`] has to be modified to add the event information at the
+bottom, using the fields of a previous event as a template.
+
+[`basimil.ch/veranstaltungen`]: http://basimil.ch/veranstaltungen/
+[`pages/040-veranstaltungen.md`]: https://github.com/basimilch/basimilch.github.io/blob/master/pages/040-veranstaltungen.md
+[`_data/events.yml`]: https://github.com/basimilch/basimilch.github.io/blob/master/_data/events.yml
+
+#### Styling
+
+The styling of the HTML is written in the file [`css/custom.scss`]. Note that
+the file is not written in [plain CSS] but in [SCSS] (aka SASS).
+
+[`css/custom.scss`]: https://github.com/basimilch/basimilch.github.io/blob/master/css/custom.scss
+[plain CSS]: https://www.w3schools.com/Css/
+[SCSS]: http://sass-lang.com/guide
 
 ### Documentation and references
 
