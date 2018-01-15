@@ -5,15 +5,14 @@ permalink: /
 
 <div class="alert alert-success" role="alert" data-href="/genossenschaft/#abo-bestellen">
   <div style="font-weight:bold;">
-    Freie ortoloco Gemüseabos für's 2018
+    Neuanmeldungen per Anfang März 2018
   </div>
-  Die grossartige Gartenkooperative ortoloco hat noch wenige Abos für 2018 zu
-  vergeben! Wer im Raum Zürich/Dietikon wohnt und Lust hat auf Gemüse aus
-  solidarischer Landwirtschaft kann sich jetzt anmelden. Mehr Infos:
-  <a href="http://www.ortoloco.ch/">ortoloco.ch</a>
+
+  Seit Januar werden 220 Haushalte mit Abos beliefert und geniessen insgesamt 1358
+  Liter Milchprodukte pro Woche von der kooperativen Käserei basimilch.
+  Neuanmeldungen für basimilch Abos sind
+  möglich per Anfang März 2018.
 </div>
-
-
 
 Die **{{site.info.name}}** ist eine kooperative Käserei auf dem
 Hof Im Basi in Dietikon. Die **Biomilch** der behornten Kühe wird in der
