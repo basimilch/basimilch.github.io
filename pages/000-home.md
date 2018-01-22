@@ -8,7 +8,7 @@ permalink: /
     Freie Gemüseabos 2018 vom Pflanzplatz Dunkelhölzli
   </div>
 
- Wunderbares Gemüse produziert auf städtischem Boden in Züri: das gibt es nur vom Pflanzplatz Dunkelhölzli. Fürs 2018 hat es noch Abos frei. Wir können die sympathisch unkomplizierte Anbaugemeinschaft wärmstens empfehlen. Hier geht's zu Infos und Anmeldung: http://dunkelhoelzli.ch/.
+ Wunderbares Gemüse produziert auf städtischem Boden in Züri: das gibt es nur vom Pflanzplatz Dunkelhölzli. Für's 2018 hat es noch freie Abos. Wir können die sympathisch unkomplizierte Anbaugemeinschaft wärmstens empfehlen. Hier geht's zu Infos und Anmeldung: http://dunkelhoelzli.ch/.
  
 </div>
 
