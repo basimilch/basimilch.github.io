@@ -25,8 +25,8 @@ Um ein Abo zu bestellen, musst du Genossenschafter_in bei
 {{site.info.shortname}} werden und mindestens zwei Anteilscheine (pro
 Abo) erwerben.
 
-**Es gibt noch freie Plätze ab Januar 2018. Stichtag für Neuanmeldungen
-ist der 15. Dezember 2017.** Die neuen Abos werden nach Anmeldedatum
+**Es gibt noch freie Plätze ab März 2018. Stichtag für Neuanmeldungen
+ist der 15. Februar 2018.** Die neuen Abos werden nach Anmeldedatum
 vergeben und es gilt „Es hät solangs hät“.
 
 ## Genosschenschafter_in werden
@@ -41,8 +41,8 @@ Um Genosschenschafter_in zu werden, musst du dich mit den
 
 ## Mache Werbung für uns!
 
-Um die Erweiterung bis Anfang 2017 realisieren zu können, benötigen wir
-zusätzliche Abonnent_innen. Gerne darfst du deinem Freundes- und Bekanntenkreis,
+Um auf starken Füssen zu stehen, nehmen wir immer noch gerne
+zusätzliche Abonnent_innen auf. Gerne darfst du deinem Freundes- und Bekanntenkreis,
 deinen Nachbarn und Arbeitskollegen von uns erzählen.
 
 ## Werde Gönner_in
