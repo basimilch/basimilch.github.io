@@ -3,7 +3,7 @@ title: Willkommen!
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href="/genossenschaft/#abo-bestellen">
+<div class="alert alert-success" role="alert" data-href=" http://dunkelhoelzli.ch">
   <div style="font-weight:bold;">
     Freie Gemüseabos 2018 vom Pflanzplatz Dunkelhölzli
   </div>
