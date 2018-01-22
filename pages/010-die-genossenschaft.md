@@ -41,8 +41,8 @@ Um Genosschenschafter_in zu werden, musst du dich mit den
 
 ## Mache Werbung für uns!
 
-Um die Erweiterung bis Anfang 2017 realisieren zu können, benötigen wir
-zusätzliche Abonnent_innen. Gerne darfst du deinem Freundes- und Bekanntenkreis,
+Um auf starken Füssen zu stehen, nehmen wir immer noch gerne
+zusätzliche Abonnent_innen auf. Gerne darfst du deinem Freundes- und Bekanntenkreis,
 deinen Nachbarn und Arbeitskollegen von uns erzählen.
 
 ## Werde Gönner_in
