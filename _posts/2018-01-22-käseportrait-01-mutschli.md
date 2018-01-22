@@ -1,6 +1,6 @@
 ---
 title: Käseportrait 1 - Mutschli
-header-image: posts/Mutschli_allein_IMG_8985.jpg
+header-image: posts/2018-01-22-Käseportrait-01-Mutschli/Mutschli_allein_IMG_8985.jpg
 tags: [Käse, Portrait, Im Basi]
 ---
 
@@ -18,9 +18,11 @@ dass man ziemlich viel Zeit im Keller beim Schmieren verbringt – oft sind es z
 Das Basi-Mutschli ist mild und cremig im Geschmack, der Lieblingskäse vieler Kinder. 
 Es gibt das Mutschli nature, mit feurigen Chiliflocken, aromatischem Kümmel, bald auch mit nussigen Bockshornkleesamen oder Rosmarin.
 
-Tipp: Auch das Mutschli lässt sich gut im Racletteöfeli schmelzen!
+Tipp: Das Mutschli lässt sich gut im Racletteöfeli schmelzen!
+
+Fotos von Cecile Weibel (www.cecileweibel.ch):
 
 
-{% include post_image_full_width.html image="xx" caption="" %}
-{% include post_image_full_width.html image="xx" caption="" %}
-{% include post_image_full_width.html image="xx" caption="" %}
+{% include post_image_full_width.html image="Mutschli_Ecken_IMG_9209.JPG" caption="" %}
+{% include post_image_full_width.html image="Mutschli_Turm_IMG_8964.JPG" caption="" %}
+{% include post_image_full_width.html image="Mutschli_Bretter_IMG_8948.JPG" caption="" %}
