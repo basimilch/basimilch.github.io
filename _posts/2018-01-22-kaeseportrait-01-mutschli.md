@@ -1,8 +1,3 @@
-
-<div class="alert alert-success" role="alert" data-href=" www.cecileweibel.ch">
-  </div>
-
- 
 ---
 title: Käseportrait 1 - Mutschli
 header-image: posts/2018-01-22-kaeseportrait-01-mutschli/Mutschli_Ecken_IMG_8985.jpg
