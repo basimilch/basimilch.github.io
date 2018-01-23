@@ -1,6 +1,11 @@
+
+<div class="alert alert-success" role="alert" data-href=" www.cecileweibel.ch">
+  </div>
+
+ 
 ---
 title: Käseportrait 1 - Mutschli
-header-image: posts/2018-01-22-kaeseportrait-01-mutschli/Mutschli_allein_IMG_8985.jpg
+header-image: posts/2018-01-22-kaeseportrait-01-mutschli/Mutschli_Ecken_IMG_8985.jpg
 tags: [Käse, Portrait, Im Basi]
 ---
 
@@ -20,9 +25,10 @@ Es gibt das Mutschli nature, mit feurigen Chiliflocken, aromatischem Kümmel, ba
 
 Tipp: Das Mutschli lässt sich gut im Racletteöfeli schmelzen!
 
+
 Fotos von Cecile Weibel (www.cecileweibel.ch):
 
 
-{% include post_image_full_width.html image="Mutschli_Ecken_IMG_9209" caption="" %}
+{% include post_image_full_width.html image="Mutschli_allein_IMG_9209" caption="" %}
 {% include post_image_full_width.html image="Mutschli_Turm_IMG_8964" caption="" %}
 {% include post_image_full_width.html image="Mutschli_Bretter_IMG_8948" caption="" %}
