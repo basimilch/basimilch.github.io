@@ -21,7 +21,7 @@ Es gibt das Mutschli nature, mit feurigen Chiliflocken, aromatischem Kümmel, ba
 Tipp: Das Mutschli lässt sich gut im Racletteöfeli schmelzen!
 
 
-Fotos von Cecile Weibel (www.cecileweibel.ch):
+Fotokunst am Käse von Cecile Weibel (www.cecileweibel.ch):
 
 
 {% include post_image_full_width.html image="Mutschli_allein_IMG_8985" caption="" %}
