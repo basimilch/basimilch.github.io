@@ -1,7 +1,7 @@
 ---
 title: basimilch beat
 subtitle: Phillip Lippuner komponiert über sein Praktikum bei basimilch von Oktober bis Dezember 2017
-header-image: posts/2017-09-27-ein-arbeitstag-bei-basimilch/Maja_square.jpg
+header-image: posts/IMG_4067.jpg
 tags: [Praktikum, Käserei, Käse, Schmieren, Im Basi]
 ---
 
@@ -13,4 +13,4 @@ Phillip
 {% include youtube_video.html id="oxWyNW6e2MU" %}
 
 
-{% include post_image_full_width.html image="Maja" caption="" %}
+{% include post_image_full_width.html image="IMG_4067.jpg" caption="" %}
