@@ -8,7 +8,7 @@ tags: [Praktikum, Käserei, Käse, Schmieren, Im Basi]
 Mein Praktikum absolvierte ich vom Oktober bis Weihnachten 2017 bei basimilch in
 Dietikon ZH (CH).
 
-Herzlichen Dank an Bettina, Rosemarie, Anita und Fabian!
+Herzlichen Dank an Bettina, Rosmarie, Anita und Fabian!
 
 Phillip
 
