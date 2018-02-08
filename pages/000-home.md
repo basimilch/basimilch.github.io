@@ -5,10 +5,12 @@ permalink: /
 
 <div class="alert alert-success" role="alert" data-href=" http://dunkelhoelzli.ch">
   <div style="font-weight:bold;">
-    Freie Gemüseabos 2018 vom Pflanzplatz Dunkelhölzli
+   Bis 18. Februar: Neuanmeldung für basimilch Abos ab März 2018
   </div>
 
- Wunderbares Gemüse produziert auf städtischem Boden in Züri: das gibt es nur vom Pflanzplatz Dunkelhölzli. Für's 2018 hat es noch freie Abos. Wir können die sympathisch unkomplizierte Anbaugemeinschaft wärmstens empfehlen. Hier geht's zu Infos und Anmeldung: http://dunkelhoelzli.ch/.
+ +  Seit Januar werden 220 Haushalte mit basimilch Abos beliefert und geniessen insgesamt 1358
+ +  Liter Milchprodukte pro Woche von der kooperativen Käserei basimilch.
+ +  Hast Du Lust mitzumachen? Melde Dich jetzt an!
  
 </div>
 
