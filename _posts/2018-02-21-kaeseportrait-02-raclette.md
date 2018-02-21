@@ -1,6 +1,6 @@
 ---
 title: Käseportrait 2 - Raclette, quadratisch und unvergleichlich gut
-header-image: posts/2018-01-22-kaeseportrait-01-mutschli/Mutschli_Ecken_IMG_9209.jpg
+header-image: posts/IMG_9001s.jpg
 tags: [Käse, Portrait, Im Basi]
 ---
 
@@ -16,6 +16,6 @@ Tipp: Raclettekäse über einen Gratin raffeln und knusprig überbacken. Oder ei
 Fotokunst am Käse von Cecile Weibel (www.cecileweibel.ch):
 
 
-{% include post_image_full_width.html image="Mutschli_allein_IMG_8985" caption="" %}
-{% include post_image_full_width.html image="Mutschli_Turm_IMG_8964" caption="" %}
-{% include post_image_full_width.html image="Mutschli_Bretter_IMG_8948" caption="" %}
+{% include post_image_full_width.html image="IMG_9255s" caption="" %}
+{% include post_image_full_width.html image="IMG_9270" caption="" %}
+{% include post_image_full_width.html image="" caption="" %}
