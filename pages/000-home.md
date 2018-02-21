@@ -8,10 +8,10 @@ permalink: /
    Bis 18. Februar: Neuanmeldung für basimilch Abos ab März 2018
   </div>
 
- +  Seit Januar werden 220 Haushalte mit basimilch Abos beliefert und geniessen insgesamt 1358
- +  Liter Milchprodukte pro Woche von der kooperativen Käserei basimilch.
- +  Hast Du Lust mitzumachen? Melde Dich jetzt an!
- 
+  Seit Januar werden 220 Haushalte mit basimilch Abos beliefert und geniessen insgesamt 1358
+  Liter Milchprodukte pro Woche von der kooperativen Käserei basimilch.
+  Hast Du Lust mitzumachen? Melde Dich jetzt an!
+
 </div>
 
 Die **{{site.info.name}}** ist eine kooperative Käserei auf dem
