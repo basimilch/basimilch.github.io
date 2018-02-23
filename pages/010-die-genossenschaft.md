@@ -25,8 +25,8 @@ Um ein Abo zu bestellen, musst du Genossenschafter_in bei
 {{site.info.shortname}} werden und mindestens zwei Anteilscheine (pro
 Abo) erwerben.
 
-**Es gibt noch freie Plätze ab März 2018. Stichtag für Neuanmeldungen
-ist der 15. Februar 2018.** Die neuen Abos werden nach Anmeldedatum
+**Wir führen eine Warteliste. Neueinstieg ist möglich ab August
+2018.** Die neuen Abos werden nach Anmeldedatum
 vergeben und es gilt „Es hät solangs hät“.
 
 ## Genosschenschafter_in werden
