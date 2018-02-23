@@ -3,7 +3,7 @@ title: Willkommen!
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href=" http://dunkelhoelzli.ch">
+<div class="alert alert-success" role="alert" data-href=" http://basimil.ch/genossenschaft/#abo-bestellen">
   <div style="font-weight:bold;">
    Es isch es Märli - es isch en Tröim...
   </div>
