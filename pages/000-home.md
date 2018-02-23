@@ -5,12 +5,10 @@ permalink: /
 
 <div class="alert alert-success" role="alert" data-href=" http://dunkelhoelzli.ch">
   <div style="font-weight:bold;">
-   Bis 18. Februar: Neuanmeldung für basimilch Abos ab März 2018
+   Es isch es Märli - es isch en Tröim...
   </div>
 
-  Seit Januar werden 220 Haushalte mit basimilch Abos beliefert und geniessen insgesamt 1358
-  Liter Milchprodukte pro Woche von der kooperativen Käserei basimilch.
-  Hast Du Lust mitzumachen? Melde Dich jetzt an!
+  ...de Roger Federer isch wieder Nr. 1 und mir händ 1400 Liter Marke knackt. Sit 2 Joor händ mer uf das athletische Ziel änegschafft und jetzt hends mer erreicht. Mit eu hend mirs gschafft en wiitere Meilestei i de solidarische Landwirtschaft zsetzte. Danke.
 
 </div>
 
