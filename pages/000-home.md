@@ -8,7 +8,7 @@ permalink: /
    Es isch es Märli - es isch en Tröim...
   </div>
 
-  ...de Roger Federer isch wieder Nr. 1 und mir händ 1400 Liter Marke knackt. Sit 2 Joor händ mer uf das athletische Ziel änegschafft und jetzt hends mer erreicht. Mit eu hend mirs gschafft en wiitere Meilestei i de solidarische Landwirtschaft zsetze. Danke.
+  ...de Roger Federer isch wieder Nr. 1 und mir händ 1400 Liter Marke Uslifermengi pro Wuchä knackt. Sit 2 Joor händ mer uf das athletische Ziel änegschafft und jetzt hends mer erreicht. Mit eu hend mirs gschafft en wiitere Meilestei i de solidarische Landwirtschaft zsetze. Danke.
 
 </div>
 
