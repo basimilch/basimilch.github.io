@@ -23,12 +23,11 @@ Mutschli und vom Raclette, verpacken wir in Klarsichtfolie.
 
 Käsepapier soll atmungsaktiv und fettdicht sein. Es soll keine
 Chemikalien abgeben, die in den Käse gelangen könnten, und soll
-reissfest sein, so dass der Käse immer wieder verpackt und Kühlschrank
-verpackt werden kann.
+reissfest sein, so dass der Käse immer wieder verpackt werden kann für die Lagerung im Kühlschrank.
 
 # Der pädagogisch-therapeutische Mehrwert
 
-Käse in Papier falten kann natürlich nicht mit Origami - Kunst des
+Käse in Papier falten kann natürlich nicht mit dem richtigen Origami - Kunst des
 Papierfaltens - verglichen werden. Und dennoch sind Parallelen zu
 erkennen, gerade was den pädagogisch-therapeutische Aspekt des Faltens
 angeht. Schon früh wurde der pädagogische Wert von Origami erkannt. Es
