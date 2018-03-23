@@ -7,7 +7,7 @@ tags: [Mitarbeit, Käse, Abpacken, Im Basi]
 
 # Freitag- und Samstagmorgen: die Origami Sessions im Basi!
 
-Origami, das ist Verbessern feinmotorischer Fähigkeiten, Erlernen akkuraten Arbeitens, und Fördern der Konzentration. Freitag und Samstag morgen ist für die LiebhaberInnen des Käsepapier
+Origami, das ist verbessern feinmotorischer Fähigkeiten, erlernen akkuraten Arbeitens, und fördern der Konzentration. Freitag und Samstag morgen ist für die LiebhaberInnen des Käsepapier
 Faltens Treffpunkt im Basi: An den basimilch Abpackmorgen werden
 jeweils bis zu dreihundert Käse in weisses Käsepapier eingepackt.
 Älpler, Basitaler und Marmori Käselaiber haben einen Durchmesser von
