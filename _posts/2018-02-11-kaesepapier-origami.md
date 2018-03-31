@@ -16,7 +16,7 @@ Käsestücke geschnitten. Diese Stücke eignen sich gut um in ein
 Käsepapier eingefaltet zu werden. Die eckigeren Käsestücke, etwa vom
 Mutschli und vom Raclette, verpacken wir in Klarsichtfolie.
 
-{% include post_image_full_width.html image="IMG_2099" caption="" %}
+{% include post_image_full_width.html image="IMG_4604" caption="" %}
 {% include post_image_full_width.html image="Origami-crane" caption="Von Andreas Bauer Origami-Kunst - Eigenes Werk, CC BY-SA 2.5, https://commons.wikimedia.org/w/index.php?curid=1259695" %}
 
 # Das Käsepapier
