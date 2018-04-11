@@ -1,7 +1,7 @@
 ---
 title: Kuhportrait 6 – Sienna
 subtitle: die Hübsche
-header-image: posts/2017-07-04-kuhportrait-06-sienna/Sienna1_300px.jpg
+header-image: posts/2018-04-05-kuhportrait-06-Sienna/IMG_9289.jpg
 tags: [Kühe, Portrait, Im Basi]
 ---
 
@@ -16,6 +16,5 @@ Fast unscheinbar und doch sehr harmonisch im Äussern, gehört sie zu den kleine
 Leider haben wir von Sienna keine Tochter für die Nachzucht, da zwei ihrer Kälbchen männlich waren und das eine weibliche, eine Mastrassenmischung war. Das könnte sich im nächsten Sommer ändern.
 
 
-{% include post_image_full_width.html image="Jella_fressend" caption="" %}
-{% include post_image_full_width.html image="Jella_stall" caption="" %}
-{% include post_image_full_width.html image="Jella_Weide" caption="" %}
+{% include post_image_full_width.html image="IMG_9291" caption="" %}
+{% include post_image_full_width.html image="IMG_9292" caption="" %}
