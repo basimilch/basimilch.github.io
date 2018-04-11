@@ -1,6 +1,6 @@
 ---
 title: Käseportrait 4 - Marmori, der Graue
-header-image: posts/2018-04-11-kaeseportrait-04-marmori/IMG_9089.jpeg
+header-image: posts/2018-04-11-kaeseportrait-04-marmori/IMG_9089.jpg
 tags: [Käse, Portrait, Im Basi]
 ---
 
@@ -20,7 +20,7 @@ Warum heisst die Sorte eigentlich «Marmori»? Die Dietiker unter euch wissen es
 Fotokunst am Käse von Cecile Weibel ([www.cecileweibel.ch](https.//www.cecileweibel.ch)):
 
 
-{% include post_image_full_width.html image="IMG_9105.jpeg" caption="" %}
-{% include post_image_full_width.html image="IMG_9110.jpeg" caption="" %}
-{% include post_image_full_width.html image="IMG_9114.jpeg" caption="" %}
+{% include post_image_full_width.html image="IMG_9105" caption="" %}
+{% include post_image_full_width.html image="IMG_9110" caption="" %}
+{% include post_image_full_width.html image="IMG_9114" caption="" %}
 {% include post_image_full_width.html image="IMG_9228" caption="" %}
