@@ -20,7 +20,7 @@ Warum heisst die Sorte eigentlich «Marmori»? Die Dietiker unter euch wissen es
 Fotokunst am Käse von Cecile Weibel ([www.cecileweibel.ch](https.//www.cecileweibel.ch)):
 
 
-{% include post_image_full_width.html image="IMG_9105" caption="" %}
-{% include post_image_full_width.html image="IMG_9110" caption="" %}
-{% include post_image_full_width.html image="IMG_9114" caption="" %}
+{% include post_image_full_width.html image="IMG_9105.jpeg" caption="" %}
+{% include post_image_full_width.html image="IMG_9110.jpeg" caption="" %}
+{% include post_image_full_width.html image="IMG_9114.jpeg" caption="" %}
 {% include post_image_full_width.html image="IMG_9228" caption="" %}
