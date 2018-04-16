@@ -1,7 +1,7 @@
 ---
 title: Kuhportrait 6 – Sienna
 subtitle: die Hübsche
-header-image: posts/2018-04-05-kuhportrait-06-Sienna/IMG_9289.jpg
+header-image: posts/2018-04-05-kuhportrait-06-sienna/IMG_9289.jpg
 tags: [Kühe, Portrait, Im Basi]
 ---
 
