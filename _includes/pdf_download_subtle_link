@@ -1,0 +1,1 @@
+<a href="/downloads/{% include ensure_suffix string=include.pdf suffix='.pdf' %}" class="subtle" target="_blank" download="">[PDF]</a>

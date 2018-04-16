@@ -1,0 +1,1 @@
+{% capture reversed_suffix %}{{ include.suffix | split: '' | reverse | join: '' }}{% endcapture %}{{ include.string | split: '' | reverse | join: '' | remove: reversed_suffix | split: '' | reverse | join: '' | append: include.suffix }}
