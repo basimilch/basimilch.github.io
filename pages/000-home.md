@@ -8,7 +8,7 @@ permalink: /
    Das Milchjahr 2017 - Basimilch Jahresbericht
   </div>
 
-Viel ist passiert im 2017. Für die Einen standen "Trockenheit, Blähungen  und mehr Zeit zum Bauern" im Vordergrund, für die Anderen "Basi(s)demokratie, Wein und das Doppelte".  Viel Spass beim schmöckern in den Eindrücken vom zweiten basimilch Jahr: **basimilch** **Jahresbericht 2017** {% include pdf_download_subtle_link pdf="20180602_basimilch Jahresbericht 2017" %}
+Viel ist passiert im 2017. Für die Einen standen "Trockenheit, Blähungen  und mehr Zeit zum Bauern" im Vordergrund, für die Anderen "Basi(s)demokratie, Wein und das Doppelte".  Viel Spass beim schmöckern in den Eindrücken vom zweiten basimilch Jahr: basimilch Jahresbericht 2017 {% include pdf_download_subtle_link pdf="20180602_basimilch Jahresbericht 2017" %}
 
 </div>
 
