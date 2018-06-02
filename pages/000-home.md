@@ -3,7 +3,7 @@ title: Willkommen!
 permalink: /
 ---
 
-//<div class="alert alert-success" role="alert" data-href=" http://basimil.ch/genossenschaft/#abo-bestellen">
+<div>
   <div style="font-weight:bold;">
    Das Milchjahr 2017 - Basimilch Jahresbericht
   </div>
