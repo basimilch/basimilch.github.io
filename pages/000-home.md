@@ -5,10 +5,10 @@ permalink: /
 
 <div class="alert alert-success" role="alert" data-href=" http://basimil.ch/genossenschaft/#abo-bestellen">
   <div style="font-weight:bold;">
-   Es isch es Märli - es isch en Tröim...
+   Das Milchjahr 2017 - Basimilch Jahresbericht ...
   </div>
 
-  ...de Roger Federer isch wieder Nr. 1 und mir händ 1400 Liter Marke Uslifermengi pro Wuchä knackt. Sit 2 Joor händ mer uf das athletische Ziel änegschafft und jetzt hends mer erreicht. Mit eu hend mirs gschafft en wiitere Meilestei i de solidarische Landwirtschaft zsetze. Danke.
+... Im 2017 ist bei basimilch viel passiert. Eindrücke davon sind zusammengefasst im basimilch Jahresbericht. Ihr bekommt ihn als pdf oder als handfeste Kopie im Eurem Depot oder auf dem Hof. **"basimilch Jahresbericht 2017"** {% include pdf_download_subtle_link pdf="20180602_basimilch Jahresbericht 2017" %}
 
 </div>
 
