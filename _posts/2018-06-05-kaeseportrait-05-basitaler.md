@@ -1,6 +1,6 @@
 ---
 title: Käseportrait 5 - Basitaler, der Wandlungsfähige
-header-image: posts/2018-06-05-kaeseportrait-05-basitaler/Basitaler_IMG_9048.jpg
+header-image: posts/2018-06-05-kaeseportrait-05-basitaler/Basitaler_9048.jpg
 
 tags: [Käse, Portrait, Im Basi]
 ---
@@ -23,5 +23,5 @@ Ausnahmsweise kann er auch über 6 Monate hinaus im Keller lagern, das ist dann 
 
 Fotokunst am Käse von Cecile Weibel ([www.cecileweibel.ch](https.//www.cecileweibel.ch)):
 
-{% include post_image_full_width.html image="Basitaler_IMG_8991" caption="" %}
-{% include post_image_full_width.html image="Basitaler_IMG_9194" caption="" %}
+{% include post_image_full_width.html image="Basitaler_8991" caption="" %}
+{% include post_image_full_width.html image="Basitaler_9194" caption="" %}
