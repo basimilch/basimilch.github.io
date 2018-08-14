@@ -46,7 +46,7 @@ das Abo so aussehen:
 Haushalte, die nicht oder kaum Trinkmilch konsumieren, können im indivuduell
 wählbaren Teil komplett auf Milch verzichten.
 
-{% include photo.html filename="Abo_Milchfreies.JPG" caption="Trinkmilchfreies Beispielabo: 500g Fruchtjoghurt, 350g Quark, 250g + 250g Käse und 1 Camembert (150g)" %}
+{% include photo.html filename="Abo_Milchfreies.JPG" caption="Trinkmilchfreies Beispielabo: 500g Fruchtjoghurt, 350g Quark, 1 Stück Mutschli (ca. 200g), 1 Stück Basitaler (ca. 200g) und 1 Stück Älpler (ca. 200g)" %}
 
 - **4 l individuell wählbar:** 500g Fruchtjoghurt, 500g Naturjoghurt, 350g Quark, 200g Käse
 - **4 l von Käser_innen bestimmt:** 1 Stück Mutschli (ca. 200g) und 1 Stück Basitaler (ca. 200g).
