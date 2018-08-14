@@ -67,8 +67,8 @@ Mutschli, Basitaler, Camembert, Raclette, Älpler,
 Kümmelkäse, Formaggini, Trinkmilch, Joghurt (Natur, Kirsche,
 Zwetschge, Himbeer, Heidelbeer, Vanille), Quark Natur, saisonale
 Spezialitäten und spontane Ideen unseres Käser_innenteams (z.B.
-Bärlauchformaggini, Sommerkräuterstreichkäse, Beerenrahmjoghurt,
-Heublumenkäse, evt. Fonduemischung)
+Bärlauchformaggini, Sommerkräuterstreichkäse, 
+Heublumenkäse, Fonduemischung)
 
 
 # Finanzierung und Mitarbeit
@@ -77,7 +77,7 @@ Heublumenkäse, evt. Fonduemischung)
 - **Betriebsbeitrag pro Jahr:** 8 l Abo: 1'200.- Fr.; 4 l Abo: 650.- Fr.
 - **Jahresbeitrag für Zusatzabos:** 300.- Fr.
 - **Mitarbeit pro Abo und Jahr:** 8 l Abo mind. 4 Einsätze (à ca. 1/2 Tag); 4 l Abo mind. 2 Einsätze (à ca. 1/2 Tag)
-- **Start:** Januar 2017
+- **Start:** Januar 2019
 
 {% include button-signup.html %}
 
