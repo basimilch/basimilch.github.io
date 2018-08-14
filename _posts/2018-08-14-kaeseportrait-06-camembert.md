@@ -1,5 +1,5 @@
 ---
-title: Käseportrait 6 - Basi - Camembert
+title: Käseportrait 6 - Basi-Camembert
 header-image: posts/2018-08-14-kaeseportrait-06-camembert/Camembert_9243.JPG
 
 tags: [Käse, Portrait, Im Basi]
