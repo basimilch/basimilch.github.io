@@ -36,7 +36,7 @@ Frischmilchprodukte mit dem indivuduell wählbaren Anteil gedeckt sein soll.
 Für Haushalte, die sowohl Milch wie auch Joghurt und Quark konsumieren, könnte
 das Abo so aussehen:
 
-{% include photo.html filename="Abo_Trinkmilch.JPG" caption="Trinkmilch-Beispielabo: 2l Milch, 500g Fruchtjoghurt, 500g Naturjoghurt, 350g Quark, 1 Stück Mutschli (ca. 200g) und 1 Stück Basitaler (ca. 200g)." %}
+{% include photo.html filename="Abo_Trinkmilch" caption="Trinkmilch-Beispielabo: 2l Milch, 500g Fruchtjoghurt, 500g Naturjoghurt, 350g Quark, 1 Stück Mutschli (ca. 200g) und 1 Stück Basitaler (ca. 200g)." %}
 
 - **4 l individuell wählbar:** 2l Milch, 500g Fruchtjoghurt, 500g Naturjoghurt, 350g Quark
 - **4 l von Käser_innen bestimmt:** 1 Stück Mutschli (ca. 200g) und 1 Stück Basitaler (ca. 200g).
@@ -46,7 +46,7 @@ das Abo so aussehen:
 Haushalte, die nicht oder kaum Trinkmilch konsumieren, können im indivuduell
 wählbaren Teil komplett auf Milch verzichten.
 
-{% include photo.html filename="Abo_Milchfreies.JPG" caption="Trinkmilchfreies Beispielabo: 500g Fruchtjoghurt, 350g Quark, 1 Stück Mutschli (ca. 200g), 1 Stück Basitaler (ca. 200g) und 1 Stück Älpler (ca. 200g)" %}
+{% include photo.html filename="Abo_Milchfreies" caption="Trinkmilchfreies Beispielabo: 500g Fruchtjoghurt, 350g Quark, 1 Stück Mutschli (ca. 200g), 1 Stück Basitaler (ca. 200g) und 1 Stück Älpler (ca. 200g)" %}
 
 - **4 l individuell wählbar:** 500g Fruchtjoghurt, 500g Naturjoghurt, 350g Quark, 200g Käse
 - **4 l von Käser_innen bestimmt:** 1 Stück Mutschli (ca. 200g) und 1 Stück Basitaler (ca. 200g).
@@ -59,7 +59,7 @@ Grundabo nehmen. Hier könnte die Zusammenstellung so aussehen:
 - **2 l individuell wählbar:** 1l Milch, 500g Fruchtjoghurt, 500g Naturjoghurt
 - **2 l von Käser_innen bestimmt:** 200g Halbhartkäse.
 
-{% include photo.html filename="Abo_Kleines.JPG" caption="Kleines Beispielabo: 1l Milch, 500g Fruchtjoghurt, 500g Naturjoghurt, 1 Stück Raclette (ca. 200g)" %}
+{% include photo.html filename="Abo_Kleines" caption="Kleines Beispielabo: 1l Milch, 500g Fruchtjoghurt, 500g Naturjoghurt, 1 Stück Raclette (ca. 200g)" %}
 
 ## Produkte
 
