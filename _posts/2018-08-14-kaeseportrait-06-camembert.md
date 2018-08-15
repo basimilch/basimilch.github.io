@@ -32,5 +32,5 @@ Tipp: das ganze Stück Camembert mit einer Panade umhüllen, knusprig braten und
 
 Fotokunst am Käse von Cecile Weibel ([www.cecileweibel.ch](https.//www.cecileweibel.ch)):
 
-{% include post_image_full_width.html image="camembert_9043.JPG" caption="" %}
-{% include post_image_full_width.html image="Camembert_9246.JPG" caption="" %}
+{% include post_image_full_width.html image="camembert_9043" caption="" %}
+{% include post_image_full_width.html image="Camembert_9246" caption="" %}
