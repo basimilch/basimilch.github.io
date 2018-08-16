@@ -16,8 +16,8 @@ Halbe Abos: 1 Stück Marmori >>
 
 Indiv. Käse: 1 Stück Mutschli >> 
 
-Und...es gibt ein neues Käseportrait zu lesen, der [Basi-Camembert] 
-({% post_url 2018-08-14-kaeseportrait-06-camembert %}){:target="_blank"} 
+Und...es gibt ein neues Käseportrait zu lesen: der Basi-Camembert
+>> basimilch Blog 
 
 
 </div>
