@@ -5,10 +5,15 @@ permalink: /
 
 <div class="alert alert-success" role="alert" data-href=" ">
   <div style="font-weight:bold;">
-   Das Milchjahr 2017 - Basimilch Jahresbericht
+   Die Sommerpause ist vorbei - es geht wieder los mit basimilch Lieferungen!
   </div>
 
-Viel ist passiert im 2017. Für die Einen standen "Trockenheit, Blähungen  und mehr Zeit zum Bauern" im Vordergrund, für die Anderen "Basi(s)demokratie, Wein und das Doppelte".  Viel Spass beim schmöckern in den Eindrücken vom zweiten basimilch Jahr: basimilch Jahresbericht 2017 {% include pdf_download_subtle_link pdf="20180602_basimilch Jahresbericht 2017" %}
+Der Wochenkäse vom 17./18.8.2018 ist wie folgt:
+Ganze Abos: 1 Stück Camembert, 1 Stück Basitaler
+Halbe Abos: 1 Stück Marmori
+Indiv. Käse: 1 Stück Mutschli
+Und...es gibt ein neues Käseportrait zu lesen, der Basi-Camembert:
+http://basimil.ch/blog/2018/08/14/kaeseportrait-06-camembert
 
 </div>
 
