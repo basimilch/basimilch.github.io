@@ -9,11 +9,16 @@ permalink: /
   </div>
 
 Der Wochenkäse vom 17./18.8.2018 ist wie folgt:
+
 Ganze Abos: 1 Stück Camembert, 1 Stück Basitaler
+
 Halbe Abos: 1 Stück Marmori
+
 Indiv. Käse: 1 Stück Mutschli
-Und...es gibt ein neues Käseportrait zu lesen, der Basi-Camembert:
-http://basimil.ch/blog/2018/08/14/kaeseportrait-06-camembert
+
+Und...es gibt ein neues Käseportrait zu lesen, der [Basi-Camembert]{
+http://basimil.ch/blog/2018/08/14/kaeseportrait-06-camembert}
+
 
 </div>
 
