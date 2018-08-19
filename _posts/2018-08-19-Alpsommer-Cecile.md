@@ -36,6 +36,8 @@ um die Gegend zu erkunden: die Glattalp, das Balmersgrätli oder den Geissstock.
 Für die zweite Halbzeit hat Cecile noch Pläne: sie will melken lernen und ein Molkenbad im Kessi nehmen. Wir wünschen alles Gute 
 für den weiteren Alpsommer!
 
+Text und Fotos: Rosmarie Minder
+
 
 {% include photo_small.html filename="Cecile_P1190519" caption="" %}
 {% include photo_small.html filename="Cecile_P1190524" caption="" %}
