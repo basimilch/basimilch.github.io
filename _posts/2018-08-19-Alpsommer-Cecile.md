@@ -1,6 +1,6 @@
 ---
 title: Basimilch–PraktikantInnen auf der Alp, Cecile auf der Waldialp
-header-image: posts/2018-08-19-Alpsommer-Cecile/Cecile_P1190596.jpg
+header-image: posts/2018-08-19-Alpsommer-Cecile/Cecile_P1190567.jpg
 tags: [Praktikum, Alp]
 ---
  
