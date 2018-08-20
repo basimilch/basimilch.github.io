@@ -38,7 +38,5 @@ für den weiteren Alpsommer!
 
 Text und Fotos: Rosmarie Minder
 
-{% include post_image_small.html image="Cecile_P1190519" caption="" %}
-{% include post_image_small.html image="Cecile_P1190524" caption="" %}
-{% include post_image_small.html image="Cecile_P1190530" caption="" %}
+
 
