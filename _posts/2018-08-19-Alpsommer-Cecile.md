@@ -38,8 +38,25 @@ für den weiteren Alpsommer!
 
 Text und Fotos: Rosmarie Minder
 
-{% include photo_small.html filename="Cecile_P1190519" caption="" %}
-{% include photo_small.html filename="Cecile_P1190524" caption="" %}
-{% include photo_small.html filename="Cecile_P1190530" caption="" %}
+{% include photo_small.html filename="Cecile_P1190540" caption="" %}
+{% include photo_small.html filename="Cecile_P1190550" caption="" %}
+{% include photo_small.html filename="Cecile_P1190567" caption="" %}
+{% include photo_small.html filename="Cecile_P1190570" caption="" %}
+{% include photo_small.html filename="Cecile_P1190596" caption="" %}
+{% include photo_small.html filename="Cecile_P1190609" caption="" %}
+{% include photo_small.html filename="Cecile_P1190622" caption="" %}
+{% include photo_small.html filename="Cecile_P1190627" caption="" %}
+{% include photo_small.html filename="Cecile_P1190659" caption="" %}
+{% include photo_small.html filename="Cecile_P1190686" caption="" %}
+{% include photo_small.html filename="Cecile_P1190688" caption="" %}
+{% include photo_small.html filename="Cecile_P1190705" caption="" %}
+{% include photo_small.html filename="Cecile_P1190728" caption="" %}
+{% include photo_small.html filename="Cecile_P1190733" caption="" %}
+
+{% include photo_small.html filename="CecileP_P1190530" caption="" %}
+{% include photo_small.html filename="CecileP_P1190590" caption="" %}
+{% include photo_small.html filename="CecileP_P1190645" caption="" %}
+{% include photo_small.html filename="CecileP_P1190676" caption="" %}
+{% include photo_small.html filename="CecileP_P1190680" caption="" %}
 
 
