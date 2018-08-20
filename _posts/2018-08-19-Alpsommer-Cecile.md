@@ -46,7 +46,8 @@ Text und Fotos: Rosmarie Minder
 {% include photo_small.html filename="Cecile_P1190688" caption="" %}
 
 {% include photo_small.html filename="CecileP_P1190530" caption="" %}
+{% include photo_small.html filename="CecileP_P1190590" caption="" %}
 {% include photo_small.html filename="CecileP_P1190645" caption="" %}
-{% include photo_small.html filename="CecileP_P1190676" caption="" %}
+
 
 
