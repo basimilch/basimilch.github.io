@@ -14,7 +14,7 @@ Einführung ins Milchverarbeiten gegen Arbeitskraft, das ist der Deal beim basim
   
    Übrigens, über Praktikumsinteressierte freuen wir uns immer!
    
-</div>
+  </div>
 
 Die **{{site.info.name}}** ist eine kooperative Käserei auf dem
 Hof Im Basi in Dietikon. Die **Biomilch** der behornten Kühe wird in der
