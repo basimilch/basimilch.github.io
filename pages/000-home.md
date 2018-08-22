@@ -5,19 +5,13 @@ permalink: /
 
 <div class="alert alert-success" role="alert" data-href=" ">
   <div style="font-weight:bold;">
-   Die Sommerpause ist vorbei - es geht wieder los mit basimilch Lieferungen!
+   Vom basimilch Praktikum auf die Alp
   </div>
 
-Der Wochenkäse vom 17./18.8.2018 ist wie folgt:
+Einführung ins Milchverarbeiten gegen Arbeitskraft, das ist der Deal beim basimilch Praktikum. Viele benutzen das basimilch Praktikum zur Vorbereitung für einen Alpsommer. Über die verschiedenen Alpen und ihren ganz speziellen Rhythmus erzählt unsere Blog-Serie "basimilch PraktikantInnen auf der Alp".
 
-Ganze Abos: 1 Stück Camembert, 1 Stück Basitaler >> 
-
-Halbe Abos: 1 Stück Marmori >> 
-
-Indiv. Käse: 1 Stück Mutschli >> 
-
-Und...es gibt ein neues Käseportrait zu lesen: der Basi-Camembert
->> basimilch Blog 
+  <a href="/blog/2018/08/19/Alpsommer-Cecile/">
+   Übrigens, über Praktikumsinteressierte freuen wir uns immer!
 
 
 </div>
