@@ -530,4 +530,26 @@
   address_2:    8005 Zürich
   map_url:      https://goo.gl/maps/aCNCYgMJVQp
   info: >
-    Am Treffen der Quartier-Pionier*innen findest Du konkrete Handlungsmöglichkeiten Richtung 2000 Watt Gesellschaft. Am Markt präsent sind Initiativen aus dem Bereich Ernährung, Wohnen, Reparieren, Tauschen, Wissen und Energie. Workshops finden stündlich ab 14h statt.
+    Am Treffen der Quartier-Pionier*innen findest Du konkrete Handlungsmöglichkeiten Richtung 2000 Watt Gesellschaft. 
+    Am Markt präsent sind Initiativen aus dem Bereich Ernährung, Wohnen, Reparieren, Tauschen, Wissen und Energie. 
+    Workshops finden stündlich ab 14h statt.
+    
+- title:        Martinimarkt
+  title_short:  Martinimarkt
+  # type:         extern
+  start:        2018-11-10 10:00:00 +0200
+  end:          2018-11-10 16:00:00 +0200
+  # day_hours:    10:00 - 16:00 
+  url:          https://www.stadt-zuerich.ch/ted/de/index/gsz/aktuell/gruenagenda/2018/oktober-dezember/181110_Martinimarkt.html
+  image:        logos/Martinimarkt.png
+  place:        Stadtgärtnerei, Zürich
+  place_url:    
+  address:      Sackzelg 27
+  address_2:    8047 Zürich
+  map_url:      https://goo.gl/maps/XUuYAPKBHNP2
+  info: >
+    Zum ersten Mal gibt es in der Stadtgärtnerei Zürich einen Martinimarkt mit lokalen Produkten: Obst, Gemüse, 
+    Milchprodukte und Fleisch von nahegelegenen Bauernhöfen oder von der Alp. Tofu, Brot und Gebäck. 
+    Nicht normiertes Gemüse, Blumen und verschiedene Holzobjekte. Vorwiegend lokal produzierte Getränke wie Fruchtsäfte, 
+    Sirup, Bier, Wein und Gin. Honig aus der Stadt. Handgemachte Schokoladen und Kaffee. Edelweisskosmetika. 
+    Vom Eingemachtem bis zum veredelten Lokaldünger Aurin.
