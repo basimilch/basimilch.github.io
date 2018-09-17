@@ -516,14 +516,14 @@
     <a href="/freunde/#ortoloco">ortoloco</a>) am Fiirabigmärt
     anwesend sein.
     
- - title:        Markt der Möglichkeiten
+- title:        Markt der Möglichkeiten
   title_short:  Markt der Möglichkeiten
   # type:         extern
   start:        2018-09-29 13:00:00 +0200
   end:          2018-09-29 17:00:00 +0200
   # day_hours:    13:00 - 17:00 
   url:          http://www.transition-zuerich.ch/quartierpionier
-  image:        events/Flyer-Treffen der QuartierPionier-innen im KulturPark.png
+  image:        logos/Flyer-Treffen der QuartierPionier-innen im KulturPark.png
   place:        KulturPark, Zürich
   place_url:    
   address:      Pfingstweidstrasse 16
