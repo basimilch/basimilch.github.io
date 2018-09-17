@@ -525,7 +525,7 @@
   url:          http://www.transition-zuerich.ch/quartierpionier
   image:        logos/QuartierPionierInnen.png
   place:        KulturPark, Zürich
-  place_url:    
+  place_url:    https://www.kulturpark.ch/
   address:      Pfingstweidstrasse 16
   address_2:    8005 Zürich
   map_url:      https://goo.gl/maps/aCNCYgMJVQp
@@ -543,7 +543,7 @@
   url:          https://www.stadt-zuerich.ch/ted/de/index/gsz/aktuell/gruenagenda/2018/oktober-dezember/181110_Martinimarkt.html
   image:        logos/Martinimarkt.png
   place:        Stadtgärtnerei, Zürich
-  place_url:    
+  place_url:    https://www.stadt-zuerich.ch/stadtgaertnerei
   address:      Sackzelg 27
   address_2:    8047 Zürich
   map_url:      https://goo.gl/maps/XUuYAPKBHNP2
