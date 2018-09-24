@@ -1,6 +1,6 @@
 ---
 title: Basimilch-Praktikantinnen auf der Alp, Regula auf der Alp da Sevgein
-header-image: posts/2018-09-24-Alpsommer-Regula/Regula_P1190879-focus.jpg
+header-image: posts/2018-09-24-Alpsommer-Regula/Regula_P1190879_focus.jpg
 tags: [Praktikum, Alp]
 ---
  
