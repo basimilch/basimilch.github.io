@@ -59,7 +59,7 @@ Text und Fotos: Rosmarie Minder
 {% include photo_small.html filename="Regula_P1190835" caption="" %}
 
 {% include photo_small.html filename="Regula_P1190840" caption="" %}
-{% include photo_small.html filename="Regula_P1190854" caption="" %}
+{% include photo_small.html filename="Regula_P1190930" caption="" %}
 {% include photo_small.html filename="Regula_P1190862" caption="" %}
 
 {% include photo_small.html filename="Regula_P1190879" caption="" %}
@@ -68,4 +68,4 @@ Text und Fotos: Rosmarie Minder
 
 {% include photo_small.html filename="Regula_P1190905" caption="" %}
 {% include photo_small.html filename="Regula_P1190918" caption="" %}
-{% include photo_small.html filename="Regula_P1190930" caption="" %}
+{% include photo_small.html filename="Regula_P1190854" caption="" %}
