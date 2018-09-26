@@ -534,6 +534,30 @@
     Am Markt präsent sind Initiativen aus dem Bereich Ernährung, Wohnen, Reparieren, Tauschen, Wissen und Energie. 
     Workshops finden stündlich ab 14h statt.
     
+- title:        Filmreihe Landwirtschaft, das System Milch
+  title_short:  Das System Milch
+  # type:         extern
+  start:        2018-10-04 18:00:00 +0200
+  end:          2018-10-04 20:00:00 +0200
+  # day_hours:    18:00 - 20:00 
+  url:          http://www.odeon-brugg.ch/de/programm/gesamtuebersicht/event?event=DAS_SYSTEM_MILCH&datum=04.10.2018&zeit=18:00&id=583
+  image:        logos/odeon-brugg.png
+  place:        Odeon, Brugg
+  place_url:    
+  address:      Bahnhofplatz 11
+  address_2:    5200 Brugg
+  map_url:      https://goo.gl/maps/NTn1oPo6iBt
+  info: >       Fast auf jeder Milchpackung sehen wir das Bild glücklicher Kühe, doch die Wirklichkeit sieht anders aus. Milch ist 
+  ein gefragter Rohstoff, mit dem knallhart gehandelt wird. Dieser Dokumentarfilm über die Welt der Milch wirft einen Blick hinter 
+  die Kulissen. Wir treffen Landwirte, Industrielle, Wissenschaftler und anderen Experten, um die Frage zu beantworten, welche 
+  weitreichenden Folgen das große Geschäft mit der Milch hat - auf die Tiere, auf die Umwelt und auf uns Menschen selbst. DAS SYSTEM 
+  MILCH ist eine cineastische Reise über mehrere Kontinente, die mit Vorurteilen aufräumt und Lösungen aufzeigt. 
+  
+  Filmgespräch mit Fabian Brandenberger, Landwirt, Agronom FH Internationale Landwirtschaft, Betriebsleiter eines Biohofes in 
+  Dietikon, Mitgründer und Initiant des CSA-Projektes basimilch.
+  
+    
+    
 - title:        Standaktion am Martinimarkt
   title_short:  Martinimarkt
   # type:         extern
