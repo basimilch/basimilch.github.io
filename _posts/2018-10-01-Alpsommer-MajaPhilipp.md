@@ -1,6 +1,6 @@
 ---
-title: Basimilch–PraktikantInnen auf der Alp, Maja und Philipp auf dem obere Bruchgeereberg
-header-image: posts/2018-09-12-Alpsommer-MajaPhilipp/Bruchgehre_Titel.jpg
+title: Basimilch–PraktikantInnen auf der Alp, Maja und Philipp auf dem oberen Bruchgeereberg
+header-image: posts/2018-10-01-Alpsommer-MajaPhilipp/Bruchgehre_Titel.jpg
 tags: [Praktikum, Alp]
 ---
  
@@ -26,10 +26,12 @@ Text und Fotos: Bettina Wolfgramm
 {% include photo_small.html filename="Bruchgehre_IMG_5180" caption="" %}
 {% include photo_small.html filename="Bruchgehre_IMG_5181" caption="" %}
 {% include photo_small.html filename="Bruchgehre_IMG_5187" caption="" %}
-{% include photo_small.html filename="Bruchgehre_IMG_5189" caption="" %}
 {% include photo_small.html filename="Bruchgehre_IMG_5194" caption="" %}
+{% include photo_small.html filename="Bruchgehre_IMG_5196" caption="" %}
 {% include photo_small.html filename="Bruchgehre_IMG_5195" caption="" %}
 
-{% include photo_small.html filename="Bruchgehre_IMG_5196" caption="" %}
+{% include photo_small.html filename="Bruchgehre_IMG_5195" caption="" %}
 {% include photo_small.html filename="Bruchgehre_IMG_5199" caption="" %}
 {% include photo_small.html filename="Bruchgehre_IMG_5203" caption="" %}
+{% include photo_small.html filename="Bruchgehre_IMG_1" caption="" %}
+{% include photo_small.html filename="Bruchgehre_IMG_2" caption="" %}
