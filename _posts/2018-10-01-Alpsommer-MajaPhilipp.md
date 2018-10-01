@@ -21,17 +21,24 @@ Anfang September ist Alpabzug der Milchkühe. Es bleibt Zeit die Alp aufzuräume
 
 
 
-Text und Fotos: Bettina Wolfgramm
+Text und Fotos: Bettina Wolfgramm und das Alpteam
+
+{% include photo_small.html filename="Bruchgehre_IMG_5196" caption="" %}
+{% include photo_small.html filename="Bruchgehre_IMG_5194" caption="" %}
+{% include photo_small.html filename="Bruchgehre_IMG_5189" caption="" %}
 
 {% include photo_small.html filename="Bruchgehre_IMG_5180" caption="" %}
 {% include photo_small.html filename="Bruchgehre_IMG_5181" caption="" %}
 {% include photo_small.html filename="Bruchgehre_IMG_5187" caption="" %}
-{% include photo_small.html filename="Bruchgehre_IMG_5194" caption="" %}
-{% include photo_small.html filename="Bruchgehre_IMG_5196" caption="" %}
-{% include photo_small.html filename="Bruchgehre_IMG_5195" caption="" %}
 
 {% include photo_small.html filename="Bruchgehre_IMG_5195" caption="" %}
 {% include photo_small.html filename="Bruchgehre_IMG_5199" caption="" %}
+{% include photo_small.html filename="Bruchgehre_IMG_4" caption="" %}
+
 {% include photo_small.html filename="Bruchgehre_IMG_5203" caption="" %}
-{% include photo_small.html filename="Bruchgehre_IMG_1" caption="" %}
+{% include photo_small.html filename="Bruchgehre_IMG_3" caption="" %}
 {% include photo_small.html filename="Bruchgehre_IMG_2" caption="" %}
+
+
+
+
