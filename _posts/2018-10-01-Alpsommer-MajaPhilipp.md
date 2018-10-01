@@ -16,7 +16,7 @@ Einmal im Monat ist Milchwägung angesagt: die Milchmenge jeder Kuh wird gewogen
 
 Wenn alles nach Plan läuft ist am Nachmittag Zeit für Weidepflege: die Verbreitung der  Disteln, der Blacken und des Germers soll verhindert werden. Während der jeweiligen Blütezeit und vor dem Absamen, wird Pflanze um Pflanze ganz oder nur der Blütenstand ausgerissen / abgeschnitten. Zum Alpvertrag gehört auch das Herstellen von 100 neuen Schwirren, wie die Zaunpfosten im Berner Oberland heissen. Diese Arbeit beschäftigt Philipp fast über den gesamten Sommer: junge, umgestürzte oder kranke Tannen werden aus dem Wald geholt, diese mit der Motorsäge zurechtgeschnitten und die Pfosten dann entrindet, was die Lebensdauer der Pfosten erhöht.
 
-Ende August war der grosse Moment für das Alpteam: die Experten von Berner Alp- und Hobelkäse AOP besuchen die Bruchgehre um den produzierten Käse zu taxieren. Lochung, Teig, Aroma und das Käseäussere werden benotet. Der Käse aus der Produktion 2018 erhält viermal die Höchstnote, also die begehrten 20 Punkte - wir gratulieren! 
+Ende August war der grosse Moment für das Alpteam: die Experten von Berner Alp- und Hobelkäse AOP besuchen den oberen Bruchgeereberg  um den produzierten Käse zu taxieren. Lochung, Teig, Aroma und das Käseäussere werden benotet. Der Käse aus der Produktion 2018 erhält viermal die Höchstnote, also die begehrten 20 Punkte - wir gratulieren! 
 Anfang September ist Alpabzug der Milchkühe. Es bleibt Zeit die Alp aufzuräumen, um Zäune abzubrechen und genügend Feuerholz zu spalten und aufzubeigen. Damit alles bereit ist wenn es im nächsten Jahr Anfang Juni wieder losgeht.
 
 
