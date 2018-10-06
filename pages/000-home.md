@@ -8,9 +8,7 @@ permalink: /
    Vom basimilch Praktikum auf die Alp
   </div>
 
-Die basimilch Praktika haben sich super eingespielt, bereits haben 9 Käseinteressierte bei uns mitgearbeitet. Viele benutzen das basimilch Praktikum zur Vorbereitung für einen Alpsommer. Über die verschiedenen Alpen und ihren ganz speziellen Rhythmus erzählt unsere Blog-Serie "basimilch PraktikantInnen auf der Alp". 
-
-Übrigens, über Praktikumsinteressierte freuen wir uns immer! 
+Die basimilch Praktika haben sich super eingespielt, bereits haben 9 Käseinteressierte bei uns mitgearbeitet. Viele benutzen das basimilch Praktikum zur Vorbereitung für einen Alpsommer. Über die verschiedenen Alpen und ihren ganz speziellen Rhythmus erzählt unsere Blog-Serie "basimilch PraktikantInnen auf der Alp".  
   
    
    
