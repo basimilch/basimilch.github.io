@@ -1,5 +1,5 @@
 ---
-title: Fondue
+title: Fondue Limited Edition
 description: 1 Fondue pro Neuabonent_in
 section-group: 
 permalink: /fondue
