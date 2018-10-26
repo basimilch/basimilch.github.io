@@ -3,6 +3,7 @@ title: Fondue Limited Edition
 description: 1 Fondue pro Neuabonent_in
 section-group: 
 permalink: /fondue
+exclude-from-menu: true
 published: true # SOURCE: http://stackoverflow.com/a/14440927/5764181
 ---
 
