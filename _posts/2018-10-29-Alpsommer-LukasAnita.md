@@ -20,11 +20,11 @@ Die Alp Lenges liegt ganz am Ende vom Obergoms, zwischen Oberwald und dem Furkap
 {% include photo_small.html filename="Alp Lenges_8" caption="" %}
 {% include photo_small.html filename="Alp Lenges_9" caption="" %}
 
+Im Allgemeinen muss ich sagen, dass wir einen sehr tollen Sommer hatten! Das warme und trockene Wetter ermöglichte es uns viel draussen zu sein – ohne pflotsch nass zu werden und sehr kalt zu haben. Und trotz der Trockenheit hatten wir doch genug Wasser für die Tiere und Menschen. Und dazu (fast) keine Krankheiten und Unfälle und keine Probleme beim Käsen oder im Keller. Abgesehen von dem besonderen Wetter, war dieser Sommer für mich auch speziell, weil ich zum ersten Mal mit meinen zwei Kindern (Moira und Bruno; 3 und 5 Jahre alt) auf der Alp war. Abgesehen von der vielen Arbeit, hatte ich davor vielleicht am meisten Respekt. Obwohl wir mit vier Erwachsenen gestartet sind, waren wir schon nach zwei Wochen nur noch drei, weil eine Person krank wurde. Das bedeutete, dass wir Erwachsene mehr leisten mussten und weniger Zeit für die Kinder hatten. Im Nachhinein muss ich sagen, dass das relativ gut ging, aber ich muss zugeben, dass es nicht einfach war. Stress und Streit gehörte zum Alltag. Und trotzdem machten die Kinder immer wieder mit: Sie halfen beim Kühe Holen und Treiben, Melken, Holzhacken, Feuer-Machen, Pferde und Rindli Zählen und vieles mehr. Aber am liebsten sind sie auf den Pferden zum Käsekeller runter und wieder hoch geritten. Das haben sie gut und gerne gemacht!
+
 {% include photo_small.html filename="Alp Lenges_9.1" caption="" %}
 {% include photo_small.html filename="Alp Lenges_9.2" caption="" %}
 {% include photo_small.html filename="Alp Lenges_9.3" caption="" %}
-
-Im Allgemeinen muss ich sagen, dass wir einen sehr tollen Sommer hatten! Das warme und trockene Wetter ermöglichte es uns viel draussen zu sein – ohne pflotsch nass zu werden und sehr kalt zu haben. Und trotz der Trockenheit hatten wir doch genug Wasser für die Tiere und Menschen. Und dazu (fast) keine Krankheiten und Unfälle und keine Probleme beim Käsen oder im Keller. Abgesehen von dem besonderen Wetter, war dieser Sommer für mich auch speziell, weil ich zum ersten Mal mit meinen zwei Kindern (Moira und Bruno; 3 und 5 Jahre alt) auf der Alp war. Abgesehen von der vielen Arbeit, hatte ich davor vielleicht am meisten Respekt. Obwohl wir mit vier Erwachsenen gestartet sind, waren wir schon nach zwei Wochen nur noch drei, weil eine Person krank wurde. Das bedeutete, dass wir Erwachsene mehr leisten mussten und weniger Zeit für die Kinder hatten. Im Nachhinein muss ich sagen, dass das relativ gut ging, aber ich muss zugeben, dass es nicht einfach war. Stress und Streit gehörte zum Alltag. Und trotzdem machten die Kinder immer wieder mit: Sie halfen beim Kühe Holen und Treiben, Melken, Holzhacken, Feuer-Machen, Pferde und Rindli Zählen und vieles mehr. Aber am liebsten sind sie auf den Pferden zum Käsekeller runter und wieder hoch geritten. Das haben sie gut und gerne gemacht!
 
 {% include photo_small.html filename="Alp Lenges_10" caption="" %}
 {% include photo_small.html filename="Alp Lenges_11" caption="" %}
@@ -58,4 +58,3 @@ Text und Fotos: Lukas Peter
 {% include photo_small.html filename="Alp Lenges_27" caption="" %}
 {% include photo_small.html filename="Alp Lenges_28" caption="" %}
 
-{% include photo_small.html filename="Alp Lenges_29" caption="" %}
