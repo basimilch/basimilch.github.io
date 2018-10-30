@@ -5,10 +5,10 @@ permalink: /
 
 <div class="alert alert-success" role="alert" data-href=" ">
   <div style="font-weight:bold;">
-   Vom basimilch Praktikum auf die Alp
+   Freie basimilch Abos fürs 2019
   </div>
 
-Die basimilch Praktika haben sich super eingespielt, bereits haben 9 Käseinteressierte bei uns mitgearbeitet. Viele benutzen das basimilch Praktikum zur Vorbereitung für einen Alpsommer. Über die verschiedenen Alpen und ihren ganz speziellen Rhythmus erzählt unsere Blog-Serie "basimilch PraktikantInnen auf der Alp".  
+Per 1.1.2019 haben wir 25-40 freie Abos (Milchprodukte für ca. 200 Liter Milch) zu vergeben, frei geworden durch Kündigungen von aus der Region wegzügelnden, Weltreisenden, oder Leuten mit neuen Speisezetteln. Und so haben wir die Chance, Interessierten ein basimilch Abo anzubieten. Gerne könnt Ihr den Hof besichtigen am Samstag 8.12.2018 zwischen 9 und 11.30 Uhr. Bitte meldet Euch an über info@basimil.ch!
   
    
    
