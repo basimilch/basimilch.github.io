@@ -27,7 +27,7 @@ Abo) erwerben.
 
 **Wir führen eine Warteliste. Neueinstieg ist möglich ab 1. Januar
 2019.** Die neuen Abos werden nach Anmeldedatum
-vergeben und es gilt „Es hät solangs hät“. Anmeldeschluss ist der 15. Dezember 2018.
+vergeben und es gilt „Es hät solangs hät“. Definitiver Anmeldeschluss ist der 15. Dezember 2018.
 
 ## Genosschenschafter_in werden
 
