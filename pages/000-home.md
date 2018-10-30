@@ -8,7 +8,7 @@ permalink: /
    Freie basimilch Abos fürs 2019
   </div>
 
-Per 1.1.2019 haben wir etwa 30 freie Abos (Milchprodukte von ca. 200 Liter Milch) zu vergeben, frei geworden durch Kündigungen von aus-der- Region-Wegzügelnden, Weltreisenden, oder Leuten mit neuen Speisezetteln. Und so haben wir die Chance, Interessierten ein basimilch Abo anzubieten. Gerne könnt Ihr basimilch und den Basi Hof besichtigen am Schnupperanlass am Samstag 8.12.2018 um 9 Uhr. Bitte meldet Euch an über info@basimil.ch!
+Per 1.1.2019 haben wir etwa 30 freie Abos (Milchprodukte von ca. 200 Liter Milch) zu vergeben, frei geworden durch Kündigungen von aus-der- Region-Wegzügelnden, Weltreisenden, oder Leuten mit neuen Speisezetteln. Und so haben wir die Chance, Interessierten ein basimilch Abo anzubieten. Gerne könnt Ihr basimilch und den Basi Hof besichtigen am Schnupperanlass am Samstag 8.12.2018 um 9 Uhr (Anmeldung über info@basimil.ch). 
   
    
    
