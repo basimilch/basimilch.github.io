@@ -3,7 +3,7 @@ title: Willkommen!
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href=" ">
+<div class="alert alert-success" role="alert" data-href="info@basimil.ch">
   <div style="font-weight:bold;">
    Freie basimilch Abos fürs 2019
   </div>
