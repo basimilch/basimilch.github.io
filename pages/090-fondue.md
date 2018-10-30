@@ -15,6 +15,8 @@ So funktioniert's:
 
 - Die Aktion ist gültig bis zum 16. Dezember 2018
 
+- Am xx ist Schnuppertag bei basimilch und interessierte Freund_innen können von 9-12h im Basi vorbeischauen.
+
 - Bei der Anmeldung melden uns deine Freund_innen Deinen Namen. Das können sie im Feld "Notizen" tun. 
 
 - Du bekommst im Januar 2019 ein Fondue (400g) von der basimilch Limited Edition
