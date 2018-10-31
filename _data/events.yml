@@ -578,19 +578,20 @@
     Sirup, Bier, Wein und Gin. Honig aus der Stadt. Handgemachte Schokoladen und Kaffee. Edelweisskosmetika. 
     Vom Eingemachtem bis zum veredelten Lokaldünger Aurin.
 
-
 - title:        Podiumsdiskussion an der ETH nach Filmvorführung von In Our Hands: Seeding Change
   title_short:  Podiumsdiskussion ETH
   # type:         extern
-  start:        2018-11-21 17:15:00 +0200
-  end:          2018-11-21 19:30:00 +0200
+  start:       2018-11-21 17:15:00 +0200
+  end:         2018-11-21 19:30:00 +0200
   # day_hours:    10:00 - 16:00 
   url:          https://www.ethz.ch/content/dam/ethz/special-interest/dual/worldfoodsystemcenter-dam/WFSC%20Events/InOurHands-Screening-Flyer.pdf
-  image:        logos/InOurHands-Screening-Flyer.pgn
+  image:        logos/InOurHands-Screening-Flyer.jpg
   place:        ETH Zurich, LEE building, E 101
   place_url:    https://goo.gl/maps/4NzwwzYDDp82
   address:      Leonhardstrasse 21
   address_2:    8092 Zürich
   map_url:      https://goo.gl/maps/XUuYAPKBHNP2
   info: >
-    Screening of the documentary In Our Hands: Seeding Change along with an introduction from WFSC Executive Director Dr. Martijn Sonnevelt and a panel discussion with Christian Schöb, Professor of Agricultural Ecology at ETH Zurich, and Lukas Peter, co-founder of the local cooperative basimilch Dietikon.
+    Screening of the documentary In Our Hands: Seeding Change along with an introduction from WFSC Executive Director 
+    Dr. Martijn Sonnevelt and a panel discussion with Christian Schöb, Professor of Agricultural Ecology at ETH Zurich, 
+    and Lukas Peter, co-founder of the local cooperative basimilch Dietikon.
