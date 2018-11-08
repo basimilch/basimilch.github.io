@@ -13,9 +13,7 @@ Die Genossenschaft basimilch sucht für das Jahr 2019 neue Abonnent_innen. Hilf 
 
 Und so geht’s: Werbe in Deiner Familie, Deinem Freundeskreis, Deiner Nachbarschaft oder bei der Arbeit für ein Abo bei Basimilch. Wenn Du jemanden für ein Abo begeistern konntest, bitte die Person, sich bei [https://meine.basimil.ch/signup](https://meine.basimil.ch/signup/) zu registrieren. Schreibe gleichzeitig ein Mail an {% include email_link %} und teile uns Name und Vorname der Person mit. Sobald uns die Anmeldung vorliegt, setzen wir Dich auf die Liste der glücklichen Empfänger_innen einer Packung «GUETI LUUNE».
 
-Kontakt:
-<div class="contact">
-    basimilch Info-Mail <br>
-    {% include email_link username="info" subject="1 Fondue pro Neuabonent_in" body="Hoi Basimilch\n\n"%}
-</div>
+Die Aktion gilt bis zum 16. Dezember 2018.
+
+Zusatzinfos zum Weitergeben an interessierte: Am 8.12.2018 ist Schnuppermorgen mit Hofführung und Käsedegustation im Basi. Von 9 bis 11.00 Uhr. (Anmeldung über {% include email_link %} ).
 
