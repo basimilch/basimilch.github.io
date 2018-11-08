@@ -15,5 +15,5 @@ Und so geht’s: Werbe in Deiner Familie, Deinem Freundeskreis, Deiner Nachbarsc
 
 Die Aktion gilt bis zum 16. Dezember 2018.
 
-Zusatzinfos zum Weitergeben an interessierte: Am 8.12.2018 ist Schnuppermorgen mit Hofführung und Käsedegustation im Basi. Von 9 bis 11.00 Uhr. (Anmeldung über {% include email_link %} ).
+Zusatzinfos zum Weitergeben an Interessierte: Am 8.12.2018 sind alle willkommen am Schnuppermorgen mit Hofführung und Käsedegustation im Basi. Von 9 bis 11.00 Uhr. (Anmeldung über {% include email_link %} ).
 
