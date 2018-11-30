@@ -1,5 +1,5 @@
 ---
-title: Quark: Rezeptsammlung, Ideen und Wissenswertes
+title: Quark - Rezeptsammlung, Ideen und Wissenswertes
 subtitle: eine Zusammenstellung von Rosmarie Minder
 header-image: posts/2018-11-30-QuarksammlungRosmarie/quark.jpg
 tags: [Käserei, Quark, Im Basi]
