@@ -1,7 +1,7 @@
 ---
 title: Quark - Rezeptsammlung, Ideen und Wissenswertes
 subtitle: eine Zusammenstellung von Rosmarie Minder
-header-image: posts/2018-11-30-QuarksammlungRosmarie/quark.jpg
+header-image: posts/2018-11-30-QuarksammlungRosmarie/quark2018.jpg
 tags: [Käserei, Quark, Im Basi]
 ---
 
@@ -14,9 +14,10 @@ Deshalb hielt ich während dem ganzen Jahr Ausschau nach Quarkrezepten, habe Gen
 fündig! Sehr sogar. Ich probierte viele Kuchenrezepte aus und konnte dabei auf dem Basihof auf begeisterte Testesser_innen 
 zählen. Ich machte Gnocchi mit Quark, probierte Spätzliteig mit Quark (dafür habe ich die Eier reduziert) oder strich ihn 
 einfach statt Crème fraîche auf einen Flammkuchenteig. 
-Nun ist eine kleine Rezeptsammlung entstanden mit Ideen für Salziges und Süsses. Die meisten Rezepte habe ich selber getestet. Dazu ein paar Informationen zur Quarkherstellung. Hier gehts zum pdf. Eine gedruckte Version ist in Arbeit.
+Nun ist eine kleine Rezeptsammlung entstanden mit Ideen für Salziges und Süsses. Die meisten Rezepte habe ich selber getestet. Dazu ein paar Informationen zur Quarkherstellung. 
 
-**"Quark Rezepte"** {% include pdf_download_subtle_link pdf="2018-11-30-QuarksammlungRosmarie" %}
+Hier gehts zum pdf. Eine gedruckte Version ist in Arbeit. 
+"Quark Rezepte" {% include pdf_download_subtle_link pdf="2018-11-30-QuarksammlungRosmarie" %}
 
 Im Genossenschaftsraum auf dem Hof haben wir auch einige Rezeptbücher zum Thema Quark und anderen Milchprodukten. 
 Wenn ihr auf den Hof zur Mitarbeit kommt, dürft ihr euch gerne dort inspirieren lassen. Natürlich freuen wir uns auch 
