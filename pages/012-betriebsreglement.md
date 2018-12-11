@@ -26,11 +26,7 @@ Inhalt
 
 ### a. Standort
 
-Der Betrieb der Genossenschaft basimilch findet auf dem Hof Im Basi in
-Dietikon statt. Die Hofeigentümer_innen und -bewirtschafter_innen
-Anita Triaca und Fabian Brandenberger und die Genossenschaft basimilch
-legen ihre betriebsbezogene Zusammenarbeit in einem separaten Vertrag
-fest.
+Der Betrieb der Genossenschaft basimilch findet auf dem Hof Im Basi in Dietikon statt. Die Hofeigentümer_innen und -bewirtschafter_innen Anita Triaca und Fabian Brandenberger und die Genossenschaft basimilch legen ihre betriebsbezogene Zusammenarbeit in einem separaten Vertrag fest.
 
 
 
@@ -39,53 +35,28 @@ fest.
 
 ### a. Grundabo
 
-Die Milchprodukte werden wöchentlich verteilt, von Januar bis Ende
-Juni sowie von Mitte August bis Ende Dezember. In den
-Schulsommerferien pausiert das Abo. Ein Grundabo besteht aus
-entweder 4 oder 8 Liter verarbeitete Milch pro Woche (1 Liter verarbeitete
-Milch entspricht: 1 Liter Trinkmilch, 1kg Joghurt, 300g Quark, 100g
-Käse, 1dl Rahm oder 40g Butter, etc.). Das Abo wird aufgeteilt in einen
-individuellen und einen saisonalen Anteil.
+Die Milchprodukte werden wöchentlich verteilt, von Januar bis Ende Juni sowie von Mitte August bis Ende Dezember. In den Schulsommerferien pausiert das Abo. Ein Grundabo besteht aus 4 (halbes Abo) oder 8 Litern (ganzes Abo) verarbeiteter Milch
+pro Woche (1 Liter verarbeitete Milch entspricht: 1 Liter Trinkmilch, 1kg Joghurt, 350g Quark, 100g Käse, 1dl Rahm oder 40g Butter etc.). Das Abo wird aufgeteilt in einen individuell wählbaren Anteil und einen vom Käsereiteam bestimmten Anteil.
 
-Der individuelle Anteil ist in seiner Zusammensetzung für jedes Abo
-frei wählbar. Dieser Anteil deckt den regelmässigen, persönlichen
-Bedarf an Milchprodukten ab und wiederholt sich wöchentlich (z.B. jede
-Woche 2l Trinkmilch, 500g Joghurt, 500g Quark). Änderungen im
-individuellen Anteil sind halbjährlich möglich (bis Ende Mai für
-Änderungen ab August, bis Ende Oktober für Änderungen ab Januar).
+Der individuelle Anteil ist in seiner Zusammensetzung für jedes Abo frei wählbar. Dieser Anteil deckt den regelmässigen, persönlichen Bedarf an Milchprodukten ab und wiederholt sich wöchentlich (z.B. jede Woche 2l Trinkmilch, 500g Joghurt Nature, 500g Joghurt Frucht, 350g Quark). Änderungen im individuell wählbaren Anteil sind halbjährlich möglich. Neuabonnent_innen steht eine zusätzliche Änderung nach zwei Monaten ab Abostart zu.
 
-Der saisonale Anteil ist für alle Abos gleich, variiert aber von Woche
-zu Woche. In diesem Anteil sind tendenziell verschiedene Käsesorten
-(jeweils bis ca. 400g), vereinzelt aber auch Frischmilchprodukte
-enthalten. Dieser saisonale Teil bringt Abwechslung (z.B. Raclette im
-Winter, Bärlauch-Frischkäse im Frühling, Beerijoghurt im Sommer, etc.)
-und bietet dem/der Käser_in die Möglichkeit zu Innovation und
-Eigenkreationen.
+Der vom Käsereiteam bestimmte Anteil ist für alle Abos gleich, variiert in den Sorten aber von Woche zu Woche. In diesem Anteil sind meist verschiedene Käsesorten, gelegentlich aber auch Frischmilchprodukte enthalten. Dieser Teil bringt Abwechslung und bietet dem/der Käser_in die Möglichkeit zu Innovation und Eigenkreationen.
 
 
 ### b. Zusatzabo
 
-Wem das Grundabo zu klein ist, aber ein zweites Abo zuviel wäre,
-kann ein Zusatzabo lösen. Ein Zusatzabo In Schritten à jeweils 2l verarbeitete Milch
-können bis zu drei Zusatzabos gelöst werden. Die Produkte der
-Zusatzabos sind frei wählbar. Es gelten die selbe terminliche Regelung
-wie im Punkt 2.a. und 2.f.: halbjährliche
-Änderungen der Zusammensetzung und Kündigung auf Ende Jahr.
+Wem das Grundabo zu klein ist, aber ein zweites Abo zuviel wäre, kann ein Zusatzabo lösen. In Schritten à 2l verarbeiteter Milch können bis zu vier Zusatzabos gelöst werden. Die Produkte der Zusazabos sind frei wählbar. Es gelten dieselben terminlichen Regelungen wie für den individuell wählbaren Anteil unter den Punkten 2.a. und 2.f.: halbjährliche Änderungen der Zusammensetzung, resp. Kündigung auf Ende Jahr.
 
 
 ### c. Abonnent_in
 
-Als Mitglied der Genossenschaft ist man nicht automatisch Abonnent_in.
-Das Milchprodukte-Abo muss zusätzlich bestellt werden.
+Als Mitglied der Genossenschaft ist man nicht automatisch Abonnent_in. 
+Das Milchprodukte-Abo muss zusätzlich angemeldet werden.
 
 
 ### d. Ferien und Feiertagsregelungen
 
-Man kann das Milchprodukte-Abo nicht unterbrechen. Wer in den Ferien
-weilt, soll sein Abo Nachbar_innen, Freund_innen oder Kolleg_innen zur
-Verfügung stellen. Kühe kennen keine Feiertage. Die Milchprodukte
-werden auch dann verteilt, wenn der Liefertag auf einen Feiertag
-fällt.
+Man kann das Milchprodukte-Abo nicht unterbrechen. Kühe kennen keine Feiertage. Wer in den Ferien weilt, soll sein Abo Nachbar_innen, Freund_innen oder Kolleg_innen zur Verfügung stellen.  Die Milchprodukte werden auch dann verteilt, wenn der Liefertag auf einen Feiertag fällt.
 
 
 ### e. Aboverlängerung
@@ -95,36 +66,23 @@ Das Abo verlängert sich bis auf Wiederruf automatisch um ein Jahr.
 
 ### f. Abokündigung
 
-Das Milchprodukteabo kann unter Einhaltung einer viermonatigen
-Kündigungsfrist auf Ende eines Geschäftsjahres gekündigt werden.
-Spätester Kündigungstermin für das Folgejahr ist der 30. August des
-jeweils laufenden Jahres.
+Das Abo kann unter Einhaltung einer viermonatigen Kündigungsfrist auf Ende eines Kalenderjahres gekündigt werden. Spätester Kündigungstermin für das Folgejahr ist der 31. August des laufenden Jahres.
 
 
 
 3\. Verteilung
 --------------
 
-### a. Fahrer_innen
+### a. Ausfahrer_innen
 
-Die Milchprodukteabos werden von den Fahrer_innen auf dem Hof Im Basi
-in Dietikon abgeholt und an die Quartierdepots verteilt. Die
-Fahrer_innen nutzen dazu das Auto inkl. Kühlanhänger der
-Genossenschaft oder organisieren das Auto selber. Bei Transporten mit
-Privatfahrzeugen werden die Benzinkosten durch eine Benzinpauschale
-pro Verteilroute, Sonderfahrten mit einem benzinkostendeckenden
-Kilometer-Ansatz rückvergütet. Die Einsatzplanung erfolgt über den
-Mitgliederbereich der basimilch-Website.
+Die Milchprodukteabos werden von den Fahrer_innen auf dem Hof Im Basi in Dietikon abgeholt und in die Quartierdepots verteilt. Die Fahrer_innen nutzen dazu den Lieferwagen, welchen die Genossenschaft basimilch mit der Genossenchaft Ortoloco teilt. Die Einsatzplanung erfolgt über den Mitgliederbereich der Plattform meine.basimil.ch. Alle Informationen zum Ausfahren befinden sich im Fahrer_innenordner von basimilch (inkl. Notfallplan).
 
 ### b. Quartierdepots
 
-Das Einzugsgebiet liegt tendenziell im oberen Limmattal und in Zürich.
-Die Standorte der Quartierdepots werden anhand der geografischen
-Verteilung der Genossenschafter_innen definiert.
+Das Einzugsgebiet liegt heute im oberen Limmattal und in Zürich. Die Standorte der Quartierdepots werden anhand der geografischen Verteilung der Genossenschafter_innen definiert.
 
-Ein Depot besteht aus einem Kühlschrank. Die Depots werden durch
-Genossenschafter_innen betreut und sollten leicht zugänglich, aber
-trotzdem nicht öffentlich ausgestellt sein.
+Die Depots werden durch Genossenschafter_innen betreut und sollten leicht zugänglich, aber trotzdem nicht öffentlich exponiert sein. In jedem Depot stehen Kühlschränke, die permanent in Betrieb sind.
+
 
 
 
@@ -135,9 +93,8 @@ trotzdem nicht öffentlich ausgestellt sein.
 
 #### i. Rechte
 
-Die Genossenschafter_innen sind gemeinsam Eigentümer_innen des
-basimilch-Betriebs. Ihnen stehen entsprechend alle Rechte zu, die
-gemäss Gesetz und Statuten verfasst sind.
+Die Genossenschafter_innen sind gemeinsam Eigentümer_innen des basimilch-Betriebs. 
+Ihnen stehen entsprechend alle Rechte zu, die im Gesetz und in den Genossenschaftsstatuten verbrieft sind.
 
 #### ii. Pflichten
 
@@ -147,50 +104,38 @@ Möglichkeiten gemeinsam zum Gelingen des Betriebes beizutragen.
 
 #### iii. Zusätzliche Rechte und Pflichten als Abonnent_innen
 
-Als Abonnent_in ist man berechtigt den vereinbarten Anteil der
-Milchprodukte zu beziehen. Als Abonnent_in verpflichtet man sich zur
-Mitarbeit (vgl. Abschnitt Mitarbeit) und bezahlt den jährlichen
-Betriebsbeitrag pro Abo im Voraus.
+Abonnent_innen sind berechtigt, den von ihnen mit der Genossenschaft vereinbarten Anteil der Milchprodukte zu beziehen. Als Abonnent_in verpflichtet man sich zur Mitarbeit (vgl. Abschnitt Mitarbeit) und bezahlt einen jährlichen Betriebsbeitrag pro Abo im Voraus.
 
 
 ### b. Rechte und Pflichten der Betriebsgruppe
 
-Die Rechte und Pflichten der Betriebsgruppe sind in den Statuten klar
-umschrieben und eingegrenzt.
+Die Rechte und Pflichten der Betriebsgruppe sind in den Statuten umschrieben und eingegrenzt.
 
-Die Tätigkeit der Betriebsgruppenmitglieder wird monetär und/oder mit
-einem Milchprodukteabo honoriert.
+Die Tätigkeit der Betriebsgruppenmitglieder wird mit einem ganzen Grundabo pro Mitglied honoriert.
+         
+Die Käser_innen sind Teil der Betriebsgruppe. So kann der notwendige Informationsfluss zwischen den Produktions- und Administrationsbereichen regelmässig und unkompliziert stattfinden.
 
-Die Käser_innen sind Teil der Betriebsgruppe. So kann der notwendige
-Informationsfluss zwischen den Produktions- und
-Administrationsbereichen regelmässig und unkompliziert stattfinden.
 
 
 ### c. Rechte und Pflichten der Käser_innen (und Praktikant_innen)
 
-Die arbeitsrechtlichen Pflichten der Käser_innen (und
-Praktikant_innen) werden in den Arbeitsverträgen zwischen ihnen und
-der Genossenschaft festgelegt.
+Die arbeitsrechtlichen Pflichten der Käser_innen (und Praktikant_innen) werden in den Arbeitsverträgen zwischen ihnen und dem Hof im Basi festgelegt.
 
-Die Statuten beschreiben das Tätigkeitsfeld der Käser_innen (und
-Praktikant_innen) als solche und als Teil der Betriebsgruppe.
+Die Statuten beschreiben das Tätigkeitsfeld der Käser_innen (und Praktikant_innen) als solche und als Teil der Betriebsgruppe.
 
-Der Schwerpunkt ihrer Arbeit liegt in den fachspezifischen Arbeiten.
-Zudem ist die Mitarbeit in der Betriebsgruppe Teil ihrer Anstellung
-als Käser_in. Diese wird monetär über ihren Lohn entschädigt.
 
 
 
 5\. Mitarbeit
 -------------
 
-### a. Wer
+### a. Wer leistet MItarbeit?
 
 Für die anfallende Mitarbeit stellen sich Abonnent_innen im Rahmen
 ihrer Mitarbeitspflicht zur Verfügung.
 
 
-### b. Was
+### b. Was wird geleistet?
 
 Da die Arbeit in der Käserei ein hohes Hygienebewusstsein und
 Erfahrung voraussetzen, wird die Herstellung der Milchprodukte von den
@@ -202,7 +147,7 @@ in die Depots, Depot-Betreuung, Wartung der Infrastruktur sowie
 Administration oder Gestaltung resp. Mitarbeit in einer Projektgruppe.
 
 
-### c. Wie oft
+### c. Wie oft wird Mitarbeit geleistet?
 
 Die jährliche Mindestleistung für ein 4 Liter Grundabo besteht aus 
 zwei Einsätzen, für ein 8 Liter Grundabo aus vier Einsätzen pro Jahr. 
@@ -212,22 +157,22 @@ circa einen halben Tag. Zusätzliches Engagement ist herzlich
 willkommen.
 
 
-### d. Wann
+### d. Wann wird mitgearbeitet?
 
 Der Zeitpunkt der Mitarbeit wird je nach Art der anfallenden
 Tätigkeiten  von den Käser_innen und/oder von der Betriebsgruppe
 koordiniert. Die Einsatzplanung erfolgt über den Mitgliederbereich der
 basimilch-Website.
 
+### e. Verantwortlichkeit für Einsätze
 
-### e. Konditionen
+Kann ein/eine Genossenschafter_in einen Einsatz nicht wahrnehmen, so muss er/sie selber für eine Ersatzperson sorgen.
+
+### f. Konditionen
 
 #### i. Kleidung
 
-Für passende und geeignete Kleidung sorgen alle selber. Für die
-Käser_innen und Praktikant_innen können im Arbeitsvertrag Ausnahmen
-vereinbart werden. Um die Bereitstellung von sehr spezifischer
-Ausrüstung ist die Betriebsgruppe besorgt.
+Für passende und geeignete Kleidung sorgen alle selber. Für die Käser_innen und Praktikant_innen können im Arbeitsvertrag Ausnahmen vereinbart werden. Um die Bereitstellung von spezifischer Ausrüstung oder Kleidung ist die Betriebsgruppe besorgt.
 
 #### ii. Unfälle
 
@@ -258,18 +203,13 @@ Beteiligten eingehalten werden.
 
 #### i. Erwerb
 
-Mit der Aufnahme in die Genossenschaft ist der Erwerb eines oder
-mehrerer Anteilscheine (entspricht dem Eigen- bzw. Risikokapital der
-Genossenschaft) im Wert von je CHF 300.- verbunden. Haushalte, die ein
-Abo beziehen, müssen mindestens zwei Anteilscheine besitzen.
+Mit der Aufnahme in die Genossenschaft ist der Erwerb eines oder mehrerer Anteilscheine (= Eigen- bzw. Risikokapital der Genossenschaft) im Wert von je CHF 300.- verbunden. Haushalte, die ein ganzes Abo beziehen, müssen in der Regel mindestens zwei Anteilscheine besitzen, für ein halbes Abe braucht es einen Anteilschein. Haushalte, die 3 oder 4 Zusatzabos beziehen, müssen in der Regel einen weiteren, dritten Anteilschein besitzen.
 
-Auf Grund der Stimmberechtigung empfiehlt es sich, die Anteilscheine
-auf die einzelnen Personen im Haushalt zu verteilen.
+Der Zweck der Genossenschaft legt nahe, dass die Anteilscheine auf die einzelnen Personen im Haushalt verteilt werden. 
 
 #### ii. Kündigung
 
-Der Austritt oder Ausschluss aus der Genossenschaft richtet sich nach
-Gesetz und Statuten und muss schriftlich erfolgen.
+Der Austritt oder Ausschluss aus der Genossenschaft richtet sich nach Gesetz und Statuten und muss schriftlich erfolgen.
 
 
 ### b. Betriebsbeiträge
@@ -277,14 +217,13 @@ Gesetz und Statuten und muss schriftlich erfolgen.
 Die Höhe der Betriebsbeiträge wird von der Generalversammlung der
 Genossenschaft festgelegt.
 
+Solidaritäts-Fonds: Gutverdienende zahlen mindestens CHF 100.- mehr pro 
+Abo. Der Mehrertrag fliesst in einen Topf, der für Wenigverdienende eine Beitragsreduktion ermöglicht. Zu welcher Einkommenskategorie ein/eine Abonnent_in gehört, entscheidet sie/er selber. Diese Selbsteinschätzung wird genossenschaftsintern passiv transparent gehandhabt.
+
 
 ### c. Buchhaltung
 
-Die Buchhaltung wird von der Betriebsgruppe transparent geführt oder
-beauftragt. Jede_r Genossenschafter_in hat das Recht, sämtliche Belege
-und Unterlagen einzusehen, sofern diese Einsicht keine
-Persönlichkeitsrechte (z.B. der Käser_innen) oder andere übergeordnete
-Bestimmungen verletzt.
+Die Buchhaltung wird von der Betriebsgruppe geführt und muss seriös und transparent sein. Jede/jeder Genossenschafter_in hat das Recht, jederzeit (ausser zur Unzeit) sämtliche Belege und Unterlagen einzusehen, sofern diese Einsicht keine Persönlichkeitsrechte (z.B. der Fachkräfte und Praktikant_innen) oder andere übergeordnete Bestimmungen verletzt.
 
 
 ### d. Ausgaben-Rückvergütung
@@ -303,4 +242,6 @@ Depots ist in [Artikel 3.a](#a-fahrerinnen). geregelt.
 Ansprüche aus dieser Bestimmung verfallen nach der Genehmigung der
 Jahresrechnung des betreffenden Jahres an der Generalversammlung.
 
-_Dietikon, den 12. Juni 2015_
+_Dietikon, den 27. Februar 2015
+Veränderungen gemäss ausserordentliche GV am 30.10.2016
+Veränderungen gemäss Generalversammlung am 27.5.2018_
