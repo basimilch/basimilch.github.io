@@ -5,10 +5,12 @@ permalink: /
 
 <div class="alert alert-success" role="alert" data-href="https://basimil.ch/genossenschaft/#abo-bestellen">
   <div style="font-weight:bold;">
-   Freie basimilch Abos fürs 2019 -> Anmeldung bis am 15. Dezember!
+   basimilch liefert über die Festtage!
   </div>
 
-Per 1.1.2019 haben wir etwa noch 10-20 freie Abos (Milchprodukte von ca. 80 Liter Milch) zu vergeben, frei geworden durch Kündigungen von aus-der-Region-Wegzügelnden, Weltreisenden, oder Leuten mit neuen Speisezetteln. Und so haben wir die Chance, Interessierten ein basimilch Abo anzubieten. Anmeldung hier online. Bei Fragen melde Dich bei info@basimil.ch. Wir freuen uns auf Dich!
+Bei basimilch sind wir ganz im Kuh-Modus: morgens und abends um punkt 5h wird gemolken, jeden zweiten Tag  die Milch verkäst und die Abos jeden Freitag / Samstag augeliefert. Auch an den beiden letzten Wochenenden des 2018 liefern wir die Abos direkt in Deinen Depot-Kühlschrank. 
+Du bist über die Festtage über dem Nebel? Dann unbedingt frühzeitig organisieren damit dein Abo von verbleibenden armen Seelen unter dem Nebel abgeholt wird.
+Herzlichen Dank für Eure genossenschaftliche Verbundheit im 2018. Frohe Festtage!
   
    
    
