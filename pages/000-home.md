@@ -8,7 +8,7 @@ permalink: /
    basimilch liefert über die Festtage!
   </div>
 
-Bei basimilch sind wir ganz im Kuh-Modus: morgens und abends um punkt 5h wird gemolken, jeden zweiten Tag  die Milch verkäst und die Abos jeden Freitag / Samstag ausgeliefert. Auch an den beiden letzten Wochenenden des 2018 liefern wir die Abos direkt in Deinen Depot-Kühlschrank. 
+Bei basimilch sind wir ganz im Kuh-Modus: morgens und abends um punkt 5h wird gemolken, jeden zweiten Tag  die Milch verkäst und die Abos jeden Freitag / Samstag ausgeliefert. Auch an den beiden letzten Wochenenden des 2018 liefern wir direkt in Deinen Depot-Kühlschrank. 
 Du bist über die Festtage über dem Nebel? Dann unbedingt frühzeitig organisieren damit dein Abo von verbleibenden armen Seelen unter dem Nebel abgeholt und genossen wird.
 Herzlichen Dank für Deine warmherzige, genossenschaftliche Verbundheit im 2018. Frohe Festtage!
   
