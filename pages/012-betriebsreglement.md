@@ -217,9 +217,6 @@ Der Austritt oder Ausschluss aus der Genossenschaft richtet sich nach Gesetz und
 Die Höhe der Betriebsbeiträge wird von der Generalversammlung der
 Genossenschaft festgelegt.
 
-Solidaritäts-Fonds: Gutverdienende zahlen mindestens CHF 100.- mehr pro 
-Abo. Der Mehrertrag fliesst in einen Topf, der für Wenigverdienende eine Beitragsreduktion ermöglicht. Zu welcher Einkommenskategorie ein/eine Abonnent_in gehört, entscheidet sie/er selber. Diese Selbsteinschätzung wird genossenschaftsintern passiv transparent gehandhabt.
-
 
 ### c. Buchhaltung
 
