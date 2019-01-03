@@ -5,7 +5,7 @@ permalink: /
 
 <div class="alert alert-success" role="alert" data-href="https://basimil.ch/genossenschaft/#abo-bestellen">
   <div style="font-weight:bold;">
-   basimilch liefert über die Festtage!
+   Auf ins vierte Jahr der basimilch-Zeitrechnung!
   </div>
 
 Auf ins vierte Jahr der basimilch-Zeitrechnung! Los gehts mit einer Première: der neue Hartkäse namens "Hasenberger" kommt nach einem ganzen Jahr im Keller endlich ans Licht. Nussig-herb im Geschmack wird er unsere Aromenpalette erweitern. Hasenberg heisst ein Hügel oberhalb von Bergdietikon...und folgt der Hasenbergstrasse und ihr kommt ins Basi! Wir freuen uns auf Euch im 2019, bis bald!
