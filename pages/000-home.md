@@ -8,9 +8,7 @@ permalink: /
    basimilch liefert über die Festtage!
   </div>
 
-Bei basimilch sind wir ganz im Kuh-Modus: morgens und abends um punkt 5h wird gemolken, jeden zweiten Tag  die Milch verkäst und die Abos jeden Freitag / Samstag ausgeliefert. Auch an den beiden letzten Wochenenden des 2018 liefern wir direkt in Deinen Depot-Kühlschrank. 
-Du bist über die Festtage über dem Nebel? Dann unbedingt frühzeitig organisieren damit dein Abo von verbleibenden armen Seelen unter dem Nebel abgeholt und genossen wird.
-Herzlichen Dank für Deine warmherzige, genossenschaftliche Verbundheit im 2018. Frohe Festtage!
+Auf ins vierte Jahr der basimilch-Zeitrechnung! Los gehts mit einer Première: der neue Hartkäse namens "Hasenberger" kommt nach einem ganzen Jahr im Keller endlich ans Licht. Nussig-herb im Geschmack wird er unsere Aromenpalette erweitern. Hasenberg heisst ein Hügel oberhalb von Bergdietikon...und folgt der Hasenbergstrasse und ihr kommt ins Basi! Wir freuen uns auf Euch im 2019, bis bald!
   
    
    
