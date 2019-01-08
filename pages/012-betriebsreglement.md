@@ -159,7 +159,7 @@ willkommen.
 
 ### d. Wann wird mitgearbeitet?
 
-Mindestens die Hälfte der Einsätze pro Abo sollen bis zu den Sommerferien geleistet werden (mit Kontrolle und Mahnung). Der genaue Zeitpunkt der Mitarbeit wird je nach Art der anfallenden Tätigkeiten  von den Käser_innen und/oder von der Betriebsgruppe koordiniert. Die Einsatzplanung erfolgt über den Mitgliederbereich von meine.basimil.ch. Zusätzliche, kurzfristige Einsätze werden per E-Mail bekannt gegeben (z.B. Früchte einkochen, Helfer_innen für Anlässe etc.).
+Mindestens die Hälfte der Einsätze pro Abo sollen bis zu den Sommerferien geleistet werden (mit Kontrolle und Mahnung). Der genaue Zeitpunkt der Mitarbeit wird je nach Art der anfallenden Tätigkeiten  von den Käser_innen und/oder von der Betriebsgruppe koordiniert. Die Einsatzplanung erfolgt über den Mitgliederbereich von [meine.basimil.ch]. Zusätzliche, kurzfristige Einsätze werden per E-Mail bekannt gegeben (z.B. Früchte einkochen, Helfer_innen für Anlässe etc.).
 
 ### e. Verantwortlichkeit für Einsätze
 
