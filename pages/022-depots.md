@@ -12,7 +12,7 @@ Standortvorschläge in der Stadt Zürich und Umgebung Dietikon.
 
 ## Depots 2019
 
-Freitagsauslieferroute
+Auslieferung am Freitag (auf der Karte blau markiert):
 1. **Zirkus Chnopf**, Altstetten, [Flurstrasse 85, 8047, Altstetten](https://www.google.ch/maps/place/Flurstrasse+85+8047+Altstetten+Switzerland)
 1. **Im Gut**, Sihlfeld, [Gutstrasse 135, 8055 Zürich](https://www.google.ch/maps/place/Gutstrasse+95+8055+Zürich)
 1. **Kalkbreite**, Kreis 3 - 4, [Genossenschaft Kalkbreite, Kalkbreitestrasse 2, 8003 Zürich](https://www.google.ch/maps/place/Kalkbreitestrasse+2+8003+Zürich+Switzerland)
@@ -21,7 +21,7 @@ Freitagsauslieferroute
 1. **Kraftwerk Hardturm**, Zürich West, [Hardturmstrasse 269, 8005 Zürich](https://www.google.ch/maps/place/Hardturmstrasse+269,+8005+Zürich)
 1. **Kraftwerk Heizenholz**, Höngg, [Regensdorferstrasse 190, 8049 Zürich](https://www.google.ch/maps/place/Regensdorferstrasse+190,+8049+Zürich)
 
-Samstagsauslieferroute
+Auslieferung am Samstag (auf der Karte rot markiert):
 1. **Hof Im Basi**, Dietikon, [Alte Kindhauserstrasse 3, 8953 Dietikon](https://www.google.ch/maps/place/Alte+Kindhauserstrasse+3+8953+Dietikon+Switzerland)
 1. **Mühlehaldequartier**, Dietikon, [Mühlehaldenstrasse 25, 8953 Dietikon](https://goo.gl/maps/33JVpyshwwE2)
 1. **Im Dörfli**, Dietikon, [Dörfli-Genossenschaft Wolfsmatt, Im Dörfli, 8953 Dietikon](https://www.google.ch/maps/place/Im+Dörfli+27+8953+Dietikon+Switzerland)
