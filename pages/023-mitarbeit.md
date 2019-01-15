@@ -21,7 +21,7 @@ Bitte schreibe Dich für die Einsätze ein, auf [meine.basimil.ch](http://meine.
 Die Mitarbeit der Abonnent_innen wird vor allem in den Bereichen Produktionsvorbereitungen,
 Joghurtabfüllen, Käseabpacken und Ausfahren geleistet. Leute, die mehr Verantwortung übernehmen
 möchten, können auch Käse schmieren oder eventuell andere Tätigkeiten in der Käserei ausführen.
-Natürlich ist es auch möglich, ein Praktikum in der Käserei zu absolvieren. Mehr Infos zu einem Praktikum findest Du hier [Praktikumsstelle](basimil.ch/praktikum).
+Natürlich ist es auch möglich, ein Praktikum in der Käserei zu absolvieren. Mehr Infos zu einem Praktikum findest Du hier [Praktikumsstelle](/praktikum).
 
 # Hygieneinformationen
 
