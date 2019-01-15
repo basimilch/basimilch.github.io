@@ -12,7 +12,7 @@ nach dem Melken ermöglicht.
 
 Mehr Informationen zu unseren Milchprodukten findest Du hier:
 
-- Mutschli - [Käseportrait 1- das Mutschli] (https://basimil.ch/blog/2018/01/22/kaeseportrait-01-mutschli)
+- [Mutschli](https://basimil.ch/blog/2018/01/22/kaeseportrait-01-mutschli)
 - Raclette - [Käseportrait 2 - Raclette, quadratisch und unvergleichlich gut] (https://basimil.ch/blog/2018/02/21/kaeseportrait-02-raclette)
 - Älpler - [Käseportrait 3 - Älpler] (https://basimil.ch/blog/2018/03/20/kaeseportrait-03-aelpler)
 - Marmori - [Käseportrait 4 - Marmori, der Graue] (https://basimil.ch/blog/2018/04/11/kaeseportrait-04-marmori)
