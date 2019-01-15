@@ -2,7 +2,7 @@
 title: Praktikumsstelle
 description: Stellenbeschrieb für Praktika
 section-group: main
-permalink: /praktikum
+permalink: kaeserei/praktikum
 published: true # SOURCE: http://stackoverflow.com/a/14440927/5764181
 ---
 
