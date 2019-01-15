@@ -16,11 +16,3 @@ Hofbesitzer_innen Anita Triaca und Fabian Brandenberger liebevoll
 gepflegt. Die Fütterung ist silofrei und besteht hauptsächlich aus
 Gras und Heu.
 
-# Die hofeigene Käserei
-
-Alle unsere Milchprodukte werden direkt in der hofeigenen Käserei
-in Dietikon hergestellt. Somit werden jegliche Transportwege vermieden
-und es wird eine Verarbeitung der frischen, naturbelassenen Milch direkt
-nach dem Melken ermöglicht.
-
-{% include project-presentation-slides.html %}
