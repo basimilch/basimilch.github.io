@@ -10,7 +10,7 @@ auf dem Hof im Basi in Dietikon hergestellt. Somit werden jegliche Transportwege
 und es wird eine Verarbeitung der frischen, naturbelassenen Milch direkt
 nach dem Melken ermöglicht.
 
-Mehr Informationen zu unseren Milchprodukten findest Du hier:
+Mehr Informationen zu unseren Milchprodukten findest Du auf dem [basimilch Blog](https://basimil.ch/blog):
 
 - [Mutschli](https://basimil.ch/blog/2018/01/22/kaeseportrait-01-mutschli)
 - [Raclette](https://basimil.ch/blog/2018/02/21/kaeseportrait-02-raclette)
