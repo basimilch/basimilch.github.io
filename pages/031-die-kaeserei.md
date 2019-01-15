@@ -13,11 +13,11 @@ nach dem Melken ermöglicht.
 Mehr Informationen zu unseren Milchprodukten findest Du hier:
 
 - [Mutschli](https://basimil.ch/blog/2018/01/22/kaeseportrait-01-mutschli)
-- Raclette - [Käseportrait 2 - Raclette, quadratisch und unvergleichlich gut] (https://basimil.ch/blog/2018/02/21/kaeseportrait-02-raclette)
-- Älpler - [Käseportrait 3 - Älpler] (https://basimil.ch/blog/2018/03/20/kaeseportrait-03-aelpler)
-- Marmori - [Käseportrait 4 - Marmori, der Graue] (https://basimil.ch/blog/2018/04/11/kaeseportrait-04-marmori)
-- Basitaler - [Käseportrait 5 - Basitaler, der Wandlungsfähige] (https://basimil.ch/blog/2018/06/05/kaeseportrait-05-basitaler)
-- Camembert - [Käseportrait 6 - Basi-Camembert] (https://basimil.ch/blog/2018/08/14/kaeseportrait-06-camembert)
-- Quark - [Quark - Rezeptsammlung, Ideen und Wissenswertes] (https://basimil.ch/blog/2018/11/30/QuarksammlungRosmarie/)
+- [Raclette](https://basimil.ch/blog/2018/02/21/kaeseportrait-02-raclette)
+- [Älpler](https://basimil.ch/blog/2018/03/20/kaeseportrait-03-aelpler)
+- [Marmori](https://basimil.ch/blog/2018/04/11/kaeseportrait-04-marmori)
+- [Basitaler](https://basimil.ch/blog/2018/06/05/kaeseportrait-05-basitaler)
+- [Camembert](https://basimil.ch/blog/2018/08/14/kaeseportrait-06-camembert)
+- [Quark](https://basimil.ch/blog/2018/11/30/QuarksammlungRosmarie/)
 
 {% include project-presentation-slides.html %}
