@@ -16,7 +16,7 @@ Deswegen verpflichten sich alle Abonnent_innen zur [Mitarbeit](/genossenschaft/b
 für ein 4 Liter Grundabo aus 2 Einsätzen pro Jahr. Bei jedem Zusatzabo von 2 Litern wird 
 einen zusätzlichen Einsatz pro Jahr erwartet. Ein Einsatz dauert circa einen halben Tag. 
 Zusätzliches Engagement ist natürlich herzlich willkommen.**
-Bitte schreibe Dich für die Einsätze ein, auf [meine.basimil.ch](meine.basimil.ch).
+Bitte schreibe Dich für die Einsätze ein, auf [meine.basimil.ch](http://meine.basimil.ch).
 
 Die Mitarbeit der Abonnent_innen wird vor allem in den Bereichen Produktionsvorbereitungen,
 Joghurtabfüllen, Käseabpacken und Ausfahren geleistet. Leute, die mehr Verantwortung übernehmen
