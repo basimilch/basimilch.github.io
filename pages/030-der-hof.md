@@ -28,5 +28,5 @@ Portraits von den Kühen im Basi findest Du auf dem [basimilch Blog](https://bas
 
 
 Weitere Infos über den Biohof im Basi finden sich hier:
-Terra abc Blog ["Leben und Schaffen auf dem Hof im Basi"](https://www.terrabc.ch/de/blog-forum/blog) 
-[Vom Milchbuur, Swissmilk](https://vommilchbuur.swissmilk.ch/wir-stellen-uns-vor/profil/anita-triaca-und-fabian-brandenberger)
+- Terra abc Blog ["Leben und Schaffen auf dem Hof im Basi"](https://www.terrabc.ch/de/blog-forum/blog) 
+- Vom Milchbuur [Swissmilk](https://vommilchbuur.swissmilk.ch/wir-stellen-uns-vor/profil/anita-triaca-und-fabian-brandenberger)
