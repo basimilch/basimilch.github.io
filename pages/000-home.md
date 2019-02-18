@@ -23,7 +23,8 @@ Zürich verteilt. Es ist uns ein Anliegen, dass unsere Produkte **fair produzier
 und **lokal konsumiert** werden.
 
 {% include button-signup.html %}
+{% include newsletter_form.html %}
 
 {% include button-facebook-like.html %}
 
-{% include newsletter_form.html %}
+
