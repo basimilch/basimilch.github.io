@@ -4,7 +4,7 @@ description: Stellenbeschrieb für Praktika
 permalink: /kaeserei/praktikum
 ---
 
-# Praktikum bei basimilch
+## Praktikum bei basimilch
 
 Die Zusammenarbeit mit Praktikantinnen und Praktikanten hat sich sehr bewährt. Das basimilch
 Hofkäsereiteams freut sich regelmässig interessierte Leute in die Arbeit mit einzuspannen.
