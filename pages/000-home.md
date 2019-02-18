@@ -10,7 +10,7 @@ permalink: /
 
 Los gehts mit einer Première: der neue Hartkäse namens "Hasenberger" kommt nach einem ganzen Jahr im Keller endlich ans Licht. Nussig-herb im Geschmack wird er unsere Aromenpalette erweitern. Hasenberg heisst ein Hügel oberhalb von Bergdietikon...und folgt der Hasenbergstrasse und Ihr kommt ins Basi! Wir freuen uns auf Euch im 2019, bis bald!
   
-   
+   </div>  
    
 
 
