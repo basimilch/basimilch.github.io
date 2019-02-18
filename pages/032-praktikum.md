@@ -1,7 +1,7 @@
 ---
 title: Praktikumsstelle
 description: Stellenbeschrieb für Praktika
-permalink: kaeserei/praktikum
+permalink: /kaeserei/praktikum
 ---
 
 # Praktikum bei basimilch
