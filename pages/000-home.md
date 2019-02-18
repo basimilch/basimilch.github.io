@@ -12,7 +12,7 @@ Los gehts mit einer Première: der neue Hartkäse namens "Hasenberger" kommt nac
   
    
    
-</div>
+
 
 
 Die **{{site.info.name}}** ist eine kooperative Käserei auf dem
