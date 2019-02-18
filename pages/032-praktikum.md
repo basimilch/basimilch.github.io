@@ -3,7 +3,6 @@ title: Praktikumsstelle
 description: Stellenbeschrieb für Praktika
 section-group: main
 permalink: kaeserei/praktikum
-published: true # SOURCE: http://stackoverflow.com/a/14440927/5764181
 ---
 
 # Praktikum bei basimilch
