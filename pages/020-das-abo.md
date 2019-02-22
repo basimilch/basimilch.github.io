@@ -78,6 +78,7 @@ Heublumenkäse, Fonduemischung)
 - **Jahresbeitrag für Zusatzabos:** 300.- Fr.
 - **Mitarbeit pro Abo und Jahr:** 8 l Abo mind. 4 Einsätze (à ca. 1/2 Tag); 4 l Abo mind. 2 Einsätze (à ca. 1/2 Tag)
 - **Start:** per 1. Januar
+
 {% include button-signup.html %}
 
 # Infoblatt
