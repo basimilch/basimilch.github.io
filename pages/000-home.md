@@ -12,7 +12,7 @@ Los gehts mit einer Première: der neue Hartkäse namens "Hasenberger" kommt nac
   
    </div>  
    
-
+{% include newsletter_form.html %}
 
 
 Die **{{site.info.name}}** ist eine kooperative Käserei auf dem
@@ -22,8 +22,7 @@ Rohmilch, etc.) verarbeitet und im wöchentlichen Abo in der Region
 Zürich verteilt. Es ist uns ein Anliegen, dass unsere Produkte **fair produziert**
 und **lokal konsumiert** werden.
 
-{% include button-signup.html %}   {% include newsletter_form.html %}
-
+{% include button-signup.html %}   
 
 {% include button-facebook-like.html %}
 
