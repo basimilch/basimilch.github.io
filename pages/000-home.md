@@ -5,10 +5,10 @@ permalink: /
 
 <div class="alert alert-success" role="alert" data-href="https://basimil.ch/genossenschaft/#abo-bestellen">
   <div style="font-weight:bold;">
-   Auf ins vierte Jahr der basimilch-Zeitrechnung!
+  basimilch Praktikumsstelle ab Mitte April
   </div>
 
-Los gehts mit einer Première: der neue Hartkäse namens "Hasenberger" kommt nach einem ganzen Jahr im Keller endlich ans Licht. Nussig-herb im Geschmack wird er unsere Aromenpalette erweitern. Hasenberg heisst ein Hügel oberhalb von Bergdietikon...und folgt der Hasenbergstrasse und Ihr kommt ins Basi! Wir freuen uns auf Euch im 2019, bis bald!
+Hast Du Lust dabei zu sein, wenn Dein Joghurt angesetzt, Dein Käse produziert und Dein Quark abgetropft wird? Wir benötigen Unterstützung in der basimilch Käserei, jeweils am Montag und am Donnerstag. Dafür bieten wir Wissen, Erfahrung, ein nahrhaftes zMittag und feine Naturalien. Hier findest Du mehr Infos: https://basimil.ch/kaeserei/praktikum 
   
    </div>  
    
