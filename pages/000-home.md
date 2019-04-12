@@ -3,12 +3,12 @@ title: Willkommen!
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href="https://basimil.ch/kaeserei/praktikum">
+<div class="alert alert-success" role="alert" data-href="https://docs.google.com/forms/d/e/1FAIpQLSexdpYh5mI6gob23ppLdOZoQD6P9MUIn6Qu-K4K8uBdvW17wQ/viewform">
   <div style="font-weight:bold;">
-  Käserei Praktikumsstelle ab Mitte April
+  basimilch Abo auf Sommer optimieren
   </div>
 
-Hast Du Lust dabei zu sein, wenn Dein Joghurt angesetzt, Dein Käse produziert und Dein Quark abgetropft wird? Wir benötigen Unterstützung in der basimilch Käserei, jeweils am Montag und am Donnerstag. Dafür bieten wir Wissen, Erfahrung, ein nahrhaftes zMittag und feine Naturalien. Mehr Infos findest Du hier: https://basimil.ch/kaeserei/praktikum 
+Je nach Saison esst ihr im Haushalt mehr Joghurt und Quark, anstatt Käse? Dann kannst Du jetzt Dein Abo für die Sommermonate optimieren. Fülle bis zum 22. April die Umfrage zur Aboanpassung aus und die neue Zusammenstellung wird per Mai in Deinen Kühlschrank geliefert. Auch Depotwechsel und die Bestellung von Zusatzabo sind jetzt möglich! (Per Mausklick aufs grüne Feld hier, gelangst Du zur Umfrage) 
   
    </div>  
    
