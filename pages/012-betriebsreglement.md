@@ -38,14 +38,14 @@ Der Betrieb der Genossenschaft basimilch findet auf dem Hof Im Basi in Dietikon 
 Die Milchprodukte werden wöchentlich verteilt, von Januar bis Ende Juni sowie von Mitte August bis Ende Dezember. In den Schulsommerferien pausiert das Abo. Ein Grundabo besteht aus 4 (halbes Abo) oder 8 Litern (ganzes Abo) verarbeiteter Milch
 pro Woche (1 Liter verarbeitete Milch entspricht: 1 Liter Trinkmilch, 1kg Joghurt, 350g Quark, 100g Käse, 1dl Rahm oder 40g Butter etc.). Das Abo wird aufgeteilt in einen individuell wählbaren Anteil und einen vom Käsereiteam bestimmten Anteil.
 
-Der individuelle Anteil ist in seiner Zusammensetzung für jedes Abo frei wählbar. Dieser Anteil deckt den regelmässigen, persönlichen Bedarf an Milchprodukten ab und wiederholt sich wöchentlich (z.B. jede Woche 2l Trinkmilch, 500g Joghurt Nature, 500g Joghurt Frucht, 350g Quark). Änderungen im individuell wählbaren Anteil sind halbjährlich möglich. Neuabonnent_innen steht eine zusätzliche Änderung nach zwei Monaten ab Abostart zu.
+Der individuelle Anteil ist in seiner Zusammensetzung für jedes Abo frei wählbar. Dieser Anteil deckt den regelmässigen, persönlichen Bedarf an Milchprodukten ab und wiederholt sich wöchentlich (z.B. jede Woche 2l Trinkmilch, 500g Joghurt Nature, 500g Joghurt Frucht, 350g Quark). Änderungen im individuell wählbaren Anteil sind dreimal jährlich möglich: Mitte Dezember (gültig ab Januar), Mitte April (gültig ab Mai), Mitte August (gültig nach der Sommerpause). Neuabonnent_innen steht eine zusätzliche Änderung nach zwei Monaten ab Abostart zu.
 
 Der vom Käsereiteam bestimmte Anteil ist für alle Abos gleich, variiert in den Sorten aber von Woche zu Woche. In diesem Anteil sind meist verschiedene Käsesorten, gelegentlich aber auch Frischmilchprodukte enthalten. Dieser Teil bringt Abwechslung und bietet dem/der Käser_in die Möglichkeit zu Innovation und Eigenkreationen.
 
 
 ### b. Zusatzabo
 
-Wem das Grundabo zu klein ist, aber ein zweites Abo zuviel wäre, kann ein Zusatzabo lösen. In Schritten à 2l verarbeiteter Milch können bis zu vier Zusatzabos gelöst werden. Die Produkte der Zusazabos sind frei wählbar. Es gelten dieselben terminlichen Regelungen wie für den individuell wählbaren Anteil unter den Punkten 2.a. und 2.f.: halbjährliche Änderungen der Zusammensetzung, resp. Kündigung auf Ende Jahr.
+Wem das Grundabo zu klein ist, aber ein zweites Abo zuviel wäre, kann ein Zusatzabo in Schritten von 2l verarbeiteter Milch lösen. Die Produkte der Zusazabos sind frei wählbar. Es gelten dieselben terminlichen Regelungen wie für den individuell wählbaren Anteil unter den Punkten 2.a. und 2.f..
 
 
 ### c. Abonnent_in
@@ -66,7 +66,7 @@ Das Abo verlängert sich bis auf Wiederruf automatisch um ein Jahr.
 
 ### f. Abokündigung
 
-Das Abo kann unter Einhaltung einer viermonatigen Kündigungsfrist auf Ende eines Kalenderjahres gekündigt werden. Spätester Kündigungstermin für das Folgejahr ist der 31. August des laufenden Jahres.
+Das Abo kann unter Einhaltung einer dreimonatigen Kündigungsfrist auf Ende eines Kalenderjahres gekündigt werden. Spätester Kündigungstermin für das Folgejahr ist der 30. September des laufenden Jahres.
 
 
 
@@ -159,11 +159,12 @@ willkommen.
 
 ### d. Wann wird mitgearbeitet?
 
-Mindestens die Hälfte der Einsätze pro Abo sollen bis zu den Sommerferien geleistet werden (mit Kontrolle und Mahnung). Der genaue Zeitpunkt der Mitarbeit wird je nach Art der anfallenden Tätigkeiten  von den Käser_innen und/oder von der Betriebsgruppe koordiniert. Die Einsatzplanung erfolgt über den Mitgliederbereich von [meine.basimil.ch]. Zusätzliche, kurzfristige Einsätze werden per E-Mail bekannt gegeben (z.B. Früchte einkochen, Helfer_innen für Anlässe etc.).
+Mindestens die Hälfte der Einsätze pro Abo sollen bis zu den Sommerferien geleistet werden (mit Kontrolle und Mahnung). Der genaue Zeitpunkt der Mitarbeit wird je nach Art der anfallenden Tätigkeiten  von den Käser_innen und/oder von der Betriebsgruppe koordiniert. Die Einsatzplanung erfolgt über den Mitgliederbereich von [meine.basimil.ch].
+
 
 ### e. Verantwortlichkeit für Einsätze
 
-Kann ein/eine Genossenschafter_in einen Einsatz nicht wahrnehmen, so muss er/sie selber für eine Ersatzperson sorgen.
+Das Einschreiben für Einsätze ist verbindlich. Kann ein/eine Genossenschafter_in einen Einsatz nicht wahrnehmen, so muss er/sie selber für eine Ersatzperson sorgen.
 
 ### f. Konditionen
 
@@ -200,9 +201,10 @@ Beteiligten eingehalten werden.
 
 #### i. Erwerb
 
-Mit der Aufnahme in die Genossenschaft ist der Erwerb eines oder mehrerer Anteilscheine (= Eigen- bzw. Risikokapital der Genossenschaft) im Wert von je CHF 300.- verbunden. Haushalte, die ein ganzes Abo beziehen, müssen in der Regel mindestens zwei Anteilscheine besitzen, für ein halbes Abe braucht es einen Anteilschein. Haushalte, die 3 oder 4 Zusatzabos beziehen, müssen in der Regel einen weiteren, dritten Anteilschein besitzen.
+Mit der Aufnahme in die Genossenschaft ist der Erwerb eines oder mehrerer Anteilscheine (= Eigen- bzw. Risikokapital der Genossenschaft) im Wert von je CHF 300.- verbunden. Haushalte, die ein ganzes Abo beziehen, müssen in der Regel mindestens zwei Anteilscheine besitzen, für ein halbes Abo braucht es einen Anteilschein. Haushalte, die zwei Zusatzabos beziehen, müssen in der Regel einen weiteren Anteilschein besitzen.
 
 Der Zweck der Genossenschaft legt nahe, dass die Anteilscheine auf die einzelnen Personen im Haushalt verteilt werden. 
+ 
 
 #### ii. Kündigung
 
