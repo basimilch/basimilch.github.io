@@ -3,12 +3,12 @@ title: Willkommen!
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href="https://docs.google.com/forms/d/e/1FAIpQLSexdpYh5mI6gob23ppLdOZoQD6P9MUIn6Qu-K4K8uBdvW17wQ/viewform">
+<div class="alert alert-success" role="alert" data-href="https://basimil.ch/genossenschaft/#abo-bestellen">
   <div style="font-weight:bold;">
-  basimilch Abo auf Sommer optimieren
+  basimilch Abo Einstieg frühstens ab August
   </div>
 
-Je nach Saison esst ihr im Haushalt mehr Joghurt und Quark, anstatt Käse? Dann kannst Du jetzt Dein Abo für die Sommermonate optimieren. Fülle bis zum 22. April die Umfrage zur Aboanpassung aus und die neue Zusammenstellung wird per Mai in Deinen Kühlschrank geliefert. Auch Depotwechsel und die Bestellung von Zusatzabo sind jetzt möglich! (Per Mausklick aufs grüne Feld hier, gelangst Du zur Umfrage) 
+Interessiert an einem basimilch Abo? Das freut uns sehr. Momentan sind unsere Abos ausgebucht. Ab Mitte August können wir hoffentlich wieder einige Neuabos vergeben. Du kannst Dich aber jederzeit für ein Abo einschreiben, und ab Januar 2020 bist Du ganz sicher dabei. Danke für Deine Geduld!
   
    </div>  
    
