@@ -14,7 +14,7 @@ so dass ihr Biohof mit Milchkühen eine echte Zukunft hat in der Agglomeration Z
 
 {% include photo_small.html filename="2019-04-23-Milchwagen-breit" caption="" %}
 {% include photo_small.html filename="2019-04-23-Milchwagen-hinten" caption="" %}
-{% include photo_small.html filename="2019-04-23-Kalbli" caption="" %}
+{% include photo_small.html filename="2019-04-23-Kessi" caption="" %}
 
 
 Die Milchkuhherde im Basi besteht zurzeit (April 2019) aus 23 Tieren. Im letzten Jahr (2018) lieferten die Ladys insgesamt 
