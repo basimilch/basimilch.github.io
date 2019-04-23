@@ -85,7 +85,7 @@ die Käseformen und sonstigen Geräte auf eine Höchstmenge begrenzt. Wer schon 
 ist und auch der Käsekeller ist irgendwann voll (besonders, wenn viel lang gelagerter Hartkäse produziert wird). Am schwierigsten 
 sind so gesehen die Schwankungen der Menge nach oben abzufangen. 
 
-{% include post_image_full_width.html image="2019-04-23-Wochenrhythmus" caption="Abb. 2: Milchproduktion und -verwendung (Liter) im 2-Wochen-Rhythmus" %}
+{% include post_image_full_width.html image="2019-04-23-Wochenrhythmus" caption="Abb. 2: Milchproduktion und -verwendung (in Liter) im 2-Wochen-Rhythmus" %}
 
 In der obenstehenden Tabelle (Abb.2) ist unser 2-Tage-Rhythmus über zwei Wochen dargestellt. Im Beispiel beträgt die Milchmenge 
 800 Liter pro 2 Tage. Nach Abzug der fixen Mengen, die in den jeweiligen zwei Tagen verbraucht werden (Kälber, Milchautomat, Emmi, 
@@ -104,7 +104,7 @@ tiefen Milchmenge dargestellt. Bei der hohen Menge müssten wir ohne die Milchab
 Menge hingegen könnte man problemlos alles selber verkäsen.  
 
 {% include post_image_full_width.html image="2019-04-23-Milchmenge900" caption="Abb. 3: Grosse Milchmengen übersteigen unsere Kapazität" %}
-{% include post_image_full_width.html image="2019-04-23-Milchmenge650" caption="Abb. 4: Kleine Milchmengen könnten wir verarbeiten" %}
+{% include post_image_full_width.html image="2019-04-23-Milchmenge650" caption="Abb. 4: Kleine Milchmengen könnten wir vollständig verarbeiten" %}
 
 **Fazit: Die Praxiserfahrung hat uns gezeigt, dass die Milchablieferung unsere Arbeit vereinfacht und in bestimmten Fällen eine 
 grosse Entlastung für das Käsi-Team sein kann - z.B. bei Arbeitsausfällen, Krankheit, Ferien oder Anlässen.**
