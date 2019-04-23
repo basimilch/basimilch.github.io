@@ -14,7 +14,7 @@ so dass ihr Biohof mit Milchkühen eine echte Zukunft hat in der Agglomeration Z
 
 {% include photo_small.html filename="2019-04-23-Milchwagen-breit" caption="" %}
 {% include photo_small.html filename="2019-04-23-Milchwagen-hinten" caption="" %}
-{% include photo_small.html filename="2019-04-23-Milchwagen-Kalbli" caption="" %}
+{% include photo_small.html filename="2019-04-23-Kalbli" caption="" %}
 
 
 Die Milchkuhherde im Basi besteht zurzeit (April 2019) aus 23 Tieren. Im letzten Jahr (2018) lieferten die Ladys insgesamt 
@@ -36,9 +36,11 @@ Landwirtschaften ermöglichen.
 Nun, mittlerweile haben wir gute 3 Jahre Praxiserfahrung mit dem Milchprodukteabo gesammelt, Abläufe und Strukturen und 
 nicht zuletzt das Team haben sich eingespielt und angepasst, wir versuchen Zeit- und Platzkapazitäten so gut als möglich auszunutzen.
 Dabei haben sich allmählich drei Erkenntnisse durchgesetzt, die inzwischen bei allen im Hof- und Käsereiteam Konsens sind:
-> Es gibt grosse Schwankungen bei der Milchmenge.
-> Mit den Schwankungen der Milchmenge umzugehen ist herausfordernder als gedacht - sie alle in der eigenen Verarbeitung abzufangen ist oftmals wenig praktikabel.
-> Es vereinfacht unsere Arbeit massiv, wenn wir nach wie vor eine Puffermenge abholen lassen können.
+> - Es gibt grosse Schwankungen bei der Milchmenge.
+
+> - Mit den Schwankungen der Milchmenge umzugehen ist herausfordernder als gedacht - sie alle in der eigenen Verarbeitung abzufangen ist oftmals wenig praktikabel.
+
+> - Es vereinfacht unsere Arbeit massiv, wenn wir nach wie vor eine Puffermenge abholen lassen können.
 
 Die Milchmenge schwankt übers Jahr gesehen sehr stark. Sie kann in Spitzenzeiten um 450-500 kg pro Tag liegen oder auch nur bei 300 kg. 
 Warum tut sie das? Das liegt an der Dynamik einer Milchkuhherde und natürlich auch an den Jahreszeiten.
@@ -57,9 +59,11 @@ zusetzen und die Milchmenge zurückgehen lassen. Die Gesundheit in der Herde spi
 plötzlich krank werden und behandelt werden müssen, kann die Milchmenge innert Tagen einbrechen. 
 Es ist also einiges an Unwägbarkeiten drin in so einer Milchkuhherde, einiges kann man steuern oder voraussehen, vieles jedoch nicht.
 
-{% include photo_small.html filename="2019-04-23-Grass-futtern" caption="Gras Fütterung erhöht die Milchmenge" %}
-{% include photo_small.html filename="2019-04-23-Heu-futtern" caption="Winterfütterung mit Heu gibt weniger Milch" %}
-{% include photo_small.html filename="2019-04-23-Galt-Kuehe" caption="Etwa 2 Monate lang sind die Kühe galt gestellt und geben keine Milch" %}
+{% include photo_small.html filename="2019-04-23-Milchwagen-breit" caption="" %}
+
+{% include photo_small.html filename="2019-04-23-Grass-futtern" caption="" %}
+{% include photo_small.html filename="2019-04-23-Heu-futtern" caption="" %}
+{% include photo_small.html filename="2019-04-23-Galt-Kuehe" caption="" %}
 
 
 **Was sind die Herausforderungen für die Käserei?**
