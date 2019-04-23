@@ -115,3 +115,5 @@ Noch ein kleiner Ausblick auf den kommenden Sommer: 3 Kühe aus der Herde dürfe
 (die Rinder verbringen ihre Sommer schon seit Jahren oberhalb von Disentis). Die Milchmenge wird also im Sommer noch etwas geringer 
 sein als letztes Jahr und wir werden deshalb ziemlich sicher für einige Wochen gar keine Milch extern abliefern und doch wieder einmal  
 das Experiment “alle Milch selber verarbeiten” wagen.
+
+Text und Fotos: Rosmarie Minder
