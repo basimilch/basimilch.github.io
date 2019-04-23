@@ -103,8 +103,8 @@ In den folgenden beiden Grafiken (Abb.3 + 4) sind noch je ein Beispiel von zwei 
 tiefen Milchmenge dargestellt. Bei der hohen Menge müssten wir ohne die Milchabgabe grad jeden Tag verarbeiten, bei der tiefen 
 Menge hingegen könnte man problemlos alles selber verkäsen.  
 
-{% include post_image_full_width.html image="2019-04-23-Milchmenge900" caption="Abb. 3: Grosse Milchmenge" %}
-{% include post_image_full_width.html image="2019-04-23-Milchmenge650" caption="Abb. 4: Kleine Milchmenge" %}
+{% include post_image_full_width.html image="2019-04-23-Milchmenge900" caption="Abb. 3: Grosse Milchmengen übersteigen unsere Kapazität" %}
+{% include post_image_full_width.html image="2019-04-23-Milchmenge650" caption="Abb. 4: Kleine Milchmengen könnten wir verarbeiten" %}
 
 **Fazit: Die Praxiserfahrung hat uns gezeigt, dass die Milchablieferung unsere Arbeit vereinfacht und in bestimmten Fällen eine 
 grosse Entlastung für das Käsi-Team sein kann - z.B. bei Arbeitsausfällen, Krankheit, Ferien oder Anlässen.**
