@@ -25,7 +25,7 @@ abgezapft, während die Kälber rund 10’000 kg tranken. So lässt sich sagen, 
 Wertschöpfung auf dem Hof erzielt wurde. Zum Marktpreis von ca. 60 Rappen an die Emmi abgeliefert haben wir noch 35’000 kg oder 
 knapp einen Viertel.
 
-{% include post_image_full_width.html image="2019-04-23-Milchmenge2018" caption="" %}
+{% include post_image_full_width.html image="2019-04-23-Milchmenge2018" caption="Abb. 1" %}
 
 Mit der direkten Vermarktung ins Milchabo, den Hofladen und den Milchautomaten bekommen Anita und Fabian nun auch tatsächlich den 
 angestrebten Milchpreis von 1 Franken pro kg Milch, der ihr wirtschaftliches Überleben und ein tierfreundliches, biologisches 
@@ -85,7 +85,7 @@ die Käseformen und sonstigen Geräte auf eine Höchstmenge begrenzt. Wer schon 
 ist und auch der Käsekeller ist irgendwann voll (besonders, wenn viel lang gelagerter Hartkäse produziert wird). Am schwierigsten 
 sind so gesehen die Schwankungen der Menge nach oben abzufangen. 
 
-{% include post_image_full_width.html image="2019-04-23-Wochenrhythmus" caption="Milchmenge (Liter) und Verwendung im 2-Wochen-Rhythmus" %}
+{% include post_image_full_width.html image="2019-04-23-Wochenrhythmus" caption="Abb. 2: Milchproduktion und -verwendung (Liter) im 2-Wochen-Rhythmus" %}
 
 In der obenstehenden Tabelle (Abb.2) ist unser 2-Tage-Rhythmus über zwei Wochen dargestellt. Im Beispiel beträgt die Milchmenge 
 800 Liter pro 2 Tage. Nach Abzug der fixen Mengen, die in den jeweiligen zwei Tagen verbraucht werden (Kälber, Milchautomat, Emmi, 
@@ -103,8 +103,8 @@ In den folgenden beiden Grafiken (Abb.3 + 4) sind noch je ein Beispiel von zwei 
 tiefen Milchmenge dargestellt. Bei der hohen Menge müssten wir ohne die Milchabgabe grad jeden Tag verarbeiten, bei der tiefen 
 Menge hingegen könnte man problemlos alles selber verkäsen.  
 
-{% include post_image_full_width.html image="2019-04-23-Milchmenge900" caption="Grosse Milchmenge" %}
-{% include post_image_full_width.html image="2019-04-23-Milchmenge650" caption="Kleine Milchmenge" %}
+{% include post_image_full_width.html image="2019-04-23-Milchmenge900" caption="Abb. 3: Grosse Milchmenge" %}
+{% include post_image_full_width.html image="2019-04-23-Milchmenge650" caption="Abb. 4: Kleine Milchmenge" %}
 
 **Fazit: Die Praxiserfahrung hat uns gezeigt, dass die Milchablieferung unsere Arbeit vereinfacht und in bestimmten Fällen eine 
 grosse Entlastung für das Käsi-Team sein kann - z.B. bei Arbeitsausfällen, Krankheit, Ferien oder Anlässen.**
