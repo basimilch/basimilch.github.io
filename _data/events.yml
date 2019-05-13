@@ -651,8 +651,8 @@
   # day_hours:    19:00 - 22:00 
   url:          https://www.foodzurich.com/de/events/6687/ern%C3%A4hrungszukunft-mitgestalten?date=2019-05-25      
   image:        logos/EFZ.jpg
-  place:        Europaplatz Zürich
-  place_url:    https://www.foodzurich.com/de/events#day-2019-05-25
+  place:        Ernährungsforum Zürich und Food Zurich
+  place_url:    http://ernaehrungsforum-zueri.ch/
   address:      Europaplatz am HB Zürich
   address_2:    8004 Zürich
   map_url:      https://goo.gl/maps/Fe38iTJVYfEhrmuPA
