@@ -1,0 +1,22 @@
+---
+title: Konsequenzen der Trockenheit 2018 für den Hof im Basi
+header-image: photos/
+tags: [Hof im Basi, Trockenheit]
+---
+ 
+Schnell ist es vergessen und nur die angenehmen Momente des sonnigen Sommers 2018 sind uns in guter Erinnerung. Der ausbleibende Regen in den langen Sommerwochen, die immer brauner werdenden Grünflächen, die Gewitter die talauf oder talabwärts an Dietikon vorbeirauschten, die Sorgen ums Winterfutter der Tiere auf dem Hof, all das hat der eine oder andere Basimilcher im letzten Jahr vom Hof vernommen. Aber wie ging es weiter? 
+
+**Was waren effektiv die Folgen dieser grossen Trockenheit?**
+Zum Grundverständnis zuerst ein paar Zahlen: Jeden Tag brauchen unsere Wiederkäuer auf dem Hof ca. 500kg Heu (Trockensubstanz Futter), oder in Form von Gras dementsprechend mehr (Wasseranteil). Wenn also die Wiesen, wie letzten Sommer zwei Monate lang braun sind, konnte man weder Tiere mit Frischfutter versorgen, noch Heu für den Winter konservieren. Noch schlimmer, man musste einen Teil des Wintervorrates schon im Sommer verfüttern. Das heisst es fehlten vier Monate Futter für die Tiere. Dies wiederum entsprach einem Manko von ca. 60 Tonnen Heu.
+
+**Schwierige Entscheide**
+Es galt nun abzuwägen, welchen Weg wir in dieser Situation einschlagen sollen: Futterzukauf, Tiere schlachten oder versuchen einige unserer Wiederkäuer über den Winter extern zu platzieren? Und da vielerorts in Europa der Regen auch ausblieb, war es auch nicht klar, ob man überhaupt Futter kaufen konnte. Dies verursachte uns ein sehr ungutes Gefühl… Wir entschieden uns für eine Kombination: Nachdem wir von einem Händler Bio-Heu (grösstenteils aus Italien) zugesagt bekommen haben, liessen wir fünf Kühe schlachten und eine Rindergruppe konnten wir über den Winter auf den Fondlihof geben. 
+
+**Kurzfristige und langfristige Weiterentwicklung**
+Der Herbst 2018  war zum guten Glück sehr wüchsig und wir konnten die Kühe lange auf den Weiden grasen lassen. Ende Oktober konnten wir gar noch etwas Winterfutter produzieren. Die Kunstwiesen haben sich sehr gut erholt und wir können seit Anfang April die Fütterung langsam wieder auf Frischgras umstellen. (Dauer: 2-4 Wochen täglich immer mehr Gras anstelle von Heu füttern). Die Naturwiesen haben arg gelitten bei der letztjährigen Trockenheit. Die Bestände haben sich verändert, wertvolle Gräser sind verschwunden und Lücken sind zu sehen. Der Ertrag aus diesen Wiesen wird auch dieses Jahr schlechter sein, obwohl wir eine Übersaat von guten Futtergräsern gemacht haben.
+
+Nicht nur die Tatsache, dass Kühe Hitze schlecht ertragen, auch die dazugehörige Insektenplage, die Veränderung der Wiesenbestände, die Fragwürdigkeit des Futterzukaufs aus dem Ausland (1. Transport und 2. wem nehmen wir das Futter weg, weil wir eine bessere Kaufkraft haben?) sind Dinge, die uns auch in Zukunft beschäftigen werden.
+
+
+**Zukünftige Sömmerung auf der Alp?**
+Ein Gedanken verdichtet sich immer mehr: Wir würden gerne unsere Tiere in Zukunft auf einer Alp sömmern. Nur wo eine Alp finden? Wir sind aktiv am suchen und am inserieren. Mit etwas Glück geht unser Traum ja vielleicht schon bald in Erfüllung… Dieses Jahr müssen sich die allermeisten Milchkühe noch gedulden. Nur drei dürfen Richtung Lukmanierpass, alle Jungtiere sind wie schon letztes Jahr im Alpgebiet Disentis.
