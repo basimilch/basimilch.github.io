@@ -1,6 +1,6 @@
 ---
 title: Konsequenzen der Trockenheit 2018
-header-image: photos/2019-05-13_trockenheit2018-titel.jpg
+header-image: photos/2019-05-13-trockenheit2018-titel.jpg
 tags: [Hof im Basi, Trockenheit]
 ---
  
