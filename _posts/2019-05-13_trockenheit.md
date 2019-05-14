@@ -21,6 +21,8 @@ Nicht nur die Tatsache, dass Kühe Hitze schlecht ertragen, auch die dazugehöri
 **Zukünftige Sömmerung auf der Alp?**
 Ein Gedanken verdichtet sich immer mehr: Wir würden gerne unsere Tiere in Zukunft auf einer Alp sömmern. Nur wo eine Alp finden? Wir sind aktiv am suchen und am inserieren. Mit etwas Glück geht unser Traum ja vielleicht schon bald in Erfüllung… Dieses Jahr müssen sich die allermeisten Milchkühe noch gedulden. Nur drei dürfen Richtung Lukmanierpass, alle Jungtiere sind wie schon letztes Jahr im Alpgebiet Disentis.
 
+Text und Fotos: Anita Triaca und Fabian Brandenberger
+
 
 {% include post_image_full_width.html image="2019-05-13_trockenheit2018-mais" caption="Mais Ernteausfälle wegen Trockenheit" %}
 
