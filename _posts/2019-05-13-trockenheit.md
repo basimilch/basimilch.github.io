@@ -45,6 +45,6 @@ Alpgebiet Disentis.
 Text und Fotos: Anita Triaca und Fabian Brandenberger
 
 
-{% include post_image_full_width.html image="2019-05-13_trockenheit2018-mais" caption="Mais Ernteausfälle wegen Trockenheit" %}
+{% include post_image_full_width.html image="2019-05-13-trockenheit2018-mais" caption="Mais Ernteausfälle wegen Trockenheit" %}
 
-{% include post_image_full_width.html image="2019-05-13_trockenheit2018-gras" caption="Guter Graswuchs im Herbst" %}
+{% include post_image_full_width.html image="2019-05-13-trockenheit2018-gras" caption="Guter Graswuchs im Herbst" %}
