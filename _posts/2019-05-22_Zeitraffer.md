@@ -9,7 +9,7 @@ Was geschieht Tag für Tag an der Produktionsstätte von basimilch? Zwölfstunde
 den ganzen Tag und schoss alle 10 Sekunden ein Bild. Zu sehen ist eine Mutschliproduktion am Morgen, das Joghurtabfüllen am Nachmittag und das 
 Quarkansetzen am Abend, alles verdichtet auf 15 Minuten.
 
-
+Für die Foto-/Videotechnik: Yvo Weidmann
 
 {% include youtube_video.html id="RQytPn9cf9k" %}
 
