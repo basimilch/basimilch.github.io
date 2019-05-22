@@ -1,7 +1,7 @@
 ---
 title: basimilch Käserei-Alltag im Zeitraffer
 subtitle: 
-header-image: posts/2019-05-22_zeitraffer/Titel.jpg
+header-image: posts/2019-05-22-zeitraffer/Titel.jpg
 tags: [Käserei, Zeitraffer, Im Basi]
 ---
 
