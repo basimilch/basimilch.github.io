@@ -33,7 +33,7 @@ Wir freuen uns Dich kennen zu lernen.
 Kontakt:
 
 <div class="contact">
-    info@badimil.ch <br>
+    <br>
     {% include email_link username="info" subject="Praktikum" body="Hoi!\n\n"%}
 </div>
 
