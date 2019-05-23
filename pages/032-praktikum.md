@@ -33,8 +33,8 @@ Wir freuen uns Dich kennen zu lernen.
 Kontakt:
 
 <div class="contact">
-    Bettina Wolfgramm<br>
-    {% include email_link username="bettina" subject="Praktikum" body="Hoi Bettina\n\n"%}
+    info@badimil.ch <br>
+    {% include email_link username="info" subject="Praktikum" body="Hoi!\n\n"%}
 </div>
 
 Weitere [Eindrücke]({% post_url 2017-02-11-mue-praktikum-bei-basimilch %}){:target="_blank"} aus
