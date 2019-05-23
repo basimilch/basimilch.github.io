@@ -30,9 +30,7 @@ Wissen und Erfahrung zu erwerben, Mittagessen sowie leckere Naturalien.
 
 Wir freuen uns Dich kennen zu lernen.
 
-Kontakt:
-
-<div class="contact">
+Kontakt: <div class="contact">
     <br>
     {% include email_link username="info" subject="Praktikum" body="Hoi!\n\n"%}
 </div>
