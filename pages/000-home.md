@@ -10,7 +10,7 @@ permalink: /
 
 Das 10vor10 hat Basimilch als kreatives Beispiel in der Milchwirtschaft vorgestellt:
 
-https://www.srf.ch/play/tv/10vor10/video/fokus-milch-zu-besseren-preisen-vermarkten?id=7ff6122e-25fa-4df0-8859-5057545c0724
+[FOKUS: Milch zu besseren Preisen vermarkten](https://www.srf.ch/play/tv/10vor10/video/fokus-milch-zu-besseren-preisen-vermarkten?id=7ff6122e-25fa-4df0-8859-5057545c0724)
   
    </div>  
    
