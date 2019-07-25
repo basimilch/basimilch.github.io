@@ -10,6 +10,7 @@ permalink: /
 
 Das 10vor10 hat Basimilch als kreatives Beispiel in der Milchwirtschaft vorgestellt. Danke das freut uns!
 
+
 FOKUS: Milch zu besseren Preisen vermarkten
   
    </div>  
