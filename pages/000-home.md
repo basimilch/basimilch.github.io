@@ -3,7 +3,7 @@ title: Willkommen!
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href="https://basimil.ch/genossenschaft/#abo-bestellen">
+<div class="alert alert-success" role="alert" data-href="https://www.srf.ch/play/tv/10vor10/video/fokus-milch-zu-besseren-preisen-vermarkten?id=7ff6122e-25fa-4df0-8859-5057545c0724/">
   <div style="font-weight:bold;">
   basimilch im Schweizer Fernsehn!
   </div>
