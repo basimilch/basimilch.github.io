@@ -3,16 +3,12 @@ title: Willkommen!
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href="https://docs.google.com/forms/d/e/1FAIpQLScnNT7ldAqhkBh7-3zReHJKtAzLUa08ovd78rkEtfXIIGRlkg/viewform/">
+<div class="alert alert-success" role="alert" data-href="https://forms.gle/7VzJk7RCFF3owr4P7">
   <div style="font-weight:bold;">
   Brunch auf dem Basihof am Samstag 17. August 2019
   </div>
 
-Am Samstag 17. August möchten wir mit einem Brunch auf dem Basihof gemeinsam die Sommerpause ausklingen lassen. Wir organisieren die Kühe und den Käse und ihr bringt Sonne und verschiedene Leckereien mit. Mithilfe ist natürlich auch immer willkommen. Der Brunch fängt um 10 Uhr an und geht bis ca. 14 Uhr. Wir wären froh, wenn ihr euch dafür =>hier (klick) anmelden würdet. Hoffentlich bis dann!
-
-
-
-=> FOKUS: Milch zu besseren Preisen vermarkten
+Mit einem Brunch auf dem Basihof wollen wir gemeinsam die Sommerpause ausklingen lassen. Wir organisieren die Kühe und den Käse und ihr bringt Sonne und verschiedene Leckereien mit. Mithilfe ist natürlich auch immer willkommen. Der Brunch fängt um 10 Uhr an und geht bis ca. 14 Uhr. Wir wären froh, wenn ihr euch dafür =>hier (klick) anmelden würdet. Hoffentlich bis dann!
   
    </div>  
    
