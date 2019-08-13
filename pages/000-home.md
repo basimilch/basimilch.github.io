@@ -3,12 +3,12 @@ title: Willkommen!
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href="https://www.srf.ch/play/tv/10vor10/video/fokus-milch-zu-besseren-preisen-vermarkten?id=7ff6122e-25fa-4df0-8859-5057545c0724&fbclid=IwAR1dKkIlR154s6tRUTXvv9Hk0eSYdWD3ve_rjVQ3f2RonXKJy8TCU-X4zZo/">
+<div class="alert alert-success" role="alert" data-href="https://docs.google.com/forms/d/e/1FAIpQLScnNT7ldAqhkBh7-3zReHJKtAzLUa08ovd78rkEtfXIIGRlkg/viewform/">
   <div style="font-weight:bold;">
-  basimilch im Schweizer Fernsehn
+  Brunch auf dem Basihof am Samstag 17. August 2019
   </div>
 
-Das 10vor10 hat Basimilch als kreatives Beispiel in der Milchwirtschaft vorgestellt. Danke das freut uns!
+Am Samstag 17. August möchten wir mit einem Brunch auf dem Basihof gemeinsam die Sommerpause ausklingen lassen. Wir organisieren die Kühe und den Käse und ihr bringt Sonne und verschiedene Leckereien mit. Mithilfe ist natürlich auch immer willkommen. Der Brunch fängt um 10 Uhr an und geht bis ca. 14 Uhr. Wir wären froh, wenn ihr euch dafür =>hier (klick) anmelden würdet. Hoffentlich bis dann!
 
 
 
