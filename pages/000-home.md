@@ -3,12 +3,12 @@ title: Willkommen!
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href="https://forms.gle/7VzJk7RCFF3owr4P7">
+<div class="alert alert-success" role="alert" data-href="https://sites.google.com/site/stadionbrachehardturm/mitteilungen/benefiztag?fbclid=IwAR0SOruxkwuoLaM8RjDPrARwxmR_d0d1kB3KjVccM484VyhbOBg2sMELVho">
   <div style="font-weight:bold;">
-  Brunch auf dem Basihof am Samstag 17. August 2019
+  basimilch Ziger-Herstellungsworkshop auf der Hardturmbrache, Sonntag 1. September 2019 
   </div>
 
-Mit einem Brunch auf dem Basihof wollen wir gemeinsam die Sommerpause ausklingen lassen. Wir organisieren die Kühe und den Käse und ihr bringt Sonne und verschiedene Leckereien mit. Mithilfe ist natürlich auch immer willkommen. Der Brunch fängt um 10 Uhr an und geht bis ca. 14 Uhr. Wir wären froh, wenn ihr euch dafür =>hier (klick) anmelden würdet. Hoffentlich bis dann!
+Wolltest du schon immer mal wissen, wie Ziger hergestellt wird? Dann komm am Sonntag zur Hardturmbrache! Einige Basi-Menschen sind am Benefiztag dabei und zeigen an einem Workshop, wie's funktioniert. Den ganzen Tag über gibts noch viel mehr zu lernen und zu erleben. => Hier geht es zum Programm!
   
    </div>  
    
