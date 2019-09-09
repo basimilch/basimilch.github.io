@@ -657,6 +657,20 @@
   address_2:    8004 Zürich
   map_url:      https://goo.gl/maps/Fe38iTJVYfEhrmuPA
   
+- title:        Standaktion am Markt der Möglichkeiten
+  title_short:   
+  # type:         extern
+  start:       2019-09-21 13:00:00 +0200
+  end:         2018-09-21 17:00:00 +0200
+  # day_hours:    19:00 - 22:00 
+  url:          http://www.transition-zuerich.ch/wp-content/uploads/2019/08/Flyer-Markt_Workshop_2019.pdf      
+  image:        logos/Flyer-Markt_Workshop_2019.png
+  place:        Transition Zürich
+  place_url:    http://www.transition-zuerich.ch/markt-der-moeglichkeiten/
+  address:      GZ Buchegg
+  address_2:    Bucheggstrasse 93, 8057 Zürich
+  map_url:      https://goo.gl/maps/oGLzaNDWvAA4xqsx7
+  
 - title:        Standaktion am Martinimarkt
   title_short:  Martinimarkt
   # type:         extern
