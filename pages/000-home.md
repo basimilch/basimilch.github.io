@@ -3,7 +3,7 @@ title: Willkommen!
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href="https://github.com/basimilch/basimilch.github.io/blob/master/pages/040-veranstaltungen.md">
+<div class="alert alert-success" role="alert" data-href="https://basimil.ch/veranstaltungen/">
   <div style="font-weight:bold;">
   basimilch mit Infostand auf dem Märit 
   </div>
