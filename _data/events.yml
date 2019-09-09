@@ -656,3 +656,23 @@
   address:      Europaplatz am HB Zürich
   address_2:    8004 Zürich
   map_url:      https://goo.gl/maps/Fe38iTJVYfEhrmuPA
+  
+  - title:        Standaktion am Martinimarkt
+  title_short:  Martinimarkt
+  # type:         extern
+  start:        2019-11-09 10:00:00 +0200
+  end:          2019-11-09 16:00:00 +0200
+  # day_hours:    10:00 - 16:00 
+  url:          https://www.stadt-zuerich.ch/ted/de/index/gsz/aktuell/gruenagenda/2019/september-dezember/191109-Martinimarkt.html
+  image:        logos/Martinimarkt.png
+  place:        Stadtgärtnerei, Zürich
+  place_url:    https://www.stadt-zuerich.ch/stadtgaertnerei
+  address:      Sackzelg 27
+  address_2:    8047 Zürich
+  map_url:      https://goo.gl/maps/XUuYAPKBHNP2
+  info: >
+    In der Stadtgärtnerei Zürich gibt es wieder einen Martinimarkt mit lokalen Produkten: Obst, Gemüse, 
+    Milchprodukte und Fleisch von nahegelegenen Bauernhöfen oder von der Alp. Tofu, Brot und Gebäck. 
+    Nicht normiertes Gemüse, Blumen und verschiedene Holzobjekte. Vorwiegend lokal produzierte Getränke wie Fruchtsäfte, 
+    Sirup, Bier, Wein und Gin. Honig aus der Stadt. Handgemachte Schokoladen und Kaffee. Edelweisskosmetika. 
+    Vom Eingemachtem bis zum veredelten Lokaldünger Aurin.
