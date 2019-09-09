@@ -3,12 +3,12 @@ title: Willkommen!
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href="https://sites.google.com/site/stadionbrachehardturm/mitteilungen/benefiztag?fbclid=IwAR0SOruxkwuoLaM8RjDPrARwxmR_d0d1kB3KjVccM484VyhbOBg2sMELVho">
+<div class="alert alert-success" role="alert" data-href="https://github.com/basimilch/basimilch.github.io/blob/master/pages/040-veranstaltungen.md">
   <div style="font-weight:bold;">
-  basimilch Ziger-Herstellungsworkshop auf der Hardturmbrache, Sonntag 1. September 2019 
+  basimilch mit Infostand auf dem Märit 
   </div>
 
-Wolltest du schon immer mal wissen, wie Ziger hergestellt wird? Dann komm am Sonntag zur Hardturmbrache! Einige Basi-Menschen sind am Benefiztag dabei und zeigen an einem Workshop, wie's funktioniert. Den ganzen Tag über gibts noch viel mehr zu lernen und zu erleben. => Hier geht es zum Programm!
+basimilch tourt über die Herbstmärkte! Von der Viehschau in Albisrieden, über den Markt der Möglichkeiten im GZ Buchegg bis zum Martinimarkt in der Stadtgärtnerei Zürich - basimilch ist vor Ort und informiert über das ganze und das halbe basimilch Abo, die Solidarische Landwirtschaft, alles rund um Rohmilchprodukte. Wir freuen uns auf einen Schwatz mit Euch!
   
    </div>  
    
