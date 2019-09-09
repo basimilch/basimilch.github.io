@@ -5,10 +5,10 @@ permalink: /
 
 <div class="alert alert-success" role="alert" data-href="https://basimil.ch/veranstaltungen/">
   <div style="font-weight:bold;">
-  basimilch mit Infostand auf dem Märit 
+  basimilch tourt über die Herbstmärkte!  
   </div>
 
-basimilch tourt über die Herbstmärkte! Von der Viehschau in Albisrieden, über den Markt der Möglichkeiten im GZ Buchegg bis zum Martinimarkt in der Stadtgärtnerei Zürich - basimilch ist vor Ort und informiert über das ganze und das halbe basimilch Abo, die Solidarische Landwirtschaft, alles rund um Rohmilchprodukte. Wir freuen uns auf einen Schwatz mit Euch!
+Von der Viehschau in Albisrieden, über den Markt der Möglichkeiten im GZ Buchegg bis zum Martinimarkt in der Stadtgärtnerei Zürich - basimilch ist vor Ort und informiert über das ganze und das halbe basimilch Abo, die Solidarische Landwirtschaft, alles rund um Rohmilchprodukte. Wir freuen uns auf einen Schwatz mit Euch!
   
    </div>  
    
