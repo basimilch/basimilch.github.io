@@ -657,7 +657,7 @@
   address_2:    8004 Zürich
   map_url:      https://goo.gl/maps/Fe38iTJVYfEhrmuPA
   
-  - title:        Standaktion am Martinimarkt
+- title:        Standaktion am Martinimarkt
   title_short:  Martinimarkt
   # type:         extern
   start:        2019-11-09 10:00:00 +0200
