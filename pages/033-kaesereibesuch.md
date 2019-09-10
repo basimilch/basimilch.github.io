@@ -1,7 +1,7 @@
 ---
 title: Blick ins Käsekessi
 description: Käsereibesuche für Gnossis
-permalink: /kaeserei/kaesereibesuche
+permalink: /kaeserei/kaesereibesuch
 ---
 
 ## Besuch in der basimilch Käserei für unsere Genossenschafter_innen
