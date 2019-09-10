@@ -1,26 +1,21 @@
 ---
-title: Blick ins Käsekessi
+title: Käsereibesuch für Genossenschafter_innen
 description: Käsereibesuche für Gnossis
 permalink: /kaeserei/kaesereibesuch
 ---
 
-## Besuch in der basimilch Käserei für unsere Genossenschafter_innen
+## Einblick in die basimilch Käserei
 
-
+Was passiert, wenn aus einem Kessi voll Milch in nur einem Morgen sechs Laibe Käse entstehen? Gerne wollen wir vom Käsi-Team den basimilch Genossenschafter_innen einen Einblick in diesen Prozess geben. Da unsere Käserei klein ist, können wir leider kein Schaukäsen anbieten. Aber wir wollen kleine Gruppen von Euch an der ganz normalen basimilch Käseproduktion teilnehmen lassen. Wir planen so zirka 3 Termine pro Halbjahr auszuschreiben. Die Schnellsten schnappen sich einen Termin, die anderen müssen sich noch etwa gedulden. Werft schon mal einen Blick auf unser Video [basimilch Käserei-Alltag im Zeitraffer] ({% post_url 2019-05-22-zeitraffer %}){:target="_blank"}.
 
 **was:** basimilch Genossenschafter_innen schauen zu, wenn ihr Käse produziert wird
 
 **wer:** 2 - max 4 Leute. Kinder ab 5 Jahren sind willkommen. Da wir nur wenige Termine anbieten können, ist vorerst 
 nur ein Besuch pro Genossenschafter_in möglich.
 
-**wann:** Morgens von 8.15-11.30. Im 2019 bieten wir folgende drei Termine an: Samstag 5. Oktober, 
+**wann:** Morgens von 8.15-11.30. Im 2019 bieten wir folgende drei Termine an: Samstag 5. Oktober, Sonntag 27. Oktober, und Sonntag 24. November. Weitere Termine wird es im 2020 geben.
 
 **wie:** In der Käserei ist Hygiene höchstes Gebot, darum saubere Kleider anziehen. Weiter bitte die [basimilch Hygieneinformationen][Blog]({% link pages/023-mitarbeit.md %}){:target="_blank"} beachten. 
 
 **anmelden:** per Email bei Bettina vom Käsi-Team {% include email_link username="bettina" %}
 
-
-Kontakt: <div class="contact">
-    <br>
-    
-</div>
