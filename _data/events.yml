@@ -691,4 +691,18 @@
   address_2:    Bucheggstrasse 93, 8057 Zürich
   map_url:      https://goo.gl/maps/oGLzaNDWvAA4xqsx7
   
+- title:        RACLETTE ÖFELI EVENT
+  title_short:   
+  # type:         intern
+  start:       2019-11-30 19:00:00 +0200
+  end:         2019-11-30 22:00:00 +0200
+  # day_hours:    19:00 - 22:00 
+  url:                
+  image:        logos/basimilch_avatar.png
+  place:        Biohof im Basi
+  place_url:    https://basimil.ch/kontakt
+  address:      Alte Kindhauserstr. 3
+  address_2:    8953 Dietikon
+  map_url:      https://goo.gl/maps/F3rrJgxua3F2
+  
 
