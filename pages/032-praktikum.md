@@ -30,11 +30,7 @@ Wissen und Erfahrung zu erwerben, Mittagessen sowie leckere Naturalien.
 
 Wir freuen uns Dich kennen zu lernen.
 
-Kontakt: <div class="contact">
-    <br>
-    {% include email_link username="info" subject="Praktikum" body="Hoi!\n\n"%}
-</div>
-
+Kontakt:  {% include email_link username="info" subject="Praktikum" body="Hoi!\n\n"%}
 
 Weitere [Eindrücke]({% post_url 2017-02-11-mue-praktikum-bei-basimilch %}){:target="_blank"} aus
 der basimilch Käserei und zu einem [basimilch Praktikum]({% post_url 2016-04-28-im-praktikum-bei-basimilch-ist-schmieren-ehrensache %}){:target="_blank"}
