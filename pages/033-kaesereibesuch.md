@@ -15,7 +15,7 @@ nur ein Besuch pro Genossenschafter_in möglich.
 
 **wann:** Morgens von 8.15-11.30. Im 2019 bieten wir folgende drei Termine an: Samstag 5. Oktober, Sonntag 27. Oktober, und Sonntag 24. November. Weitere Termine wird es im 2020 geben.
 
-**wie:** In der Käserei ist Hygiene höchstes Gebot, darum saubere Kleider anziehen. Weiter bitte die [basimilch Hygieneinformationen]({% link pages/023-mitarbeit.md %}){:target="_blank"} beachten. 
+**wie:** In der Käserei ist Hygiene höchstes Gebot, darum saubere Kleider anziehen. Weiter bitte die [basimilch Hygieneinformationen](https://basimil.ch/abo/mitarbeit#hygieneinformationen) beachten. 
 
 **anmelden:** per Email bei Bettina vom Käsi-Team {% include email_link username="bettina" %}
 
