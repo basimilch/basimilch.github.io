@@ -25,7 +25,7 @@ Um ein Abo zu bestellen, musst du Genossenschafter_in bei
 {{site.info.shortname}} werden und mindestens zwei Anteilscheine (pro
 Abo) erwerben.
 
-**Wir führen eine Warteliste. Neueinstieg ist möglich ab 1. Januar
+**Wir führen eine Warteliste. Neueinstieg ist möglich per 1. Januar
 2020.** Die neuen Abos werden nach Anmeldedatum
 vergeben und es gilt „Es hät solangs hät“. 
 
