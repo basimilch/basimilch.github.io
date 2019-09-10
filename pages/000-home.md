@@ -8,8 +8,10 @@ permalink: /
   basimilch tourt über die Herbstmärkte!  
   </div>
 
-Von der Viehschau in Albisrieden, über den Markt der Möglichkeiten im GZ Buchegg bis zum Martinimarkt in der Stadtgärtnerei Zürich: basimilch ist vor Ort und informiert über Rohmilchprodukte, neuste Käsekreationen, das ganze und das halbe Abo, die Solidarische Landwirtschaft, und die Kuhherde im Basi. Wir freuen uns auf einen Schwatz mit Euch! **=> Hier gehts zum Veranstaltungskalender**
-  
+Von der Viehschau in Albisrieden, über den Markt der Möglichkeiten im GZ Buchegg bis zum Martinimarkt in der Stadtgärtnerei Zürich: basimilch ist vor Ort und informiert über Rohmilchprodukte, neuste Käsekreationen, das ganze und das halbe Abo, die Solidarische Landwirtschaft, und die Kuhherde im Basi. Wir freuen uns auf einen Schwatz mit Euch! 
+   <div style="font-weight:bold;">
+  => Hier gehts zum Veranstaltungskalender
+    </div>
    </div>  
    
 {% include newsletter_form.html %}
