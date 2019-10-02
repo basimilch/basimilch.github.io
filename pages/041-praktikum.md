@@ -32,7 +32,6 @@ Wir freuen uns Dich kennen zu lernen.
 
 Kontakt:  {% include email_link username="info" subject="Praktikum" body="Hoi!\n\n"%}
 
-Weitere [Eindrücke]({% post_url 2017-02-11-mue-praktikum-bei-basimilch %}){:target="_blank"} aus
-der basimilch Käserei und zu einem [basimilch Praktikum]({% post_url 2016-04-28-im-praktikum-bei-basimilch-ist-schmieren-ehrensache %}){:target="_blank"}
-findest Du in unserem [Blog]({% link pages/006-blog.md %}){:target="_blank"}
+Weitere [Eindrücke aus
+der basimilch Käserei] findest Du auf unserer Käserei-Seite ({% link pages/040-die-kaeserei.md %}){:target="_blank"}
 
