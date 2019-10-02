@@ -1,6 +1,7 @@
 ---
 title: Veranstaltungen
 description: Veranstaltungen unserer Genossenschaft
+section-group: main
 permalink: /veranstaltungen/
 ---
 
