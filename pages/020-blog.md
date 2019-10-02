@@ -1,6 +1,7 @@
 ---
 title: Blog
 description: Blog der Genossenschaft
+section-group: main
 permalink: /blog/
 ---
 
