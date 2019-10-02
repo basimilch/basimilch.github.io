@@ -15,7 +15,7 @@ nur ein Besuch pro Genossenschafter_in möglich.
 
 **wann:** Morgens von 8.15-11.30. Einige Male pro Jahr. Termine werden per Newsletter den Genossenschafter_innen mitgeteilt.
 
-**wie:** In der Käserei ist Hygiene höchstes Gebot, darum saubere Kleider anziehen. Weiter bitte die [basimilch Hygieneinformationen](https://basimil.ch/abo/mitarbeit#hygieneinformationen) beachten. 
+**wie:** In der Käserei ist Hygiene höchstes Gebot, darum saubere Kleider anziehen. Weiter bitte die [basimilch Hygieneinformationen](https://basimil.ch/abo/mitarbeit) beachten. 
 
 **anmelden:** per Email bei Bettina vom Käsi-Team {% include email_link username="bettina" %}
 
