@@ -24,7 +24,7 @@ Du bringst ein hohes Hygienebewusstsein mit (Lebensmittelbetrieb), bist
 körperlich fit und belastbar, abwaschen und putzen schreckt dich nicht ab. Alp-
 oder Käsereierfahrung ist vorteilhaft, aber keine Bedingung.
 
-Unsere Käserei ist klein, die Kooperative noch voll im Aufbau --- Lohn können wir
+Unsere Käserei ist klein --- Lohn können wir
 deshalb keinen auszahlen. Wir bieten aber die Möglichkeit in einem tollen Team
 Wissen und Erfahrung zu erwerben, Mittagessen sowie leckere Naturalien.
 
