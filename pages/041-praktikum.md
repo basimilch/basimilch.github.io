@@ -33,5 +33,5 @@ Wir freuen uns Dich kennen zu lernen.
 Kontakt:  {% include email_link username="info" subject="Praktikum" body="Hoi!\n\n"%}
 
 Weitere Eindrücke aus
-der basimilch Käserei findest Du auf unserer [Käserei-Seite] ({% link pages/040-die-kaeserei.md %}){:target="_blank"}
+der basimilch Käserei findest Du auf unserer [Käserei-Seite] (/kaeserei)
 
