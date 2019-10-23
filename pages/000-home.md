@@ -3,14 +3,15 @@ title: Willkommen!
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href="https://basimil.ch/veranstaltungen/">
+<div class="alert alert-success" role="alert" data-href="https://basimil.ch/genossenschaft/#abo-bestellen">
   <div style="font-weight:bold;">
-  basimilch tourt über die Herbstmärkte!  
+  basimilch Abos 2020  
   </div>
 
-Von der Viehschau in Albisrieden, über den Markt der Möglichkeiten im GZ Buchegg bis zum Martinimarkt in der Stadtgärtnerei Zürich: basimilch ist vor Ort und informiert über Rohmilchprodukte, neuste Käsekreationen, das ganze und das halbe Abo, die Solidarische Landwirtschaft, und die Kuhherde im Basi. Wir freuen uns auf einen Schwatz mit Euch! 
+Milchprodukte mit dem kleinen Unterschied! Einige Abos sind fürs 2020 zu vergeben. Interessiert? Meldet Euch an für ein basimilch Abo im 2020 gleich hier über die Website.
+
    <div style="font-weight:bold;">
-  => Hier gehts zum Veranstaltungskalender
+  => Hier gehts zur Anmeldung
     </div>
    </div>  
    
