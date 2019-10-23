@@ -8,7 +8,7 @@ permalink: /
   basimilch Abos 2020  
   </div>
 
-Milchprodukte mit dem kleinen Unterschied! Einige Abos sind fürs 2020 zu vergeben. Interessiert? Meldet Euch an für ein basimilch Abo im 2020 gleich hier über die Website.
+Milchprodukte mit dem kleinen Unterschied! Einige Abos sind fürs 2020 zu vergeben. Interessiert? Meldet Euch an für ein basimilch Abo im 2020, gleich hier über die Website.
 
    <div style="font-weight:bold;">
   => Hier gehts zur Anmeldung
