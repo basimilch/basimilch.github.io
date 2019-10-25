@@ -8,7 +8,8 @@ permalink: /
   basimilch Abos 2020  
   </div>
 
-Milchprodukte mit dem kleinen Unterschied! Einige Abos sind fürs 2020 zu vergeben. Interessiert? Meldet Euch an für ein basimilch Abo im 2020, gleich hier über die Website. Anmeldeschluss für Halbe-, Ganze- und Zusatz-abos ist der 14. Dezember 2019.
+Milchprodukte mit dem kleinen Unterschied! Einige Abos sind fürs 2020 zu vergeben. Interessiert? Den Hof besuchen und basimilch in Aktion sehen kannst du am Schnuppermorgen am 30. November 2019, von 9-11h.
+Meldet Euch an für ein basimilch Abo im 2020, gleich hier über die Website.  Anmeldeschluss für Halbe-, Ganze- und Zusatz-abos ist der 14. Dezember 2019.
 
    <div style="font-weight:bold;">
   => Hier gehts zur Anmeldung
