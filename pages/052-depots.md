@@ -1,6 +1,7 @@
 ---
 title: Depots
 description: Informationen über die Depots
+section-group: main
 permalink: /abo/depots/
 ---
 
