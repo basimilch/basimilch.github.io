@@ -11,7 +11,7 @@ Wir haben einige basimilch Abos für's 2020 zu vergeben. Interessiert? Am Schnup
 Alle Entscheidungsfreudigen können sich direkt über unsere Website für ein Abo 2020 anmelden. Anmeldeschluss für Halbe-, Ganze- und Zusatz-abos ist der 14. Dezember 2019.
 
    <div style="font-weight:bold;">
-  => Hier gehts zur Anmeldung
+   => Hier gehts zur Anmeldung
     </div>
    </div>  
    
