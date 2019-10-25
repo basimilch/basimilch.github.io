@@ -1,6 +1,7 @@
 ---
 title: Preis
 description: Preis-Infos
+section-group: main
 permalink: /abo/preis
 ---
 
