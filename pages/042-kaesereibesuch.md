@@ -1,6 +1,7 @@
 ---
 title: Käsereibesuch
 description: Käsereibesuche für Gnossis
+section-group: main
 permalink: /kaeserei/kaesereibesuch
 ---
 
