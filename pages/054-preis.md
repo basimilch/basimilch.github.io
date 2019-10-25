@@ -16,7 +16,7 @@ festgelegt.
 - Der Betriebsgeitrag für ein **4 Liter** Grundabo ist **CHF 650.- pro Jahr**.
 - Ein Zusatzabo von **2 Litern** kostet **CHF 300.-**.
 
-_Siehe [Kontaktseite]({{ site.baseurl }}{% link pages/070-kontakt.md %}) für
+_Siehe [Kontaktseite]({{ site.baseurl }}{% link pages/080-kontakt.md %}) für
 Bezahlmöglichkeiten._
 
 ## Anteilsscheine
