@@ -705,4 +705,20 @@
   address_2:    8953 Dietikon
   map_url:      https://goo.gl/maps/F3rrJgxua3F2
   
-
+- title:        Schnuppermorgen für basimilch Abo Interessierte
+  title_short:  Schnuppermorgen 
+  # type:         intern
+  start:       2019-11-30 09:00:00 +0200
+  end:         2019-11-30 11:00:00 +0200
+  # day_hours:    09:00 - 11:00 
+  url:          https://basimil.ch
+  image:        logos/basimilch_avatar.png
+  place:        Biohof im Basi
+  place_url:    https://basimil.ch/kontakt
+  address:      Alte Kindhauserstrasse 3
+  address_2:    8953 Dietikon
+  map_url:      https://goo.gl/maps/F3rrJgxua3F2
+  info: >
+    Bist Du interessiert an einem basimilch Milchprodukteabo fürs 2019 und würdest Dir gerne einmal den Hof, die Käserei und 
+    basimilkers im Einsatz anschauen? Komm am 30.11.2019 zum Schnuppermorgen mit Hofführung und Käsedegustation vorbei und lern
+    den Basi Hof gleich selbst kennen. Von 9 bis 11.00 Uhr. (Anmeldung über info@basimil.ch).
