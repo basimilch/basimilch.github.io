@@ -4,7 +4,7 @@ section-group: main
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href="">
+<div class="alert alert-success" role="alert" data-href="https://basimil.ch/genossenschaft/#abo-bestellen/">
   <div style="font-weight:bold;"> 
  "basimilch Abos 2020 - Milchprodukte mit dem kleinen Unterschied!" 
   </div>
@@ -14,7 +14,7 @@ Alle Entscheidungsfreudigen können sich direkt über unsere Website für ein Ab
    <div style="font-weight:bold;">
    => Hier gehts zur Anmeldung
     </div>
-   </div>
+ </div>
    
 {% include newsletter_form.html %}
 
