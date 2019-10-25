@@ -1,6 +1,7 @@
 ---
 title: Mitarbeit
 description: Mitarbeit-Infos
+section-group: main
 permalink: /abo/mitarbeit
 ---
 
