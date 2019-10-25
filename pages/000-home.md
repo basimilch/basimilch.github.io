@@ -13,7 +13,8 @@ Alle Entscheidungsfreudigen können sich direkt über unsere Website für ein Ab
 
    <div style="font-weight:bold;">
    => Hier gehts zur Anmeldung
-    </div>  
+    </div>
+   </div>
    
 {% include newsletter_form.html %}
 
