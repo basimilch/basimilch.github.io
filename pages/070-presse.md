@@ -1,6 +1,7 @@
 ---
 title: Presse
 description: Medienmitteilung für die Presse und Artikel über die Genossenschaft
+section-group: main
 permalink: /presse/
 ---
 
