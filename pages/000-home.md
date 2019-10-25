@@ -1,5 +1,6 @@
 ---
 title: Willkommen!
+section-group: main
 permalink: /
 ---
 
