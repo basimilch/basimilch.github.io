@@ -1,6 +1,7 @@
 ---
 title: Praktikumsstelle
 description: Stellenbeschrieb für Praktika
+section-group: main
 permalink: /kaeserei/praktikum
 ---
 
