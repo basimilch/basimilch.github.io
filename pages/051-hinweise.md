@@ -1,6 +1,7 @@
 ---
 title: Rohmilchprodukte
 description: Hinweise und Handhabung der Rohmilchprodukte
+section-group: main
 permalink: /abo/hinweise/
 ---
 
