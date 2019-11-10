@@ -691,19 +691,31 @@
   address_2:    Bucheggstrasse 93, 8057 Zürich
   map_url:      https://goo.gl/maps/oGLzaNDWvAA4xqsx7
   
-- title:        RACLETTE ÖFELI EVENT
+- title:        FONDUE CAQUELON EVENT
   title_short:   
   # type:         intern
   start:       2019-11-30 19:00:00 +0200
   end:         2019-11-30 22:00:00 +0200
   # day_hours:    19:00 - 22:00 
   url:                
-  image:        logos/basimilch_avatar.png
+  image:        logos/2019_FondueCaquelonEvent.png
   place:        Biohof im Basi
   place_url:    https://basimil.ch/kontakt
   address:      Alte Kindhauserstr. 3
   address_2:    8953 Dietikon
   map_url:      https://goo.gl/maps/F3rrJgxua3F2
+  info: >
+    Am Samstag, 30. November ab 19 Uhr, findet wieder der beliebte 
+ÖFELI-EVENT statt. Doch etwas ist dieses Jahr neu: Aus Öfeli wird 
+Caquelon und aus Raclette wird Fondue. Dazu gibt es wie gewohnt 
+Feuer zum Aufwärmen, Tee und Wein, Musik von den Limmetchlüpplern 
+und vieles mehr. Dafür werdet Ihr eine Fondue-Mischung im Abo 
+erhalten. Das Brot, Wein und andere Zutaten werden wir organisieren.
+
+Ihr braucht Euch bloss anzumelden bei info@basimil.ch. Sagt uns 
+bitte auch, falls Ihr uns aushelfen könntet und ob Ihr zusätzliche 
+Fondue-Mischung haben möchtet. Dazu Caquelon, Rechaud, Gabeln und 
+eine Zehnernote pro Kopf einpacken und los geht’s auf den basi-Hof! 
   
 - title:        Schnuppermorgen für basimilch Abo Interessierte
   title_short:  Schnuppermorgen 
