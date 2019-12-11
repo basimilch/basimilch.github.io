@@ -26,7 +26,7 @@ Um ein Abo zu bestellen, musst du Genossenschafter_in bei
 Abo) erwerben.
 
 **Wir führen eine Warteliste. Neueinstieg ist möglich per 1. Januar
-2020.** Die neuen Abos werden nach Anmeldedatum
+2020.** Die freien Abos werden nach Anmeldedatum
 vergeben und es gilt „Es hät solangs hät“. 
 
 ## Genosschenschafter_in werden
