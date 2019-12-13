@@ -1,5 +1,5 @@
 ---
-title: Offene Stelle als Käser_in
+title: Offene Stelle als Käser_in 2020
 description: Stellenbeschrieb für eine Stelle als Käser_in (70%)
 section-group: main
 permalink: /kaeserei/stellenbeschrieb
