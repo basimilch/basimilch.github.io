@@ -12,6 +12,7 @@ Wir haben noch einige basimilch Abos für's 2020 zu vergeben. Interessiert? Die 
    <div style="font-weight:bold;">
   => Hier gehts zur Anmeldung
     </div>
+  Bei Problemen mit dem Anmeldeformular bitte ein Email an info@basimil.ch!
  </div>
    
 {% include newsletter_form.html %}
