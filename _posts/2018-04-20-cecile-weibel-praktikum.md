@@ -16,4 +16,4 @@ das vielleicht irgendwann noch zu einem Bilderbuch wird… Getragen von
 der wunderbar herzlichen Atmosphäre auf dem Basihof. Danke Rosmarie,
 Bettina, Anita, Fabian, Silja, Sanna, Elia und allen Tieren!
 
-**"Warum der Käse wie der Mond ausschaut"** {% include pdf_download_subtle_link pdf="20180420_cecile_weibel_kaese_maerchen" %}
+{% include button-maerli-pdf-download.html %}
