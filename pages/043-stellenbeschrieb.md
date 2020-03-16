@@ -3,6 +3,8 @@ title: Offene Stelle als Käser_in
 description: Stellenbeschrieb für eine Stelle als Käser_in (70%)
 section-group: main
 permalink: /kaeserei/stellenbeschrieb
+exclude-from-menu: true
+published: true # SOURCE: http://stackoverflow.com/a/14440927/5764181
 ---
 
 # Käser_in (70%)
