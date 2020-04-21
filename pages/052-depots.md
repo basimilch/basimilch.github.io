@@ -11,7 +11,7 @@ die Depots dort, wo unsere Abonnent_innen sie einfach und schnell erreichen.
 Falls keines der Depots in deiner Nähe liegt, sind wir offen für neue
 Standortvorschläge in der Stadt Zürich und Umgebung Dietikon.
 
-## Depots 2019
+## Depots
 
 Auslieferung am Freitag (auf der Karte blau markiert):
 1. **Zirkus Chnopf**, Altstetten, [Flurstrasse 85, 8047, Altstetten](https://www.google.ch/maps/place/Flurstrasse+85+8047+Altstetten+Switzerland)
