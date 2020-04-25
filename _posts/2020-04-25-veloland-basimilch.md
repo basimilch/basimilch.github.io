@@ -18,6 +18,7 @@ Zwei Routen vom Depot Brache Guggach ins Basi findet ihr hier als Beispiele eing
 
 
 
+
 <iframe src='https://map.geo.admin.ch/embed.html?lang=de&topic=ech&bgLayer=ch.swisstopo.swissimage&layers=ch.swisstopo.zeitreihen,ch.bfs.gebaeude_wohnungs_register,ch.bav.haltestellen-oev,ch.swisstopo.swisstlm3d-wanderwege,ch.astra.veloland,KML%7C%7Chttps:%2F%2Fprojects.geoidee.ch%2Fbasi%2Fgugach_direkt.kml,KML%7C%7Chttps:%2F%2Fprojects.geoidee.ch%2Fbasi%2Fgugach_schoen.kml,KML%7C%7Chttps:%2F%2Fpublic.geo.admin.ch%2FJdz-8_3zSM6Y251r46Fu1Q&layers_visibility=false,false,false,false,true,true,true,true&layers_timestamp=18641231,,,,,,,&layers_opacity=1,1,1,0.8,0.55,1,1,1&E=2674818.00&N=1250935.00&zoom=5' width='400' height='300' frameborder='0' style='border:0'></iframe>
 
 
@@ -26,7 +27,7 @@ Zwei Routen vom Depot Brache Guggach ins Basi findet ihr hier als Beispiele eing
 
 **So teilt ihr eure Lieblingsrouten mit basimilch:**
 
-1) Klick auf die Karte oben und öffne sie in *map.geo.admin.ch*
+1) Öffne die Karte oben im Browser indem du auf *"In map.geo.admin.ch ansehen"* drückst
 
 2) Klicke auf *Zeichnen und Messen auf der Karte*
 
