@@ -27,17 +27,17 @@ Zwei Routen vom Depot Brache Guggach ins Basi findet ihr hier als Beispiele eing
 
 **So teilt ihr eure Lieblingsrouten mit basimilch:**
 
-1) Öffne die Karte oben im Browser indem du auf *"In map.geo.admin.ch ansehen"* drückst
+1) Öffne die Karte oben im Browser indem du auf ***"In map.geo.admin.ch ansehen"*** drückst
 
-2) Klicke auf *Zeichnen und Messen auf der Karte*
+2) Klicke auf ***Zeichnen und Messen auf der Karte***
 
-3) *Vergrössere* die Karte soweit, dass du deiner Route genau folgen kannst.
+3) ***Vergrössere*** die Karte soweit, dass du deiner Route genau folgen kannst.
 
-4) Wähle *Linie* um deine Route einzuzeichnen. Digitalisiere den Routenverlauf Punkt um Punkt und beende die Route mit Doppelklick.
+4) Wähle ***Linie*** um deine Route einzuzeichnen. Digitalisiere den Routenverlauf Punkt um Punkt und beende die Route mit Doppelklick.
 
-5) Füge eine *Beschreibung* deiner Route hinzu: Start Punkt (ein basimilch Depot) und Charakteristik der Route (Panorama, schnell, oder anderes)
+5) Füge eine ***Beschreibung*** deiner Route hinzu: Start Punkt (ein basimilch Depot) und Charakteristik der Route (Panorama, schnell, oder anderes)
 
-6) Drücke *Teilen* und wähle *Link zum Editieren ihrer Zeichnung / Stil:*. Kopiere den Link in ein Email und sende sie an {% include email_link username="info" subject="Praktikum" body="Hoi!\n\n"%}
+6) Drücke ***Teilen*** und wähle ***Link zum Editieren ihrer Zeichnung / Stil:***. Kopiere den Link in ein Email und sende sie an {% include email_link username="info" subject="Praktikum" body="Hoi!\n\n"%}
 
 
 Wir sammeln die Routen und stellen sie auf der basimilch Website für ale zur Verfügung. Herzlichen Dank für deine Tipps! 
