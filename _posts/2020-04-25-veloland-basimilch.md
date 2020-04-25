@@ -6,9 +6,8 @@ tags: [Depot]
 ---
 
 Die Velosaison ist wieder voll im Gange. Der Basi Hof ist per Velo von jedem Depot her gut erreichbar und viele kommen zum basimilch 
-Mitarbeitseinsatz per Rad. Allerdings kann das Limmattal für Velofahrende ein rechter Verkehrsdschungel sein, mit 
-es sei den man kennt die schönsten, schnellsten und sichersten Routen. Wir wollen deshalb deine Tipps und Tricks um querfeldein, auf lauschigen Strässschen, 
-oder möglichst direkt und trotzdem sicher über die Zürcher Stadtgrenze hinaus nach Dietikon ins Basi zu kommen.  
+Mitarbeitseinsatz per Rad. Allerdings kann das Limmattal für Velofahrende ein rechter Verkehrsdschungel sein, es sei denn man kennt die schönsten, schnellsten und sichersten Routen. Wir wollen deshalb deine Tipps und Tricks um querfeldein, auf lauschigen Strässschen, 
+oder möglichst direkt und trotzdem sicher über die Zürcher Stadtgrenze hinaus nach Dietikon zu kommen.  
 
 
 **Velorouten auf map.geo.admin.ch**
@@ -25,11 +24,11 @@ Zwei Routen vom Depot Brache Guggach ins Basi findet ihr hier als Beispiele eing
 
 **So teilt ihr eure Lieblingsrouten mit basimilch:**
 
-1) Öffne [**map.geo.admin.ch**] (https://map.geo.admin.ch/)
+1) Öffne <https://map.geo.admin.ch/>
 
 2) Klicke auf **Zeichnen und Messen auf der Karte**
 
-3) Vergrössere die Karte soweit, dass du deiner Route genau folgen kannst.
+3) **Vergrössere** die Karte soweit, dass du deiner Route genau folgen kannst.
 
 4) Wähle **Linie** um deine Route einzuzeichnen. Digitalisiere den Routenverlauf Punkt um Punkt und beende die Route mit Doppelklick.
 
