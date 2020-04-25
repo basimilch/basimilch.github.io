@@ -1,7 +1,7 @@
 ---
 title: basimilch Veloland
 subtitle:
-header-image: posts/2020-04-25-veloland/veloland.jpg
+header-image: posts/2020-04-25-veloland-basimilch/veloland.jpg
 tags: [Depot]
 ---
 
