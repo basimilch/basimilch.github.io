@@ -31,9 +31,9 @@ Zwei Routen vom Depot Brache Guggach ins Basi findet ihr hier als Beispiele eing
 
 4) Wähle ***Linie*** um deine Route einzuzeichnen. Digitalisiere den Routenverlauf Punkt um Punkt und beende die Route mit Doppelklick.
 
-5) Füge eine ***Beschreibung*** deiner Route hinzu: Start Punkt (ein basimilch Depot) und Charakteristik der Route (Panorama, schnell, oder anderes)
+5) Füge eine ***Beschreibung*** deiner Route hinzu: Start Punkt (ein basimilch Depot) und Charakteristik der Route (Panorama-Route, Schnell-Route, oder anderes)
 
 6) Drücke ***Teilen*** und wähle ***Link zum Editieren ihrer Zeichnung / Stil:***. Kopiere den Link in ein Email und sende sie an {% include email_link username="info" subject="Praktikum" body="Hoi!\n\n"%}
 
 
-Wir sammeln die Routen und stellen sie auf der basimilch Website für ale zur Verfügung. Herzlichen Dank für deine Tipps! 
+Wir sammeln die Routen und stellen sie auf der basimilch Website für alle zur Verfügung. Herzlichen Dank für deine Tipps! 
