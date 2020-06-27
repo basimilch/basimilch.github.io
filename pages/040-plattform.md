@@ -5,8 +5,6 @@ section-group: main
 permalink: /plattform/
 ---
 
-# meine.basimil.ch unsere neue IT-Plattform
-
 Die neue Plattform [meine.basimil.ch](https://mein.basimil.ch) ist bereit! Für das erste Login findest du hier eine umfassende Betriebsanleitung zum herunterladen:
 
 
