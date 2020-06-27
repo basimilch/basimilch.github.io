@@ -17,7 +17,7 @@ verwalten und Mitabonnent_innen erfassen. Selbstverständlich läuft auch die Pl
 wieder über meine.basimil.ch. Falls du deine Abozusammenstellung per Mitte August 2020 anpassen möchtest, mach das direkt auf der neuen Plattform.
 
 Log dich ein, und vergiss nicht deine Kontaktdaten zu überprüfen. 
-Wichtig für's kurzfristige Koordinieren der Einsätez sind eure Telefonnummern. Bitte tragt diese bei euren Personalien ein.
+Wichtig für's kurzfristige Koordinieren der Einsätze sind eure Telefonnummern. Bitte tragt diese bei euren Personalien ein.
 
 Die neue Plattform basiert auf [juntagrico](https://juntagrico.org).
 
