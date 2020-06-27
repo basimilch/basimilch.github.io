@@ -734,3 +734,25 @@
     Bist Du interessiert an einem basimilch Milchprodukteabo fürs 2020 und würdest Dir gerne einmal den Hof, die Käserei und 
     basimilkers im Einsatz anschauen? Komm am 30.11.2019 zum Schnuppermorgen mit Hofführung und Käsedegustation vorbei und lern
     den Basi Hof gleich selbst kennen. Von 9 bis 11.00 Uhr. (Anmeldung über info@basimil.ch). Bis dann!
+    
+    
+    - title:     basimilch im Zollfrei Ladencafe
+  title_short:  Degustation 
+  # type:         extern
+  start:       2020-09-25 14:00:00 +0200
+  end:         2020-09-25 17:00:00 +0200
+  # day_hours:   14:00 - 17:00 
+  url:          https://basimil.ch
+  image:        logos/basimilch_avatar.png
+  place:        Zollfrei Ladencafe
+  place_url:    https://foifi.ch/
+  address:      Freilagerstrasse 71
+  address_2:    8047 Zürich
+  map_url:      https://goo.gl/maps/4WwPd9opW9R43ibc8
+  info: >
+    Käse, Quark und Joghurt feinschmecken an der Degustation von basimilch im Zollfrei Ladencafe. 
+    Vieles verbindet die kooperative Käserei basimilch und das ZeroWaste Ladencafe, vorallem die 
+    Liebe zu feinen Lebensmitteln, die mit zukunftsweisenden Ansätzen in die Haushalte gelangen. 
+    Mehrweggebinde, Vermeidung von Food Waste, biologische und faire Produktion: wie wir das bei 
+    basimilch angehen erfahrt ihr direkt von der Bäuerin, dem Käser, und der Genossenschafterin an 
+    unserem Infostand im Zollfrei Ladencafe. 
