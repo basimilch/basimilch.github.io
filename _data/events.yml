@@ -756,3 +756,22 @@
     Mehrweggebinde, Vermeidung von Food Waste, biologische und faire Produktion: wie wir das bei 
     basimilch angehen erfahrt ihr direkt von der Bäuerin, dem Käser, und der Genossenschafterin an 
     unserem Infostand im Zollfrei Ladencafe. 
+    
+- title:        Standaktion am Martinimarkt
+  title_short:  Martinimarkt
+  # type:         extern
+  start:        2020-11-07 10:00:00 +0200
+  end:          2020-11-07 16:00:00 +0200
+  # day_hours:    10:00 - 16:00 
+  url:          
+  image:        logos/Martinimarkt.png
+  place:        Stadtgärtnerei, Zürich
+  place_url:    https://www.stadt-zuerich.ch/stadtgaertnerei
+  address:      Sackzelg 27
+  address_2:    8047 Zürich
+  map_url:      https://goo.gl/maps/XUuYAPKBHNP2
+  info: >
+    Grün Stadt Zürich will mit dem Martinimarkt lokale Produkte fördern. 
+    Beispielsweise von Zürcher Bauernhöfen, aus Obstgärten oder Flächen der nahen Umgebung, 
+    frische oder haltbar gemachte Esswaren, Getränke, saisonale Pflanzen und Blumen. 
+    Innovative Produkte mit überwiegend lokalem Charakter für Geschenke, auch im Bereich Handwerk.
