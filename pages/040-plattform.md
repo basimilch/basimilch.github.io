@@ -5,14 +5,14 @@ section-group: main
 permalink: /plattform/
 ---
 
-Die neue Plattform [meine.basimil.ch](https://mein.basimil.ch) ist bereit! Für das erste Login findest du hier eine umfassende Betriebsanleitung zum herunterladen:
+Die neue Plattform [meine.basimil.ch](https://meine.basimil.ch) ist bereit! Für das erste Login findest du hier eine umfassende Betriebsanleitung zum herunterladen:
 
 
 {% include button-plattform-anleitung-pdf-download.html %}
 
 Du darfst dich auf viele Neuerungen freuen. So kannst du beispielsweise zukünftig dein Abo direkt online
 verwalten und Mitabonnent_innen erfassen. Selbstverständlich läuft auch die Planung deiner Arbeitseinsätze 
-wieder über meine.basimil.ch. Falls du deine Abozusammenstellung per Mitte August 2020 anpassen möchtest, mach das direkt auf der neuen Plattform.
+wieder über [meine.basimil.ch](https://meine.basimil.ch). Falls du deine Abozusammenstellung per Mitte August 2020 anpassen möchtest, mach das direkt auf der neuen Plattform.
 
 Log dich ein, und vergiss nicht deine Kontaktdaten zu überprüfen. 
 Wichtig für's kurzfristige Koordinieren der Einsätze sind eure Telefonnummern. Bitte tragt diese unbedingt bei den Personalien ein.
