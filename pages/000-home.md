@@ -4,15 +4,15 @@ section-group: main
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href="https://basimil.ch/genossenschaft/#abo-bestellen/">
+<div class="alert alert-success" role="alert" data-href="https://basimil.ch/kaeserei/praktikum/">
   <div style="font-weight:bold;"> 
- basimilch Abos 2020 - Milchprodukte mit dem kleinen Unterschied! 
+ Praktikum in der Hofkäserei von basimilch, ab August 2020, 2-3 Tage/Woche
   </div>
-Wir haben noch einige basimilch Abos für's 2020 zu vergeben. Interessiert? Die freien Abos werden nach Anmeldedatum vergeben und es gilt „Es hät solangs hät“.
+	Mithilfe in der vielseiteigen, kooperativ organisierten Hofkäserei bei der Produktion von Käse, Jogurt, Quark, und im Käsekeller. Du bringst ein hohes Hygienebewusstsein mit, bist fit, Käsebretter waschen schreckt dich nicht ab. Keinen Lohn, dafür bieten wir Wissen und Erfahrung, Mittagessen sowie leckere Naturalien.
    <div style="font-weight:bold;">
-  => Hier gehts zur Anmeldung
+  => Mehr Infos zum basimilch Praktikum hier
     </div>
-  Bei Problemen mit dem Anmeldeformular bitte ein Email an info@basimil.ch!
+ 
  </div>
    
 {% include newsletter_form.html %}
