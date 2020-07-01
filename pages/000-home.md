@@ -4,7 +4,7 @@ section-group: main
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href="https://basimil.ch/kaeserei/praktikum/">
+<div class="alert alert-success" role="alert" data-href="https://basimil.ch/kaeserei/praktikum">
   <div style="font-weight:bold;"> 
  Praktikum in der Hofkäserei von basimilch, ab August 2020, 2-3 Tage/Woche
   </div>
