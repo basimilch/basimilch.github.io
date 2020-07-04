@@ -4,13 +4,13 @@ section-group: main
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href="https://basimil.ch/kaeserei/praktikum">
+<div class="alert alert-success" role="alert" data-href="">
   <div style="font-weight:bold;"> 
- Praktikum in der Hofkäserei von basimilch, ab August 2020, 2-3 Tage/Woche
+ basimilch Sommerpause
   </div>
-	Mithilfe in der vielseiteigen, kooperativ organisierten Hofkäserei bei der Produktion von Käse, Jogurt, Quark, und im Käsekeller. Du bringst ein hohes Hygienebewusstsein mit, bist fit, Käsebretter waschen schreckt dich nicht ab. Keinen Lohn, dafür bieten wir Wissen und Erfahrung, Mittagessen sowie leckere Naturalien.
+	Es ist Abopause! Um in den Depotkühlschränken verwaisende Joghurts zu vermeiden, um dem Käsi-Team eine Verschnaufpause zu gönnen, und um allen die Vorfreude auf die nächste Lieferung zu ermöglichen, machen wir Sommerpause. Die erste Lieferung im August ist am Freitag 14.8., respektive am Samstag 15.8. Bis dahin wünschen wir einen wunderschönen Sommer!
    <div style="font-weight:bold;">
-  => Mehr Infos zum basimilch Praktikum hier
+ 
     </div>
  
  </div>
