@@ -8,7 +8,7 @@ permalink: /
   <div style="font-weight:bold;"> 
  basimilch Sommerpause
   </div>
-	Es ist Abopause! Um in den Depotkühlschränken verwaisende Joghurts zu vermeiden, um dem Käsi-Team eine Verschnaufpause zu gönnen, und um allen die Vorfreude auf die nächste Lieferung zu ermöglichen, machen wir Pause mit abfüllen, abpacken, ausliefern. Wir konzentrieren uns ganz auf eine schöne Käseproduktion jeden zweiten Morgen, nichts mehr und nichts weniger. Es geht wieder los im August, am Freitag 14.8., respektive am Samstag 15.8. Bis dahin wünschen wir einen wunderschönen Sommer!
+	Es ist Abopause! Um in den Depotkühlschränken verwaisende Joghurts zu vermeiden, um dem Käsi-Team eine Verschnaufpause zu gönnen, und um allen die Vorfreude auf die nächste Lieferung zu ermöglichen, machen wir Pause mit abfüllen, abpacken, ausliefern. Wir konzentrieren uns ganz auf eine schöne Käseproduktion jeden zweiten Morgen, auf dass basimilch mit vollem Käsekeller in den Herbst startet. Es geht wieder los im August, am Freitag 14.8., respektive am Samstag 15.8. Bis dahin wünschen wir einen wunderschönen Sommer!
    <div style="font-weight:bold;">
  
     </div>
