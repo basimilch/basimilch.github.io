@@ -4,7 +4,7 @@ section-group: main
 permalink: /
 ---
 
-<div class="alert alert-success" role="alert" data-href="">
+<div class="alert alert-success" role="alert" data-href="https://basimil.ch/genossenschaft/#abo-bestellen">
   <div style="font-weight:bold;"> 
  basimilch jetzt auch in Schlieren!
   </div>
