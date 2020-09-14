@@ -8,7 +8,7 @@ permalink: /
   <div style="font-weight:bold;"> 
  basimilch jetzt auch in Schlieren!
   </div>
-	Im Oktober soll das basimilch Depot in Schlieren eröffnet wercden. Unser Depotkühlschrank steht an der Sägestrasse 10A, bei der Familie Weidmann, im Zentrum von Schlieren und sehr gut zugänglich. Noch ist basimilch in Schlieren ein Geheimtipp, aber wer weiss, vielleicht schon bald der Herbsthit 2020. Darum sichere dir noch heute ein basimilch Abo. Anmelden kannst du duch hier: https://basimil.ch/genossenschaft/#abo-bestellen
+	Im Oktober soll das basimilch Depot in Schlieren eröffnet werden. Unser Depotkühlschrank steht an der Sägestrasse 10A, bei der Familie Weidmann, im Zentrum von Schlieren und sehr gut zugänglich. Noch ist basimilch in Schlieren ein Geheimtipp, aber wer weiss, vielleicht schon bald der Herbsthit 2020. Darum sichere dir noch heute ein basimilch Abo. Anmelden kannst du dich hier: https://basimil.ch/genossenschaft/#abo-bestellen
    <div style="font-weight:bold;">
  
     </div>
