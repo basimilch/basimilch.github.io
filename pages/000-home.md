@@ -6,9 +6,9 @@ permalink: /
 
 <div class="alert alert-success" role="alert" data-href="">
   <div style="font-weight:bold;"> 
- basimilch Sommerpause vorbei!
+ basimilch jetzt auch in Schlieren!
   </div>
-	Dieses Wochenende geht es wieder los mit basimilch Lieferungen: am Freitag 14.8., respektive am Samstag 15.8. Gruss vom Basi!
+	Im Oktober soll das basimilch Depot in Schlieren eröffnet wercden. Unser Depotkühlschrank steht an der Sägestrasse 10A, bei der Familie Weidmann, im Zentrum von Schlieren und sehr gut zugänglich. Noch ist basimilch in Schlieren ein Geheimtipp, aber wer weiss, vielleicht schon bald der Herbsthit 2020. Darum sichert Euch noch heute ein basimilch Abo!
    <div style="font-weight:bold;">
  
     </div>
