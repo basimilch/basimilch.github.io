@@ -6,9 +6,9 @@ permalink: /
 
 <div class="alert alert-success" role="alert" data-href="https://basimil.ch/genossenschaft/#abo-bestellen">
   <div style="font-weight:bold;"> 
- basimilch 2021 - die erste Auslieferung ist am 1./2. Januar!
+ basimilch 2021 - es hat noch einige freie Abos!
   </div>
-	Willkommen im Neuen Jahr. Wir freuen uns ins 6. basimilch Jahr zu starten. Es hat noch immer einige freie Abos. Wer jetzt noch aufspringen will melde sich bitte einfach über den Anmeldeknopf an: https://basimil.ch/genossenschaft/#abo-bestellen
+	Wir freuen uns ins 6. basimilch Jahr zu starten. Es hat noch immer einige freie Abos. Wer jetzt noch aufspringen will melde sich bitte einfach über den Anmeldeknopf an: https://basimil.ch/genossenschaft/#abo-bestellen . Wer sich vorgängig bei basimilch umsehen will, am 6. Februar gibt es einen Schnuppertag, von 9-11h im Basi. Anmeldung an info@basimil.ch. 
    <div style="font-weight:bold;">
  
     </div>
