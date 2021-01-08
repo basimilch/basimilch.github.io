@@ -18,5 +18,5 @@ nur ein Besuch pro Genossenschafter_in möglich.
 
 **wie:** In der Käserei ist Hygiene höchstes Gebot, darum saubere Kleider anziehen. Weiter bitte die [basimilch Hygieneinformationen](https://basimil.ch/abo/mitarbeit#hygieneinformationen) beachten. 
 
-**anmelden:** per Email bei Bettina vom Käsi-Team {% include email_link username="bettina" %}
+**anmelden:** per Email übers basimilch-Infomail {% include email_link username="info" %}
 
