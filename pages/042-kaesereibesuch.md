@@ -14,7 +14,7 @@ Was passiert, wenn aus einem Kessi voll Milch in nur einem Morgen sechs Laibe K�
 **wer:** 2 - max 4 Leute. Kinder ab 5 Jahren sind willkommen. Da wir nur wenige Termine anbieten können, ist vorerst 
 nur ein Besuch pro Genossenschafter_in möglich.
 
-**wann:** Morgens von 8.15-11.30. Einige Male pro Jahr. Nächste Termine: 1. März, 7. März, 18. April, 26. April 2020
+**wann:** Morgens von 8.15-11.30. Einige Male pro Jahr. Die Termine werden per basimilch Genossenschaftsnewsletter bekanntgegeben.
 
 **wie:** In der Käserei ist Hygiene höchstes Gebot, darum saubere Kleider anziehen. Weiter bitte die [basimilch Hygieneinformationen](https://basimil.ch/abo/mitarbeit#hygieneinformationen) beachten. 
 
