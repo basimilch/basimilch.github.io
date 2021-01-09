@@ -5,7 +5,7 @@ section-group: main
 permalink: /plattform/
 ---
 
-Die Plattform [meine.basimil.ch](https://meine.basimil.ch) für die online Verwaltung deines basimilch Abos. Hier findest du die Anleitung zum herunterladen:
+[meine.basimil.ch](https://meine.basimil.ch) - die Plattform für die online Verwaltung deines basimilch Abos. Hier findest du die Anleitung zum herunterladen:
 
 
 {% include button-plattform-anleitung-pdf-download.html %}
