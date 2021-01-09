@@ -10,7 +10,7 @@ Die Plattform [meine.basimil.ch](https://meine.basimil.ch) für die online Verwa
 
 {% include button-plattform-anleitung-pdf-download.html %}
 
-Über die Plattform kannst du deine Kontaktdaten aktuell halten, Mitabonnent_innen erfassen, und dich für die Arbeitseinsätze einschreiben. Du findest auch die Infos zu deinem Depot bei den Infos zu deinem Abo. Falls du deine Abozusammenstellung anpassen möchtest, mach das direkt auf der Plattform. Deine Abo-Änderungen werden per Anfang Januar, Anfang Mai und nach der Sommerpause, Mitte August, aktiviert. Die Abo-Kündigungen per Ende Jahr können ebenfalls jederzeit hier von dir eingegeben werden.
+Über die meine.basimil.ch Plattform organisierst du alles rund um dein basimilch Abo: von Abo-Änderungen, über Arbeitseinsätze, zu Depot-Änderungen und dem Registrieren für bestimmte Tätigkeitsbereiche.
 
 Log dich ein, und vergiss nicht deine Kontaktdaten zu überprüfen. 
 Wichtig für's kurzfristige Koordinieren der Einsätze sind eure Telefonnummern. Bitte tragt diese unbedingt bei den Personalien ein.
