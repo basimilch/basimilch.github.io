@@ -5,17 +5,15 @@ section-group: main
 permalink: /plattform/
 ---
 
-Die neue Plattform [meine.basimil.ch](https://meine.basimil.ch) ist bereit! Für das erste Login findest du hier eine umfassende Betriebsanleitung zum herunterladen:
+Die Plattform [meine.basimil.ch](https://meine.basimil.ch) für die online Verwaltung deines basimilch Abos. Hier findest du die Anleitung zum herunterladen:
 
 
 {% include button-plattform-anleitung-pdf-download.html %}
 
-Du darfst dich auf viele Neuerungen freuen. So kannst du beispielsweise zukünftig dein Abo direkt online
-verwalten und Mitabonnent_innen erfassen. Selbstverständlich läuft auch die Planung deiner Arbeitseinsätze 
-wieder über [meine.basimil.ch](https://meine.basimil.ch). Falls du deine Abozusammenstellung per Mitte August 2020 anpassen möchtest, mach das direkt auf der neuen Plattform.
+Über die Plattform kannst du deine Kontaktdaten aktuell halten, Mitabonnent_innen erfassen, und dich für die Arbeitseinsätze einschreiben. Du findest auch die Infos zu deinem Depot bei den Infos zu deinem Abo. Falls du deine Abozusammenstellung anpassen möchtest, mach das direkt auf der Plattform. Deine Abo-Änderungen werden per Anfang Januar, Anfang Mai und nach der Sommerpause, Mitte August, aktiviert. Die Abo-Kündigungen per Ende Jahr können ebenfalls jederzeit hier von dir eingegeben werden.
 
 Log dich ein, und vergiss nicht deine Kontaktdaten zu überprüfen. 
 Wichtig für's kurzfristige Koordinieren der Einsätze sind eure Telefonnummern. Bitte tragt diese unbedingt bei den Personalien ein.
 
-Die neue Plattform basiert auf [juntagrico](https://juntagrico.org).
+Die meine.basimil.ch Plattform basiert auf [juntagrico](https://juntagrico.org).
 
