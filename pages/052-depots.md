@@ -14,6 +14,7 @@ Standortvorschläge in der Stadt Zürich und Umgebung Dietikon.
 ## Depots
 
 Auslieferung am Freitag (auf der Karte blau markiert):
+1. **Schlieren**, Schlieren, [Sägestrasse 8, 8952 Schlieren](https://goo.gl/maps/qpRfPVBfoDVB5uB58)
 1. **Zirkus Chnopf**, Altstetten, [Flurstrasse 85, 8047, Altstetten](https://www.google.ch/maps/place/Flurstrasse+85+8047+Altstetten+Switzerland)
 1. **Im Gut**, Sihlfeld, [Gutstrasse 135, 8055 Zürich](https://www.google.ch/maps/place/Gutstrasse+95+8055+Zürich)
 1. **Kalkbreite**, Kreis 3 - 4, [Genossenschaft Kalkbreite, Kalkbreitestrasse 2, 8003 Zürich](https://www.google.ch/maps/place/Kalkbreitestrasse+2+8003+Zürich+Switzerland)
