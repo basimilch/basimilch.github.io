@@ -828,3 +828,18 @@
   map_url:      https://goo.gl/maps/6Y1RBG72N6xZZhiF6
   info: >
     Der BrupbiMärt ist der Quartiermarkt in Wiedikon. Das Ernährungsforum Zürich offeriert für Mitglieder einen Stand am Brupbimärt. Das ist eine tolle Chance für basimilch über unsere Genossenschaft und unser Abo zu informieren. 
+
+
+- title:        Herbstfest auf dem Basi Hof
+  title_short:   
+  # type:         intern
+  start:       2021-09-19 10:30:00 +0200
+  end:         2021-09-19 15:00:00 +0200
+  # day_hours:    10:30 - 15:00 
+  url:               
+  image:        logos/basimilch_avatar.png
+  place:        Biohof im Basi
+  place_url:    https://basimil.ch/kontakt
+  address:      Alte Kindhauserstr. 3
+  address_2:    8953 Dietikon
+  map_url:      https://goo.gl/maps/F3rrJgxua3F2
